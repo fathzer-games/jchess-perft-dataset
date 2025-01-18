@@ -1,4 +1,5 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.fathzer/jchess-perft-dataset)](https://central.sonatype.com/artifact/com.fathzer/jchess-perft-dataset)
+[![javadoc](https://javadoc.io/badge2/com.fathzer/jchess-perft-dataset/javadoc.svg)](https://javadoc.io/doc/com.fathzer/jchess-perft-dataset) 
 [![License](https://img.shields.io/badge/License-GNU%20GPL-brightgreen.svg)](https://github.com/fathzer-games/jchess-perft-dataset/blob/master/LICENSE)
 
 # jchess-perft-dataset
