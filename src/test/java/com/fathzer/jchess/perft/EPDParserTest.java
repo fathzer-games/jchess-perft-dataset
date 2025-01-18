@@ -25,7 +25,7 @@ class EPDParserTest {
     @Test
     void truncatedFen() throws IOException {
         final EPDParser parser = new EPDParser();
-        final List<PerfTTestData> list = parser.read(EPDParser.class.getResourceAsStream("/com/fathzer/jchess/perft/TruncatedFen.epd"), StandardCharsets.UTF_8);
+        final List<PerfTTestData> list = parser.read(EPDParser.class.getResourceAsStream("/com/fathzer/jchess/perft/truncatedFen.epd"), StandardCharsets.UTF_8);
         assertEquals(1, list.size());
         final PerfTTestData data = list.get(0);
         assertEquals("1", data.getName());
