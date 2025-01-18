@@ -4,9 +4,9 @@
 # jchess-perft-dataset
 A chess [Perft](https://www.chessprogramming.org/Perft) DataSet
 
-This artifact contains standard chess and [chess960](https://en.wikipedia.org/wiki/Chess960) perft resource file in two formats:
+This artifact contains standard chess and [chess960](https://en.wikipedia.org/wiki/Chess960) perft resource files in two formats:
 - [EPD (Extended Position Description) format](https://www.chessprogramming.org/Extended_Position_Description)
-- The format expected by ```com.fathzer.games.perft.PerftParser``` in [com.fathzer:games-core](https://github.com/fathzer-games/games-core).
+- The format expected by ```com.fathzer.games.perft.PerftParser``` in [com.fathzer:games-core](https://github.com/fathzer-games/games-core) (see below).
 
 These files are also available [here](https://github.com/fathzer-games/jchess-perft-dataset/tree/main/src/main/resources).
 
@@ -22,7 +22,7 @@ try (InputStream stream = getClass().getResourceAsStream("/com/fathzer/jchess/pe
 	List<PerfTTestData> tests = new EPDParser().read(stream, StandardCharsets.UTF_8);
 }
 ```
-Please note that the PerfTTestData class is from [com.fathzer:games-core library](https://github.com/fathzer-games/games-core). As the maven dependency to games-core is optional, you have to add the games-core artifact in your pom.xml.
+Please note that the PerfTTestData class is from [com.fathzer:games-core library](https://github.com/fathzer-games/games-core). As the maven dependency to this library is optional, you have to add the games-core artifact in your pom.xml in order to run this example.
 
 ## How to parse [com.fathzer:games-core library](https://github.com/fathzer-games/games-core) files
 
