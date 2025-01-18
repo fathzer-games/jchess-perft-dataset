@@ -13,8 +13,6 @@ import com.fathzer.games.perft.PerfTTestData;
 /** An <a href="https://www.chessprogramming.org/Extended_Position_Description">EPD parser</a>
  */
 public class EPDParser {
-	private String fen;
-
 	private static class UnclosedReader extends InputStreamReader {
 		public UnclosedReader(InputStream in, Charset set) {
 			super(in, set);
