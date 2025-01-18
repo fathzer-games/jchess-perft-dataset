@@ -10,6 +10,15 @@
 	<artifactId>jchess-perft-dataset</artifactId>
 	<version>2.0.0</version>
 
+	<name>jchess-perft-dataset</name>
+	<description>Some chess perfT data sets.</description>
+	<url>https://github.com/fathzer-games/jchess-perft-dataset</url>
+
+	<scm>
+		<url>https://github.com/fathzer-games/https://github.com/fathzer-games/jchess-perft-dataset.git</url>
+		<connection>https://github.com/fathzer-games/https://github.com/fathzer-games/jchess-perft-dataset.git</connection>
+	</scm>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<check-dependencies-java-version>17</check-dependencies-java-version>
