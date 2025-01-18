@@ -1,0 +1,7680 @@
+name 1
+position fen bqnb1rkr/pp3ppp/3ppn2/2p5/5P2/P2P4/NPP1P1PP/BQ1BNRKR w HFhf -
+perft1 21
+perft2 528
+perft3 12189
+perft4 326672
+perft5 8146062
+
+name 2
+position fen 2nnrbkr/p1qppppp/8/1ppb4/6PP/3PP3/PPP2P2/BQNNRBKR w HEhe -
+perft1 21
+perft2 807
+perft3 18002
+perft4 667366
+perft5 16253601
+
+name 3
+position fen b1q1rrkb/pppppppp/3nn3/8/P7/1PPP4/4PPPP/BQNNRKRB w GE -
+perft1 20
+perft2 479
+perft3 10471
+perft4 273318
+perft5 6417013
+
+name 4
+position fen qbbnnrkr/2pp2pp/p7/1p2pp2/8/P3PP2/1PPP1KPP/QBBNNR1R w hf -
+perft1 22
+perft2 593
+perft3 13440
+perft4 382958
+perft5 9183776
+
+name 5
+position fen 1nbbnrkr/p1p1ppp1/3p4/1p3P1p/3Pq2P/8/PPP1P1P1/QNBBNRKR w HFhf -
+perft1 28
+perft2 1120
+perft3 31058
+perft4 1171749
+perft5 34030312
+
+name 6
+position fen qnbnr1kr/ppp1b1pp/4p3/3p1p2/8/2NPP3/PPP1BPPP/QNB1R1KR w HEhe -
+perft1 29
+perft2 899
+perft3 26578
+perft4 824055
+perft5 24851983
+
+name 7
+position fen q1bnrkr1/ppppp2p/2n2p2/4b1p1/2NP4/8/PPP1PPPP/QNB1RRKB w ge -
+perft1 30
+perft2 860
+perft3 24566
+perft4 732757
+perft5 21093346
+
+name 8
+position fen qbn1brkr/ppp1p1p1/2n4p/3p1p2/P7/6PP/QPPPPP2/1BNNBRKR w HFhf -
+perft1 25
+perft2 635
+perft3 17054
+perft4 465806
+perft5 13203304
+
+name 9
+position fen qnnbbrkr/1p2ppp1/2pp3p/p7/1P5P/2NP4/P1P1PPP1/Q1NBBRKR w HFhf -
+perft1 24
+perft2 572
+perft3 15243
+perft4 384260
+perft5 11110203
+
+name 10
+position fen qn1rbbkr/ppp2p1p/1n1pp1p1/8/3P4/P6P/1PP1PPPK/QNNRBB1R w hd -
+perft1 28
+perft2 811
+perft3 23175
+perft4 679699
+perft5 19836606
+
+name 11
+position fen qnr1bkrb/pppp2pp/3np3/5p2/8/P2P2P1/NPP1PP1P/QN1RBKRB w GDg -
+perft1 33
+perft2 823
+perft3 26895
+perft4 713420
+perft5 23114629
+
+name 12
+position fen qb1nrkbr/1pppp1p1/1n3p2/p1B4p/8/3P1P1P/PPP1P1P1/QBNNRK1R w HEhe -
+perft1 31
+perft2 855
+perft3 25620
+perft4 735703
+perft5 21796206
+
+name 13
+position fen qnnbrk1r/1p1ppbpp/2p5/p4p2/2NP3P/8/PPP1PPP1/Q1NBRKBR w HEhe -
+perft1 26
+perft2 790
+perft3 21238
+perft4 642367
+perft5 17819770
+
+name 14
+position fen 1qnrkbbr/1pppppp1/p1n4p/8/P7/1P1N1P2/2PPP1PP/QN1RKBBR w HDhd -
+perft1 37
+perft2 883
+perft3 32187
+perft4 815535
+perft5 29370838
+
+name 15
+position fen qn1rkrbb/pp1p1ppp/2p1p3/3n4/4P2P/2NP4/PPP2PP1/Q1NRKRBB w FDfd -
+perft1 24
+perft2 585
+perft3 14769
+perft4 356950
+perft5 9482310
+
+name 16
+position fen bb1qnrkr/pp1p1pp1/1np1p3/4N2p/8/1P4P1/P1PPPP1P/BBNQ1RKR w HFhf -
+perft1 29
+perft2 864
+perft3 25747
+perft4 799727
+perft5 24219627
+
+name 17
+position fen bnqbnr1r/p1p1ppkp/3p4/1p4p1/P7/3NP2P/1PPP1PP1/BNQB1RKR w HF -
+perft1 26
+perft2 889
+perft3 24353
+perft4 832956
+perft5 23701014
+
+name 18
+position fen bnqnrbkr/1pp2pp1/p7/3pP2p/4P1P1/8/PPPP3P/BNQNRBKR w HEhe d6
+perft1 31
+perft2 984
+perft3 28677
+perft4 962591
+perft5 29032175
+
+name 19
+position fen b1qnrrkb/ppp1pp1p/n2p1Pp1/8/8/P7/1PPPP1PP/BNQNRKRB w GE -
+perft1 20
+perft2 484
+perft3 10532
+perft4 281606
+perft5 6718715
+
+name 20
+position fen n1bqnrkr/pp1ppp1p/2p5/6p1/2P2b2/PN6/1PNPPPPP/1BBQ1RKR w HFhf -
+perft1 23
+perft2 732
+perft3 17746
+perft4 558191
+perft5 14481581
+
+name 21
+position fen n1bb1rkr/qpnppppp/2p5/p7/P1P5/5P2/1P1PPRPP/NQBBN1KR w Hhf -
+perft1 27
+perft2 697
+perft3 18724
+perft4 505089
+perft5 14226907
+
+name 22
+position fen nqb1rbkr/pppppp1p/4n3/6p1/4P3/1NP4P/PP1P1PP1/1QBNRBKR w HEhe -
+perft1 28
+perft2 641
+perft3 18811
+perft4 456916
+perft5 13780398
+
+name 23
+position fen n1bnrrkb/pp1pp2p/2p2p2/6p1/5B2/3P4/PPP1PPPP/NQ1NRKRB w GE -
+perft1 28
+perft2 606
+perft3 16883
+perft4 381646
+perft5 10815324
+
+name 24
+position fen nbqnbrkr/2ppp1p1/pp3p1p/8/4N2P/1N6/PPPPPPP1/1BQ1BRKR w HFhf -
+perft1 26
+perft2 626
+perft3 17268
+perft4 437525
+perft5 12719546
+
+name 25
+position fen nq1bbrkr/pp2nppp/2pp4/4p3/1PP1P3/1B6/P2P1PPP/NQN1BRKR w HFhf -
+perft1 21
+perft2 504
+perft3 11812
+perft4 302230
+perft5 7697880
+
+name 26
+position fen nqnrb1kr/2pp1ppp/1p1bp3/p1B5/5P2/3N4/PPPPP1PP/NQ1R1BKR w HDhd -
+perft1 30
+perft2 672
+perft3 19307
+perft4 465317
+perft5 13454573
+
+name 27
+position fen nqn2krb/p1prpppp/1pbp4/7P/5P2/8/PPPPPKP1/NQNRB1RB w g -
+perft1 21
+perft2 461
+perft3 10608
+perft4 248069
+perft5 6194124
+
+name 28
+position fen nb1n1kbr/ppp1rppp/3pq3/P3p3/8/4P3/1PPPRPPP/NBQN1KBR w Hh -
+perft1 19
+perft2 566
+perft3 11786
+perft4 358337
+perft5 8047916
+
+name 29
+position fen nqnbrkbr/1ppppp1p/p7/6p1/6P1/P6P/1PPPPP2/NQNBRKBR w HEhe -
+perft1 20
+perft2 382
+perft3 8694
+perft4 187263
+perft5 4708975
+
+name 30
+position fen nq1rkb1r/pp1pp1pp/1n2bp1B/2p5/8/5P1P/PPPPP1P1/NQNRKB1R w HDhd -
+perft1 24
+perft2 809
+perft3 20090
+perft4 673811
+perft5 17647882
+
+name 31
+position fen nqnrkrb1/pppppp2/7p/4b1p1/8/PN1NP3/1PPP1PPP/1Q1RKRBB w FDfd -
+perft1 26
+perft2 683
+perft3 18102
+perft4 473911
+perft5 13055173
+
+name 32
+position fen bb1nqrkr/1pp1ppp1/pn5p/3p4/8/P2NNP2/1PPPP1PP/BB2QRKR w HFhf -
+perft1 29
+perft2 695
+perft3 21193
+perft4 552634
+perft5 17454857
+
+name 33
+position fen bnn1qrkr/pp1ppp1p/2p5/b3Q1p1/8/5P1P/PPPPP1P1/BNNB1RKR w HFhf -
+perft1 44
+perft2 920
+perft3 35830
+perft4 795317
+perft5 29742670
+
+name 34
+position fen bnnqrbkr/pp1p2p1/2p1p2p/5p2/1P5P/1R6/P1PPPPP1/BNNQRBK1 w Ehe -
+perft1 33
+perft2 1022
+perft3 32724
+perft4 1024721
+perft5 32898113
+
+name 35
+position fen b1nqrkrb/2pppppp/p7/1P6/1n6/P4P2/1P1PP1PP/BNNQRKRB w GEge -
+perft1 23
+perft2 638
+perft3 15744
+perft4 446539
+perft5 11735969
+
+name 36
+position fen n1bnqrkr/3ppppp/1p6/pNp1b3/2P3P1/8/PP1PPP1P/NBB1QRKR w HFhf -
+perft1 29
+perft2 728
+perft3 20768
+perft4 532084
+perft5 15621236
+
+name 37
+position fen n2bqrkr/p1p1pppp/1pn5/3p1b2/P6P/1NP5/1P1PPPP1/1NBBQRKR w HFhf -
+perft1 20
+perft2 533
+perft3 12152
+perft4 325059
+perft5 8088751
+
+name 38
+position fen nnbqrbkr/1pp1p1p1/p2p4/5p1p/2P1P3/N7/PPQP1PPP/N1B1RBKR w HEhe -
+perft1 27
+perft2 619
+perft3 18098
+perft4 444421
+perft5 13755384
+
+name 39
+position fen nnbqrkr1/pp1pp2p/2p2b2/5pp1/1P5P/4P1P1/P1PP1P2/NNBQRKRB w GEge -
+perft1 32
+perft2 1046
+perft3 33721
+perft4 1111186
+perft5 36218182
+
+name 40
+position fen nb1qbrkr/p1pppp2/1p1n2pp/8/1P6/2PN3P/P2PPPP1/NB1QBRKR w HFhf -
+perft1 25
+perft2 521
+perft3 14021
+perft4 306427
+perft5 8697700
+
+name 41
+position fen nnq1brkr/pp1pppp1/8/2p4P/8/5K2/PPPbPP1P/NNQBBR1R w hf -
+perft1 23
+perft2 724
+perft3 18263
+perft4 571072
+perft5 15338230
+
+name 42
+position fen nnqrbb1r/pppppk2/5pp1/7p/1P6/3P2PP/P1P1PP2/NNQRBBKR w HD -
+perft1 30
+perft2 717
+perft3 21945
+perft4 547145
+perft5 17166700
+
+name 43
+position fen nnqr1krb/p1p1pppp/2bp4/8/1p1P4/4P3/PPP2PPP/NNQRBKRB w GDgd -
+perft1 25
+perft2 873
+perft3 20796
+perft4 728628
+perft5 18162741
+
+name 44
+position fen nbnqrkbr/p2ppp2/1p4p1/2p4p/3P3P/3N4/PPP1PPPR/NB1QRKB1 w Ehe -
+perft1 24
+perft2 589
+perft3 15190
+perft4 382317
+perft5 10630667
+
+name 45
+position fen n1qbrkbr/p1ppp2p/2n2pp1/1p6/1P6/2P3P1/P2PPP1P/NNQBRKBR w HEhe -
+perft1 22
+perft2 592
+perft3 14269
+perft4 401976
+perft5 10356818
+
+name 46
+position fen 2qrkbbr/ppn1pppp/n1p5/3p4/5P2/P1PP4/1P2P1PP/NNQRKBBR w HDhd -
+perft1 27
+perft2 750
+perft3 20584
+perft4 605458
+perft5 16819085
+
+name 47
+position fen 1nqr1rbb/pppkp1pp/1n3p2/3p4/1P6/5P1P/P1PPPKP1/NNQR1RBB w - -
+perft1 24
+perft2 623
+perft3 15921
+perft4 429446
+perft5 11594634
+
+name 48
+position fen bbn1rqkr/pp1pp2p/4npp1/2p5/1P6/2BPP3/P1P2PPP/1BNNRQKR w HEhe -
+perft1 23
+perft2 730
+perft3 17743
+perft4 565340
+perft5 14496370
+
+name 49
+position fen bn1brqkr/pppp2p1/3npp2/7p/PPP5/8/3PPPPP/BNNBRQKR w HEhe -
+perft1 25
+perft2 673
+perft3 17835
+perft4 513696
+perft5 14284338
+
+name 50
+position fen bn1rqbkr/ppp1ppp1/1n6/2p4p/7P/3P4/PPP1PPP1/BN1RQBKR w HDhd -
+perft1 25
+perft2 776
+perft3 20562
+perft4 660217
+perft5 18486027
+
+name 51
+position fen bnnr1krb/ppp2ppp/3p4/3Bp3/q1P3PP/8/PP1PPP2/BNNRQKR1 w GDgd -
+perft1 29
+perft2 1040
+perft3 30772
+perft4 1053113
+perft5 31801525
+
+name 52
+position fen 1bbnrqkr/pp1ppppp/8/2p5/n7/3PNPP1/PPP1P2P/NBB1RQKR w HEhe -
+perft1 24
+perft2 598
+perft3 15673
+perft4 409766
+perft5 11394778
+
+name 53
+position fen nnbbrqkr/p2ppp1p/1pp5/8/6p1/N1P5/PPBPPPPP/N1B1RQKR w HEhe -
+perft1 26
+perft2 530
+perft3 14031
+perft4 326312
+perft5 8846766
+
+name 54
+position fen nnbrqbkr/2p1p1pp/p4p2/1p1p4/8/NP6/P1PPPPPP/N1BRQBKR w HDhd -
+perft1 17
+perft2 496
+perft3 10220
+perft4 303310
+perft5 7103549
+
+name 55
+position fen nnbrqk1b/pp2pprp/2pp2p1/8/3PP1P1/8/PPP2P1P/NNBRQRKB w d -
+perft1 33
+perft2 820
+perft3 27856
+perft4 706784
+perft5 24714401
+
+name 56
+position fen 1bnrbqkr/ppnpp1p1/2p2p1p/8/1P6/4PPP1/P1PP3P/NBNRBQKR w HDhd -
+perft1 27
+perft2 705
+perft3 19760
+perft4 548680
+perft5 15964771
+
+name 57
+position fen n1rbbqkr/pp1pppp1/7p/P1p5/1n6/2PP4/1P2PPPP/NNRBBQKR w HChc -
+perft1 22
+perft2 631
+perft3 14978
+perft4 431801
+perft5 10911545
+
+name 58
+position fen n1rqb1kr/p1pppp1p/1pn4b/3P2p1/P7/1P6/2P1PPPP/NNRQBBKR w HChc -
+perft1 24
+perft2 477
+perft3 12506
+perft4 263189
+perft5 7419372
+
+name 59
+position fen nnrqbkrb/pppp1pp1/7p/4p3/6P1/2N2B2/PPPPPP1P/NR1QBKR1 w Ggc -
+perft1 29
+perft2 658
+perft3 19364
+perft4 476620
+perft5 14233587
+
+name 60
+position fen n1nrqkbr/ppb2ppp/3pp3/2p5/2P3P1/5P2/PP1PPB1P/NBNRQK1R w HDhd -
+perft1 32
+perft2 801
+perft3 25861
+perft4 681428
+perft5 22318948
+
+name 61
+position fen 2rbqkbr/p1pppppp/1nn5/1p6/7P/P4P2/1PPPP1PB/NNRBQK1R w HChc -
+perft1 27
+perft2 647
+perft3 18030
+perft4 458057
+perft5 13189156
+
+name 62
+position fen nn1qkbbr/pp2ppp1/2rp4/2p4p/P2P4/1N5P/1PP1PPP1/1NRQKBBR w HCh -
+perft1 24
+perft2 738
+perft3 18916
+perft4 586009
+perft5 16420659
+
+name 63
+position fen nnrqk1bb/p1ppp2p/5rp1/1p3p2/1P4P1/5P1P/P1PPP3/NNRQKRBB w FCc -
+perft1 25
+perft2 795
+perft3 20510
+perft4 648945
+perft5 17342527
+
+name 64
+position fen bb1nrkqr/ppppn2p/4ppp1/8/1P4P1/4P3/P1PPKP1P/BBNNR1QR w he -
+perft1 29
+perft2 664
+perft3 20024
+perft4 498376
+perft5 15373803
+
+name 65
+position fen bnnbrkqr/1p1ppp2/8/p1p3pp/1P6/N4P2/PBPPP1PP/2NBRKQR w HEhe -
+perft1 31
+perft2 770
+perft3 24850
+perft4 677212
+perft5 22562080
+
+name 66
+position fen 1nnrkbqr/p1pp1ppp/4p3/1p6/1Pb1P3/6PB/P1PP1P1P/BNNRK1QR w HDhd -
+perft1 27
+perft2 776
+perft3 22133
+perft4 641002
+perft5 19153245
+
+name 67
+position fen bnr1kqrb/pppp1pp1/1n5p/4p3/P3P3/3P2P1/1PP2P1P/BNNRKQRB w GDg -
+perft1 26
+perft2 624
+perft3 16411
+perft4 435426
+perft5 11906515
+
+name 68
+position fen nbbnrkqr/p1ppp1pp/1p3p2/8/2P5/4P3/PP1P1PPP/NBBNRKQR w HEhe -
+perft1 25
+perft2 624
+perft3 15561
+perft4 419635
+perft5 10817378
+
+name 69
+position fen nn1brkqr/pp1bpppp/8/2pp4/P4P2/1PN5/2PPP1PP/N1BBRKQR w HEhe -
+perft1 23
+perft2 659
+perft3 16958
+perft4 476567
+perft5 13242252
+
+name 70
+position fen n1brkbqr/ppp1pp1p/6pB/3p4/2Pn4/8/PP2PPPP/NN1RKBQR w HDhd -
+perft1 32
+perft2 1026
+perft3 30360
+perft4 978278
+perft5 29436320
+
+name 71
+position fen nnbrkqrb/p2ppp2/Q5pp/1pp5/4PP2/2N5/PPPP2PP/N1BRK1RB w GDgd -
+perft1 36
+perft2 843
+perft3 29017
+perft4 715537
+perft5 24321197
+
+name 72
+position fen nbnrbk1r/pppppppq/8/7p/8/1N2QPP1/PPPPP2P/NB1RBK1R w HDhd -
+perft1 36
+perft2 973
+perft3 35403
+perft4 1018054
+perft5 37143354
+
+name 73
+position fen nnrbbkqr/2pppp1p/p7/6p1/1p2P3/4QPP1/PPPP3P/NNRBBK1R w HChc -
+perft1 36
+perft2 649
+perft3 22524
+perft4 489526
+perft5 16836636
+
+name 74
+position fen nnrkbbqr/1p2pppp/p2p4/2p5/8/1N2P1P1/PPPP1P1P/1NKRBBQR w hc -
+perft1 26
+perft2 672
+perft3 18136
+perft4 477801
+perft5 13342771
+
+name 75
+position fen n1rkbqrb/pp1ppp2/2n3p1/2p4p/P5PP/1P6/2PPPP2/NNRKBQRB w GCgc -
+perft1 24
+perft2 804
+perft3 20712
+perft4 684001
+perft5 18761475
+
+name 76
+position fen nbkr1qbr/1pp1pppp/pn1p4/8/3P2P1/5R2/PPP1PP1P/NBN1KQBR w H -
+perft1 30
+perft2 627
+perft3 18669
+perft4 423329
+perft5 12815016
+
+name 77
+position fen nnr1kqbr/pp1pp1p1/2p5/b4p1p/P7/1PNP4/2P1PPPP/N1RBKQBR w HChc -
+perft1 12
+perft2 421
+perft3 6530
+perft4 227044
+perft5 4266410
+
+name 78
+position fen n1rkqbbr/p1pp1pp1/np2p2p/8/8/N4PP1/PPPPP1BP/N1RKQ1BR w HChc -
+perft1 27
+perft2 670
+perft3 19119
+perft4 494690
+perft5 14708490
+
+name 79
+position fen nnr1qrbb/p2kpppp/1p1p4/2p5/6P1/PP1P4/2P1PP1P/NNRKQRBB w FC -
+perft1 27
+perft2 604
+perft3 17043
+perft4 409665
+perft5 11993332
+
+name 80
+position fen bbnnrkrq/ppp1pp2/6p1/3p4/7p/7P/PPPPPPP1/BBNNRRKQ w ge -
+perft1 20
+perft2 559
+perft3 12242
+perft4 355326
+perft5 8427161
+
+name 81
+position fen bnnbrkr1/ppp2p1p/5q2/3pp1p1/4P3/1N4P1/PPPPRP1P/BN1B1KRQ w Gge -
+perft1 26
+perft2 1036
+perft3 27228
+perft4 1028084
+perft5 28286576
+
+name 82
+position fen bn1rkbrq/1pppppp1/p6p/1n6/3P4/6PP/PPPRPP2/BNN1KBRQ w Ggd -
+perft1 29
+perft2 633
+perft3 19278
+perft4 455476
+perft5 14333034
+
+name 83
+position fen b1nrkrqb/1p1npppp/p2p4/2p5/5P2/4P2P/PPPP1RP1/BNNRK1QB w Dfd -
+perft1 25
+perft2 475
+perft3 12603
+perft4 270909
+perft5 7545536
+
+name 84
+position fen 1bbnrkrq/ppppppp1/8/7p/1n4P1/1PN5/P1PPPP1P/NBBR1KRQ w Gge -
+perft1 30
+perft2 803
+perft3 25473
+perft4 709716
+perft5 23443854
+
+name 85
+position fen nnbbrkrq/2pp1pp1/1p5p/pP2p3/7P/N7/P1PPPPP1/N1BBRKRQ w GEge -
+perft1 18
+perft2 432
+perft3 9638
+perft4 242350
+perft5 6131124
+
+name 86
+position fen nnbrkbrq/1pppp1p1/p7/7p/1P2Pp2/BN6/P1PP1PPP/1N1RKBRQ w GDgd -
+perft1 27
+perft2 482
+perft3 13441
+perft4 282259
+perft5 8084701
+
+name 87
+position fen n1brkrqb/pppp3p/n3pp2/6p1/3P1P2/N1P5/PP2P1PP/N1BRKRQB w FDfd -
+perft1 28
+perft2 642
+perft3 19005
+perft4 471729
+perft5 14529434
+
+name 88
+position fen nbnrbk2/p1pppp1p/1p3qr1/6p1/1B1P4/1N6/PPP1PPPP/1BNR1RKQ w d -
+perft1 30
+perft2 796
+perft3 22780
+perft4 687302
+perft5 20120565
+
+name 89
+position fen nnrbbrkq/1pp2ppp/3p4/p3p3/3P1P2/1P2P3/P1P3PP/NNRBBKRQ w GC -
+perft1 31
+perft2 827
+perft3 24538
+perft4 663082
+perft5 19979594
+
+name 90
+position fen nnrkbbrq/1pp2p1p/p2pp1p1/2P5/8/8/PP1PPPPP/NNRKBBRQ w Ggc -
+perft1 24
+perft2 762
+perft3 19283
+perft4 624598
+perft5 16838099
+
+name 91
+position fen nnr1brqb/1ppkp1pp/8/p2p1p2/1P1P4/N1P5/P3PPPP/N1RKBRQB w FC -
+perft1 23
+perft2 640
+perft3 15471
+perft4 444905
+perft5 11343507
+
+name 92
+position fen nbnrkrbq/2ppp2p/p4p2/1P4p1/4PP2/8/1PPP2PP/NBNRKRBQ w FDfd -
+perft1 31
+perft2 826
+perft3 26137
+perft4 732175
+perft5 23555139
+
+name 93
+position fen 1nrbkr1q/1pppp1pp/1n6/p4p2/N1b4P/8/PPPPPPPB/N1RBKR1Q w FCfc -
+perft1 27
+perft2 862
+perft3 24141
+perft4 755171
+perft5 22027695
+
+name 94
+position fen nnrkrbbq/pppp2pp/8/4pp2/4P3/P7/1PPPBPPP/NNKRR1BQ w c -
+perft1 25
+perft2 792
+perft3 19883
+perft4 636041
+perft5 16473376
+
+name 95
+position fen n1rk1qbb/pppprpp1/2n4p/4p3/2PP3P/8/PP2PPP1/NNRKRQBB w ECc -
+perft1 25
+perft2 622
+perft3 16031
+perft4 425247
+perft5 11420973
+
+name 96
+position fen bbq1rnkr/pnp1pp1p/1p1p4/6p1/2P5/2Q1P2P/PP1P1PP1/BB1NRNKR w HEhe -
+perft1 36
+perft2 870
+perft3 30516
+perft4 811047
+perft5 28127620
+
+name 97
+position fen bq1brnkr/1p1ppp1p/1np5/p5p1/8/1N5P/PPPPPPP1/BQ1BRNKR w HEhe -
+perft1 22
+perft2 588
+perft3 13524
+perft4 380068
+perft5 9359618
+
+name 98
+position fen bq1rn1kr/1pppppbp/Nn4p1/8/8/P7/1PPPPPPP/BQ1RNBKR w HDhd -
+perft1 24
+perft2 711
+perft3 18197
+perft4 542570
+perft5 14692779
+
+name 99
+position fen bqnr1kr1/pppppp1p/6p1/5n2/4B3/3N2PP/PbPPPP2/BQNR1KR1 w GDgd -
+perft1 31
+perft2 1132
+perft3 36559
+perft4 1261476
+perft5 43256823
+
+name 100
+position fen qbb1rnkr/ppp3pp/4n3/3ppp2/1P3PP1/8/P1PPPN1P/QBB1RNKR w HEhe -
+perft1 28
+perft2 696
+perft3 20502
+perft4 541886
+perft5 16492398
+
+name 101
+position fen qnbbr1kr/pp1ppp1p/4n3/6p1/2p3P1/2PP1P2/PP2P2P/QNBBRNKR w HEhe -
+perft1 25
+perft2 655
+perft3 16520
+perft4 450189
+perft5 11767038
+
+name 102
+position fen 1nbrnbkr/p1ppp1pp/1p6/5p2/4q1PP/3P4/PPP1PP2/QNBRNBKR w HDhd -
+perft1 30
+perft2 1162
+perft3 33199
+perft4 1217278
+perft5 36048727
+
+name 103
+position fen q1brnkrb/p1pppppp/n7/1p6/P7/3P1P2/QPP1P1PP/1NBRNKRB w GDgd -
+perft1 32
+perft2 827
+perft3 26106
+perft4 718243
+perft5 23143989
+
+name 104
+position fen qbnrb1kr/ppp1pp1p/3p4/2n3p1/1P6/6N1/P1PPPPPP/QBNRB1KR w HDhd -
+perft1 29
+perft2 751
+perft3 23132
+perft4 610397
+perft5 19555214
+
+name 105
+position fen q1rbbnkr/pppp1p2/2n3pp/2P1p3/3P4/8/PP1NPPPP/Q1RBBNKR w HChc -
+perft1 29
+perft2 806
+perft3 24540
+perft4 687251
+perft5 21694330
+
+name 106
+position fen q1r1bbkr/pnpp1ppp/2n1p3/1p6/2P2P2/2N1N3/PP1PP1PP/Q1R1BBKR w HChc -
+perft1 32
+perft2 1017
+perft3 32098
+perft4 986028
+perft5 31204371
+
+name 107
+position fen 2rnbkrb/pqppppp1/1pn5/7p/2P5/P1R5/QP1PPPPP/1N1NBKRB w Ggc -
+perft1 26
+perft2 625
+perft3 16506
+perft4 434635
+perft5 11856964
+
+name 108
+position fen qbnr1kbr/p2ppppp/2p5/1p6/4n2P/P4N2/1PPP1PP1/QBNR1KBR w HDhd -
+perft1 27
+perft2 885
+perft3 23828
+perft4 767273
+perft5 21855658
+
+name 109
+position fen qnrbnk1r/pp1pp2p/5p2/2pbP1p1/3P4/1P6/P1P2PPP/QNRBNKBR w HChc -
+perft1 26
+perft2 954
+perft3 24832
+perft4 892456
+perft5 24415089
+
+name 110
+position fen qnrnk1br/p1p2ppp/8/1pbpp3/8/PP2N3/1QPPPPPP/1NR1KBBR w HChc -
+perft1 26
+perft2 783
+perft3 20828
+perft4 634267
+perft5 17477825
+
+name 111
+position fen qnrnkrbb/Bpppp2p/6p1/5p2/5P2/3PP3/PPP3PP/QNRNKR1B w FCfc -
+perft1 28
+perft2 908
+perft3 25730
+perft4 861240
+perft5 25251641
+
+name 112
+position fen bbnqrn1r/ppppp2k/5p2/6pp/7P/1QP5/PP1PPPP1/B1N1RNKR w HE -
+perft1 33
+perft2 643
+perft3 21790
+perft4 487109
+perft5 16693640
+
+name 113
+position fen b1qbrnkr/ppp1pp2/2np4/6pp/4P3/2N4P/PPPP1PP1/BQ1BRNKR w HEhe -
+perft1 28
+perft2 837
+perft3 24253
+perft4 745617
+perft5 22197063
+
+name 114
+position fen bnqr1bkr/pp1ppppp/2p5/4N3/5P2/P7/1PPPPnPP/BNQR1BKR w HDhd -
+perft1 25
+perft2 579
+perft3 13909
+perft4 341444
+perft5 8601011
+
+name 115
+position fen b1qr1krb/pp1ppppp/n2n4/8/2p5/2P3P1/PP1PPP1P/BNQRNKRB w GDgd -
+perft1 28
+perft2 707
+perft3 19721
+perft4 549506
+perft5 15583376
+
+name 116
+position fen nbbqr1kr/1pppp1pp/8/p1n2p2/4P3/PN6/1PPPQPPP/1BB1RNKR w HEhe -
+perft1 30
+perft2 745
+perft3 23416
+perft4 597858
+perft5 19478789
+
+name 117
+position fen nqbbrn1r/p1pppp1k/1p4p1/7p/4P3/1R3B2/PPPP1PPP/NQB2NKR w H -
+perft1 24
+perft2 504
+perft3 13512
+perft4 317355
+perft5 9002073
+
+name 118
+position fen nqbr1bkr/p1p1ppp1/1p1n4/3pN2p/1P6/8/P1PPPPPP/NQBR1BKR w HDhd -
+perft1 29
+perft2 898
+perft3 26532
+perft4 809605
+perft5 24703467
+
+name 119
+position fen nqbrn1rb/pppp1kp1/5p1p/4p3/P4B2/3P2P1/1PP1PP1P/NQ1RNKRB w GD -
+perft1 34
+perft2 671
+perft3 22332
+perft4 473110
+perft5 15556806
+
+name 120
+position fen nb1r1nkr/ppp1ppp1/2bp4/7p/3P2qP/P6R/1PP1PPP1/NBQRBNK1 w Dhd -
+perft1 38
+perft2 1691
+perft3 60060
+perft4 2526992
+perft5 88557078
+
+name 121
+position fen n1rbbnkr/1p1pp1pp/p7/2p1qp2/1B3P2/3P4/PPP1P1PP/NQRB1NKR w HChc -
+perft1 24
+perft2 913
+perft3 21595
+perft4 807544
+perft5 19866918
+
+name 122
+position fen nqrnbbkr/p2p1p1p/1pp5/1B2p1p1/1P3P2/4P3/P1PP2PP/NQRNB1KR w HChc -
+perft1 33
+perft2 913
+perft3 30159
+perft4 843874
+perft5 28053260
+
+name 123
+position fen nqr1bkrb/ppp1pp2/2np2p1/P6p/8/2P4P/1P1PPPP1/NQRNBKRB w GCgc -
+perft1 24
+perft2 623
+perft3 16569
+perft4 442531
+perft5 12681936
+
+name 124
+position fen nb1rnkbr/pqppppp1/1p5p/8/1PP4P/8/P2PPPP1/NBQRNKBR w HDhd -
+perft1 31
+perft2 798
+perft3 24862
+perft4 694386
+perft5 22616076
+
+name 125
+position fen nqrbnkbr/2p1p1pp/3p4/pp3p2/6PP/3P1N2/PPP1PP2/NQRB1KBR w HChc -
+perft1 24
+perft2 590
+perft3 14409
+perft4 383690
+perft5 9698432
+
+name 126
+position fen nqrnkbbr/pp1p1p1p/4p1p1/1p6/8/5P1P/P1PPP1P1/NQRNKBBR w HChc -
+perft1 30
+perft2 1032
+perft3 31481
+perft4 1098116
+perft5 34914919
+
+name 127
+position fen nqrnkrbb/p2ppppp/1p6/2p5/2P3P1/5P2/PP1PPN1P/NQR1KRBB w FCfc -
+perft1 30
+perft2 775
+perft3 23958
+perft4 668000
+perft5 21141738
+
+name 128
+position fen bbnrqrk1/pp2pppp/4n3/2pp4/P7/1N5P/BPPPPPP1/B2RQNKR w HD -
+perft1 23
+perft2 708
+perft3 17164
+perft4 554089
+perft5 14343443
+
+name 129
+position fen bnr1qnkr/p1pp1p1p/1p4p1/4p1b1/2P1P3/1P6/PB1P1PPP/1NRBQNKR w HChc -
+perft1 30
+perft2 931
+perft3 29249
+perft4 921746
+perft5 30026687
+
+name 130
+position fen b1rqnbkr/ppp1ppp1/3p3p/2n5/P3P3/2NP4/1PP2PPP/B1RQNBKR w HChc -
+perft1 24
+perft2 596
+perft3 15533
+perft4 396123
+perft5 11099382
+
+name 131
+position fen bnrqnr1b/pp1pkppp/2p1p3/P7/2P5/7P/1P1PPPP1/BNRQNKRB w GC -
+perft1 24
+perft2 572
+perft3 15293
+perft4 390903
+perft5 11208688
+
+name 132
+position fen n1brq1kr/bppppppp/p7/8/4P1Pn/8/PPPP1P2/NBBRQNKR w HDhd -
+perft1 20
+perft2 570
+perft3 13139
+perft4 371247
+perft5 9919113
+
+name 133
+position fen 1rbbqnkr/ppn1ppp1/3p3p/2p5/3P4/1N4P1/PPPBPP1P/1R1BQNKR w HBhb -
+perft1 29
+perft2 1009
+perft3 29547
+perft4 1040816
+perft5 31059587
+
+name 134
+position fen nrbq2kr/ppppppb1/5n1p/5Pp1/8/P5P1/1PPPP2P/NRBQNBKR w HBhb -
+perft1 20
+perft2 520
+perft3 11745
+perft4 316332
+perft5 7809837
+
+name 135
+position fen nrb1nkrb/pp3ppp/1qBpp3/2p5/8/P5P1/1PPPPP1P/NRBQNKR1 w GBgb -
+perft1 32
+perft2 850
+perft3 25642
+perft4 734088
+perft5 21981567
+
+name 136
+position fen 1br1bnkr/ppqppp1p/1np3p1/8/1PP4P/4N3/P2PPPP1/NBRQB1KR w HChc -
+perft1 32
+perft2 798
+perft3 24765
+perft4 691488
+perft5 22076141
+
+name 137
+position fen nrqbb1kr/1p1pp1pp/2p3n1/p4p2/3PP3/P5N1/1PP2PPP/NRQBB1KR w HBhb -
+perft1 32
+perft2 791
+perft3 26213
+perft4 684890
+perft5 23239122
+
+name 138
+position fen nrqn1bkr/ppppp1pp/4b3/8/4P1p1/5P2/PPPP3P/NRQNBBKR w HBhb -
+perft1 29
+perft2 687
+perft3 20223
+perft4 506088
+perft5 15236287
+
+name 139
+position fen nrqnbrkb/pppp1p2/4p2p/3B2p1/8/1P4P1/PQPPPP1P/NR1NBKR1 w GB -
+perft1 37
+perft2 764
+perft3 27073
+perft4 610950
+perft5 21284835
+
+name 140
+position fen nbrq1kbr/Bp3ppp/2pnp3/3p4/5P2/2P4P/PP1PP1P1/NBRQNK1R w HChc -
+perft1 40
+perft2 1271
+perft3 48022
+perft4 1547741
+perft5 56588117
+
+name 141
+position fen nrqbnkbr/1p2ppp1/p1p4p/3p4/1P6/8/PQPPPPPP/1RNBNKBR w HBhb -
+perft1 28
+perft2 757
+perft3 23135
+perft4 668025
+perft5 21427496
+
+name 142
+position fen nrqn1bbr/2ppkppp/4p3/pB6/8/2P1P3/PP1P1PPP/NRQNK1BR w HB -
+perft1 27
+perft2 642
+perft3 17096
+perft4 442653
+perft5 11872805
+
+name 143
+position fen nrqnkrb1/p1ppp2p/1p4p1/4bp2/4PP1P/4N3/PPPP2P1/NRQ1KRBB w FBfb -
+perft1 27
+perft2 958
+perft3 27397
+perft4 960350
+perft5 28520172
+
+name 144
+position fen 1bnrnqkr/pbpp2pp/8/1p2pp2/P6P/3P1N2/1PP1PPP1/BBNR1QKR w HDhd -
+perft1 27
+perft2 859
+perft3 23475
+perft4 773232
+perft5 21581178
+
+name 145
+position fen b1rbnqkr/1pp1ppp1/2n4p/p2p4/5P2/1PBP4/P1P1P1PP/1NRBNQKR w HChc -
+perft1 26
+perft2 545
+perft3 14817
+perft4 336470
+perft5 9537260
+
+name 146
+position fen 1nrnqbkr/p1pppppp/1p6/8/2b2P2/P1N5/1PP1P1PP/BNR1QBKR w HChc -
+perft1 24
+perft2 668
+perft3 17716
+perft4 494866
+perft5 14216070
+
+name 147
+position fen 1nrnqkrb/2ppp1pp/p7/1p3p2/5P2/N5K1/PPPPP2P/B1RNQ1RB w gc -
+perft1 33
+perft2 725
+perft3 23572
+perft4 559823
+perft5 18547476
+
+name 148
+position fen nbbr1qkr/p1pppppp/8/1p1n4/3P4/1N3PP1/PPP1P2P/1BBRNQKR w HDhd -
+perft1 28
+perft2 698
+perft3 20527
+perft4 539625
+perft5 16555068
+
+name 149
+position fen 1rbbnqkr/1pnppp1p/p5p1/2p5/2P4P/5P2/PP1PP1PR/NRBBNQK1 w Bhb -
+perft1 24
+perft2 554
+perft3 14221
+perft4 362516
+perft5 9863080
+
+name 150
+position fen nrb1qbkr/2pppppp/2n5/p7/2p5/4P3/PPNP1PPP/1RBNQBKR w HBhb -
+perft1 23
+perft2 618
+perft3 15572
+perft4 443718
+perft5 12044358
+
+name 151
+position fen nrb1qkrb/2ppppp1/p3n3/1p1B3p/2P5/6P1/PP1PPPRP/NRBNQK2 w Bgb -
+perft1 27
+perft2 593
+perft3 16770
+perft4 401967
+perft5 11806808
+
+name 152
+position fen nbrn1qkr/ppp1pp2/3p2p1/3Q3P/b7/8/PPPPPP1P/NBRNB1KR w HChc -
+perft1 39
+perft2 1056
+perft3 40157
+perft4 1133446
+perft5 42201531
+
+name 153
+position fen nr1bbqkr/pp1pp2p/1n3pp1/2p5/8/1P4P1/P1PPPPQP/NRNBBK1R w hb -
+perft1 25
+perft2 585
+perft3 15719
+perft4 406544
+perft5 11582539
+
+name 154
+position fen nr2bbkr/ppp1pppp/1n1p4/8/6PP/1NP4q/PP1PPP2/1RNQBBKR w HBhb -
+perft1 22
+perft2 742
+perft3 15984
+perft4 545231
+perft5 13287051
+
+name 155
+position fen 1rnqbkrb/ppp1p1p1/1n3p2/3p3p/P6P/4P3/1PPP1PP1/NRNQBRKB w gb -
+perft1 22
+perft2 574
+perft3 14044
+perft4 379648
+perft5 9968830
+
+name 156
+position fen nb1rqkbr/1pppp1pp/4n3/p4p2/6PP/5P2/PPPPPN2/NBR1QKBR w HCh -
+perft1 25
+perft2 621
+perft3 16789
+perft4 462600
+perft5 13378840
+
+name 157
+position fen nrnbqkbr/2pp2pp/4pp2/pp6/8/1P3P2/P1PPPBPP/NRNBQ1KR w hb -
+perft1 25
+perft2 656
+perft3 16951
+perft4 466493
+perft5 12525939
+
+name 158
+position fen nrnqkbbr/ppppp1p1/7p/5p2/8/P4PP1/NPPPP2P/NR1QKBBR w HBhb -
+perft1 28
+perft2 723
+perft3 20621
+perft4 547522
+perft5 15952533
+
+name 159
+position fen 1rnqkr1b/ppppp2p/1n3pp1/8/2P3P1/Pb1N4/1P1PPP1P/NR1QKRBB w FBfb -
+perft1 26
+perft2 713
+perft3 19671
+perft4 548875
+perft5 15865528
+
+name 160
+position fen bbnrnkqr/1pppp1pp/5p2/p7/7P/1P6/PBPPPPPR/1BNRNKQ1 w D -
+perft1 26
+perft2 649
+perft3 17834
+perft4 502279
+perft5 14375839
+
+name 161
+position fen bnrbk1qr/1ppp1ppp/p2np3/8/P7/2N2P2/1PPPP1PP/B1RBNKQR w HC -
+perft1 26
+perft2 621
+perft3 17569
+perft4 451452
+perft5 13514201
+
+name 162
+position fen br1nkbqr/ppppppp1/8/n6p/8/N1P2PP1/PP1PP2P/B1RNKBQR w HCh -
+perft1 29
+perft2 664
+perft3 20182
+perft4 512316
+perft5 16125924
+
+name 163
+position fen bnr1kqrb/pp1pppp1/2n5/2p5/1P4Pp/4N3/P1PPPP1P/BNKR1QRB w gc -
+perft1 36
+perft2 888
+perft3 31630
+perft4 789863
+perft5 27792175
+
+name 164
+position fen 1bbrnkqr/pp1p1ppp/2p1p3/1n6/5P2/3Q4/PPPPP1PP/NBBRNK1R w HDhd -
+perft1 36
+perft2 891
+perft3 31075
+perft4 781792
+perft5 26998966
+
+name 165
+position fen nrbbnk1r/pp2pppq/8/2pp3p/3P2P1/1N6/PPP1PP1P/1RBBNKQR w HBhb -
+perft1 29
+perft2 1036
+perft3 31344
+perft4 1139166
+perft5 35627310
+
+name 166
+position fen nr1nkbqr/ppp3pp/5p2/3pp3/6b1/3PP3/PPP2PPP/NRBNKBQR w hb -
+perft1 18
+perft2 664
+perft3 13306
+perft4 483892
+perft5 10658989
+
+name 167
+position fen nrbnk1rb/ppp1pq1p/3p4/5pp1/2P1P3/1N6/PP1PKPPP/1RBN1QRB w gb -
+perft1 25
+perft2 966
+perft3 24026
+perft4 920345
+perft5 23957242
+
+name 168
+position fen 1brnbkqr/pppppp2/6p1/7p/1Pn5/P1NP4/2P1PPPP/NBR1BKQR w HChc -
+perft1 22
+perft2 627
+perft3 13760
+perft4 395829
+perft5 9627826
+
+name 169
+position fen nrnbbk1r/p1pppppq/8/7p/1p6/P5PP/1PPPPPQ1/NRNBBK1R w HBhb -
+perft1 29
+perft2 888
+perft3 26742
+perft4 874270
+perft5 27229468
+
+name 170
+position fen n1nkb1qr/prppppbp/6p1/1p6/2P2P2/P7/1P1PP1PP/NRNKBBQR w HBh -
+perft1 29
+perft2 804
+perft3 24701
+perft4 688520
+perft5 21952444
+
+name 171
+position fen nr2bqrb/ppkpp1pp/1np5/5p1P/5P2/2P5/PP1PP1P1/NRNKBQRB w GB -
+perft1 22
+perft2 530
+perft3 13055
+perft4 347657
+perft5 9244693
+
+name 172
+position fen nbr1kqbr/p3pppp/2ppn3/1p4P1/4P3/1P6/P1PP1P1P/NBRNKQBR w HChc -
+perft1 23
+perft2 555
+perft3 14291
+perft4 350917
+perft5 9692630
+
+name 173
+position fen nr1bkqbr/1p1pp1pp/pnp2p2/8/6P1/P1PP4/1P2PP1P/NRNBKQBR w HBhb -
+perft1 22
+perft2 565
+perft3 13343
+perft4 365663
+perft5 9305533
+
+name 174
+position fen nr1kqbbr/np2pppp/p1p5/1B1p1P2/8/4P3/PPPP2PP/NRNKQ1BR w HBhb -
+perft1 32
+perft2 730
+perft3 23391
+perft4 556995
+perft5 18103280
+
+name 175
+position fen nrnk1rbb/p1p2ppp/3pq3/Qp2p3/1P1P4/8/P1P1PPPP/NRN1KRBB w fb -
+perft1 28
+perft2 873
+perft3 25683
+perft4 791823
+perft5 23868737
+
+name 176
+position fen bbnrnkrq/pp1ppp1p/6p1/2p5/6P1/P5RP/1PPPPP2/BBNRNK1Q w Dgd -
+perft1 37
+perft2 1260
+perft3 45060
+perft4 1542086
+perft5 54843403
+
+name 177
+position fen bnrb1rkq/ppnpppp1/3Q4/2p4p/7P/N7/PPPPPPP1/B1RBNKR1 w GC -
+perft1 38
+perft2 878
+perft3 31944
+perft4 800440
+perft5 28784300
+
+name 178
+position fen bnrnkbrq/p1ppppp1/1p5p/8/P2PP3/5P2/1PP3PP/BNRNKBRQ w GCgc -
+perft1 26
+perft2 617
+perft3 16992
+perft4 419099
+perft5 11965544
+
+name 179
+position fen bnrnkrqb/pp2p2p/2pp1pp1/8/P7/2PP1P2/1P2P1PP/BNRNKRQB w FCfc -
+perft1 26
+perft2 721
+perft3 19726
+perft4 560824
+perft5 15966934
+
+name 180
+position fen nbbrnkr1/1pppp1p1/p6q/P4p1p/8/5P2/1PPPP1PP/NBBRNRKQ w gd -
+perft1 18
+perft2 556
+perft3 10484
+perft4 316634
+perft5 6629293
+
+name 181
+position fen nrb1nkrq/2pp1ppp/p4b2/1p2p3/P4B2/3P4/1PP1PPPP/NR1BNRKQ w gb -
+perft1 24
+perft2 562
+perft3 14017
+perft4 355433
+perft5 9227883
+
+name 182
+position fen nrbnkbrq/p3p1pp/1p6/2pp1P2/8/3PP3/PPP2P1P/NRBNKBRQ w GBgb -
+perft1 31
+perft2 746
+perft3 24819
+perft4 608523
+perft5 21019301
+
+name 183
+position fen nrbnkrqb/pppp1p1p/4p1p1/8/7P/2P1P3/PPNP1PP1/1RBNKRQB w FBfb -
+perft1 20
+perft2 459
+perft3 9998
+perft4 242762
+perft5 5760165
+
+name 184
+position fen nbrn1krq/ppp1p2p/6b1/3p1pp1/8/4N1PP/PPPPPP2/NBR1BRKQ w gc -
+perft1 27
+perft2 835
+perft3 23632
+perft4 766397
+perft5 22667987
+
+name 185
+position fen nrnbbkrq/p1pp2pp/5p2/1p6/2P1pP1B/1P6/P2PP1PP/NRNB1KRQ w GBgb -
+perft1 24
+perft2 646
+perft3 16102
+perft4 444472
+perft5 11489727
+
+name 186
+position fen nrn1bbrq/1ppkppp1/p2p3p/8/1P3N2/4P3/P1PP1PPP/NR1KBBRQ w GB -
+perft1 32
+perft2 591
+perft3 18722
+perft4 381683
+perft5 12069159
+
+name 187
+position fen n1krbrqb/1ppppppp/p7/8/4n3/P4P1P/1PPPPQP1/NRNKBR1B w FB -
+perft1 26
+perft2 639
+perft3 16988
+perft4 417190
+perft5 12167153
+
+name 188
+position fen n1rnkrbq/1p1ppp1p/8/p1p1b1p1/3PQ1P1/4N3/PPP1PP1P/NBR1KRB1 w FCfc -
+perft1 35
+perft2 1027
+perft3 35731
+perft4 1040417
+perft5 35738410
+
+name 189
+position fen nrnbkrbq/2pp1pp1/pp6/4p2p/P7/5PPP/1PPPP3/NRNBKRBQ w FBfb -
+perft1 26
+perft2 628
+perft3 16731
+perft4 436075
+perft5 11920087
+
+name 190
+position fen 1rnkrbbq/pp1p2pp/1n3p2/1Bp1p3/1P6/1N2P3/P1PP1PPP/1RNKR1BQ w EBeb -
+perft1 33
+perft2 992
+perft3 32244
+perft4 983481
+perft5 31703749
+
+name 191
+position fen nr1krqbb/p1ppppp1/8/1p5p/1Pn5/5P2/P1PPP1PP/NRNKRQBB w EBeb -
+perft1 24
+perft2 670
+perft3 15985
+perft4 445492
+perft5 11371067
+
+name 192
+position fen bbq1rkr1/1ppppppp/p1n2n2/8/2P2P2/1P6/PQ1PP1PP/BB1NRKNR w HEe -
+perft1 32
+perft2 794
+perft3 26846
+perft4 689334
+perft5 24085223
+
+name 193
+position fen b1nbrknr/1qppp1pp/p4p2/1p6/6P1/P2NP3/1PPP1P1P/BQ1BRKNR w HEhe -
+perft1 25
+perft2 663
+perft3 17138
+perft4 482994
+perft5 13157826
+
+name 194
+position fen bqnrk1nr/pp2ppbp/6p1/2pp4/2P5/5P2/PPQPP1PP/B1NRKBNR w HDhd -
+perft1 26
+perft2 850
+perft3 22876
+perft4 759768
+perft5 21341087
+
+name 195
+position fen bqnrknrb/1ppp1p1p/p7/6p1/1P2p3/P1PN4/3PPPPP/BQ1RKNRB w GDgd -
+perft1 25
+perft2 721
+perft3 19290
+perft4 581913
+perft5 16391601
+
+name 196
+position fen q1b1rknr/pp1pppp1/4n2p/2p1b3/1PP5/4P3/PQ1P1PPP/1BBNRKNR w HEhe -
+perft1 32
+perft2 975
+perft3 32566
+perft4 955493
+perft5 32649943
+
+name 197
+position fen qnbbrknr/1p1ppppp/8/p1p5/5P2/PP1P4/2P1P1PP/QNBBRKNR w HEhe -
+perft1 27
+perft2 573
+perft3 16331
+perft4 391656
+perft5 11562434
+
+name 198
+position fen q1brkb1r/p1pppppp/np3B2/8/6n1/1P5N/P1PPPPPP/QN1RKB1R w HDhd -
+perft1 32
+perft2 984
+perft3 31549
+perft4 1007217
+perft5 32597704
+
+name 199
+position fen qn1rk1rb/p1pppppp/1p2n3/8/2b5/4NPP1/PPPPP1RP/QNBRK2B w Dgd -
+perft1 22
+perft2 802
+perft3 19156
+perft4 697722
+perft5 17761431
+
+name 200
+position fen qbnrbknr/ppp2p1p/8/3pp1p1/1PP1B3/5N2/P2PPPPP/Q1NRBK1R w HDhd -
+perft1 34
+perft2 943
+perft3 32506
+perft4 930619
+perft5 32523099
+
+name 201
+position fen qnrbb1nr/pp1p1ppp/2p2k2/4p3/4P3/5PPP/PPPP4/QNRBBKNR w HC -
+perft1 20
+perft2 460
+perft3 10287
+perft4 241640
+perft5 5846781
+
+name 202
+position fen qnr1bbnr/ppk1p1pp/3p4/2p2p2/8/2P5/PP1PPPPP/QNKRBBNR w - -
+perft1 19
+perft2 572
+perft3 11834
+perft4 357340
+perft5 7994547
+
+name 203
+position fen qnrkbnrb/1p1p1ppp/2p5/4p3/p7/N1BP4/PPP1PPPP/Q1R1KNRB w gc -
+perft1 27
+perft2 579
+perft3 16233
+perft4 375168
+perft5 10845146
+
+name 204
+position fen qbnrkn1r/1pppp1p1/p3bp2/2BN3p/8/5P2/PPPPP1PP/QBNRK2R w HDhd -
+perft1 40
+perft2 1027
+perft3 38728
+perft4 1059229
+perft5 38511307
+
+name 205
+position fen qnrbknbr/1pp2ppp/4p3/p6N/2p5/8/PPPPPPPP/Q1RBK1BR w HChc -
+perft1 22
+perft2 510
+perft3 11844
+perft4 300180
+perft5 7403327
+
+name 206
+position fen 1qkrnbbr/p1pppppp/2n5/1p6/8/5NP1/PPPPPP1P/QNRK1BBR w HC -
+perft1 24
+perft2 549
+perft3 13987
+perft4 352037
+perft5 9396521
+
+name 207
+position fen q1rknr1b/1ppppppb/2n5/p2B3p/8/1PN3P1/P1PPPP1P/Q1RKNRB1 w FCfc -
+perft1 31
+perft2 924
+perft3 28520
+perft4 861944
+perft5 27463479
+
+name 208
+position fen bbnqrk1r/pp1pppp1/2p4p/8/6n1/1N1P1P2/PPP1P1PP/BBQ1RKNR w HEhe -
+perft1 24
+perft2 804
+perft3 20147
+perft4 666341
+perft5 18024195
+
+name 209
+position fen bn1brknr/ppp1p1pp/5p2/3p4/6qQ/3P3P/PPP1PPP1/BN1BRKNR w HEhe -
+perft1 25
+perft2 854
+perft3 22991
+perft4 704173
+perft5 20290974
+
+name 210
+position fen 1nqrkbnr/2pp1ppp/pp2p3/3b4/2P5/N7/PP1PPPPP/B1QRKBNR w HDhd -
+perft1 22
+perft2 651
+perft3 16173
+perft4 479152
+perft5 13133439
+
+name 211
+position fen bnqrk1rb/1pp1pppp/p2p4/4n3/2PPP3/8/PP3PPP/BNQRKNRB w GDgd -
+perft1 30
+perft2 950
+perft3 28169
+perft4 889687
+perft5 27610213
+
+name 212
+position fen nbb1rknr/1ppq1ppp/3p4/p3p3/4P3/1N2R3/PPPP1PPP/1BBQ1KNR w Hhe -
+perft1 33
+perft2 988
+perft3 31293
+perft4 967575
+perft5 30894863
+
+name 213
+position fen nqbbrknr/2ppp2p/pp4p1/5p2/7P/3P1P2/PPPBP1P1/NQ1BRKNR w HEhe -
+perft1 27
+perft2 492
+perft3 13266
+perft4 276569
+perft5 7583292
+
+name 214
+position fen 1qbrkb1r/pppppppp/8/3n4/4P1n1/PN6/1PPP1P1P/1QBRKBNR w HDhd -
+perft1 28
+perft2 800
+perft3 21982
+perft4 630374
+perft5 17313279
+
+name 215
+position fen 1qbrknrb/1p1ppppp/1np5/8/p4P1P/4P1N1/PPPP2P1/NQBRK1RB w GDgd -
+perft1 21
+perft2 482
+perft3 10581
+perft4 267935
+perft5 6218644
+
+name 216
+position fen nbqrbkr1/ppp1pppp/8/3p4/6n1/2P2PPN/PP1PP2P/NBQRBK1R w HDd -
+perft1 29
+perft2 921
+perft3 25748
+perft4 840262
+perft5 24138518
+
+name 217
+position fen nqrb1knr/1ppbpp1p/p7/3p2p1/2P3P1/5P1P/PP1PP3/NQRBBKNR w HChc -
+perft1 31
+perft2 803
+perft3 25857
+perft4 665799
+perft5 21998733
+
+name 218
+position fen 1qrkbbr1/pppp1ppp/1n3n2/4p3/5P2/1N6/PPPPP1PP/1QRKBBNR w HCc -
+perft1 25
+perft2 715
+perft3 19118
+perft4 556325
+perft5 15514933
+
+name 219
+position fen nqrkb1rb/pp2pppp/2p1n3/3p4/3PP1N1/8/PPP2PPP/NQRKB1RB w GCgc -
+perft1 26
+perft2 795
+perft3 21752
+perft4 679387
+perft5 19185851
+
+name 220
+position fen nb1rknbr/pp2ppp1/8/2Bp3p/6P1/2P2P1q/PP1PP2P/NBQRKN1R w HDhd -
+perft1 35
+perft2 1391
+perft3 43025
+perft4 1726888
+perft5 53033675
+
+name 221
+position fen nqrbkn1r/pp1pp1pp/8/2p2p2/5P2/P3B2P/1PbPP1P1/NQRBKN1R w HChc -
+perft1 23
+perft2 758
+perft3 19439
+perft4 653854
+perft5 18296195
+
+name 222
+position fen nqrknbbr/pp1pppp1/7p/2p5/7P/1P1N4/P1PPPPPB/NQRK1B1R w HChc -
+perft1 29
+perft2 824
+perft3 23137
+perft4 683686
+perft5 19429491
+
+name 223
+position fen 1qrknrbb/B1p1pppp/8/1p1p4/2n2P2/1P6/P1PPP1PP/NQRKNR1B w FCfc -
+perft1 28
+perft2 771
+perft3 20237
+perft4 581721
+perft5 16065378
+
+name 224
+position fen bbnrqk1r/1ppppppp/8/7n/1p6/P6P/1BPPPPP1/1BNRQKNR w HDhd -
+perft1 25
+perft2 601
+perft3 15471
+perft4 396661
+perft5 10697065
+
+name 225
+position fen bnrbqknr/ppp3p1/3ppp1Q/7p/3P4/1P6/P1P1PPPP/BNRB1KNR w HChc -
+perft1 32
+perft2 845
+perft3 26876
+perft4 742888
+perft5 23717883
+
+name 226
+position fen bn1qkb1r/pprppppp/8/2p5/2PPP1n1/8/PPR2PPP/BN1QKBNR w Hh -
+perft1 32
+perft2 856
+perft3 27829
+perft4 768595
+perft5 25245957
+
+name 227
+position fen 1nrqknrb/p1pp1ppp/1p2p3/3N4/5P1P/5b2/PPPPP3/B1RQKNRB w GCgc -
+perft1 33
+perft2 873
+perft3 27685
+perft4 779473
+perft5 25128076
+
+name 228
+position fen nbbrqrk1/pppppppp/8/2N1n3/P7/6P1/1PPPPP1P/1BBRQKNR w HD -
+perft1 25
+perft2 555
+perft3 14339
+perft4 342296
+perft5 9153089
+
+name 229
+position fen 1rbbqknr/1ppp1pp1/1n2p3/p6p/4P1P1/P6N/1PPP1P1P/NRBBQK1R w HBhb -
+perft1 25
+perft2 693
+perft3 18652
+perft4 528070
+perft5 15133381
+
+name 230
+position fen nrq1kbnr/p1pbpppp/3p4/1p6/6P1/1N3N2/PPPPPP1P/1RBQKB1R w HBhb -
+perft1 24
+perft2 648
+perft3 16640
+perft4 471192
+perft5 12871967
+
+name 231
+position fen nr1qknr1/p1pppp1p/b5p1/1p6/8/P4PP1/1bPPP1RP/NRBQKN1B w Bgb -
+perft1 18
+perft2 533
+perft3 11215
+perft4 331243
+perft5 7777833
+
+name 232
+position fen nbrqbknr/1ppp2pp/8/4pp2/p2PP1P1/7N/PPP2P1P/NBRQBK1R w HChc -
+perft1 29
+perft2 803
+perft3 24416
+perft4 706648
+perft5 22305910
+
+name 233
+position fen nr1b1k1r/ppp1pppp/2bp1n2/6P1/2P3q1/5P2/PP1PP2P/NRQBBKNR w HBhb -
+perft1 27
+perft2 1199
+perft3 30908
+perft4 1296241
+perft5 35121759
+
+name 234
+position fen nrqkbbnr/2pppp1p/p7/1p6/2P1Pp2/8/PPNP2PP/1RQKBBNR w HBhb -
+perft1 28
+perft2 613
+perft3 17874
+perft4 432750
+perft5 13097064
+
+name 235
+position fen 1rqkbnrb/pp1ppp1p/1n4p1/B1p5/3PP3/4N3/PPP2PPP/NRQK2RB w GBgb -
+perft1 33
+perft2 723
+perft3 23991
+perft4 590970
+perft5 19715083
+
+name 236
+position fen nbrqkn1r/1pppp2p/5pp1/p2b4/5P2/P2PN3/1PP1P1PP/NBRQK1BR w HChc -
+perft1 23
+perft2 607
+perft3 15482
+perft4 400970
+perft5 11026383
+
+name 237
+position fen nrqbknbr/pp1pppp1/8/2p4p/P3PP2/8/1PPP2PP/NRQBKNBR w HBhb -
+perft1 26
+perft2 700
+perft3 19371
+perft4 556026
+perft5 16058815
+
+name 238
+position fen nrqknbbr/p2pppp1/1pp5/6Qp/3P4/1P3P2/P1P1P1PP/NR1KNBBR w HBhb -
+perft1 40
+perft2 905
+perft3 32932
+perft4 829746
+perft5 29263502
+
+name 239
+position fen nrqknrbb/1p3ppp/p2p4/2p1p3/1P6/3PP1P1/P1P2P1P/NRQKNRBB w FBfb -
+perft1 29
+perft2 780
+perft3 22643
+perft4 654495
+perft5 19532077
+
+name 240
+position fen 1bnrkqnr/p1pppp2/7p/1p4p1/4b3/7N/PPPP1PPP/BBNRKQ1R w HDhd -
+perft1 25
+perft2 725
+perft3 19808
+perft4 565006
+perft5 16661676
+
+name 241
+position fen bnrbkq1r/pp2p1pp/5n2/2pp1p2/P7/N1PP4/1P2PPPP/B1RBKQNR w HChc -
+perft1 24
+perft2 745
+perft3 18494
+perft4 584015
+perft5 15079602
+
+name 242
+position fen 2rkqbnr/p1pppppp/2b5/1pn5/1P3P1Q/2B5/P1PPP1PP/1NRK1BNR w HChc -
+perft1 33
+perft2 904
+perft3 30111
+perft4 840025
+perft5 28194726
+
+name 243
+position fen bnrkqnrb/2pppp2/8/pp4pp/1P5P/6P1/P1PPPPB1/BNRKQNR1 w GCgc -
+perft1 34
+perft2 1059
+perft3 34090
+perft4 1054311
+perft5 33195397
+
+name 244
+position fen 1bbrkq1r/pppp2pp/1n2pp1n/8/2PP4/1N4P1/PP2PP1P/1BBRKQNR w HDhd -
+perft1 33
+perft2 891
+perft3 28907
+perft4 814247
+perft5 26970098
+
+name 245
+position fen nrbbkqnr/1p2pp1p/p1p3p1/3p4/8/1PP5/P2PPPPP/NRBBKQNR w HBhb -
+perft1 21
+perft2 567
+perft3 13212
+perft4 376487
+perft5 9539687
+
+name 246
+position fen 1rbkqbr1/ppp1pppp/1n5n/3p4/3P4/1PP3P1/P3PP1P/NRBKQBNR w HBb -
+perft1 27
+perft2 752
+perft3 20686
+perft4 606783
+perft5 16986290
+
+name 247
+position fen nrbkq1rb/1ppp1pp1/4p1n1/p6p/2PP4/5P2/PPK1P1PP/NRB1QNRB w gb -
+perft1 35
+perft2 697
+perft3 23678
+perft4 505836
+perft5 16906409
+
+name 248
+position fen nbrkbqnr/p2pp1p1/5p2/1pp4p/7P/3P2P1/PPP1PP2/NBKRBQNR w hc -
+perft1 25
+perft2 679
+perft3 17223
+perft4 484921
+perft5 12879258
+
+name 249
+position fen nrkb1qnr/ppppp1p1/6bp/5p2/1PP1P1P1/8/P2P1P1P/NRKBBQNR w HBhb -
+perft1 32
+perft2 761
+perft3 24586
+perft4 632916
+perft5 20671433
+
+name 250
+position fen nrk1bbnr/p1q1pppp/1ppp4/8/3P3P/4K3/PPP1PPP1/NR1QBBNR w hb -
+perft1 30
+perft2 719
+perft3 21683
+perft4 541389
+perft5 16278120
+
+name 251
+position fen nrkqbr1b/1pppp1pp/5pn1/p6N/1P3P2/8/P1PPP1PP/NRKQB1RB w GBb -
+perft1 26
+perft2 494
+perft3 13815
+perft4 296170
+perft5 8763742
+
+name 252
+position fen nbrkq2r/pppp1bpp/4p1n1/5p2/7P/2P3N1/PP1PPPP1/NBKRQ1BR w hc -
+perft1 27
+perft2 701
+perft3 19536
+perft4 535052
+perft5 15394667
+
+name 253
+position fen nrkbqnbr/2ppp2p/pp6/5pp1/P1P5/8/1P1PPPPP/NRKBQNBR w HBhb -
+perft1 21
+perft2 487
+perft3 11341
+perft4 285387
+perft5 7218486
+
+name 254
+position fen nr1qnbbr/pk1pppp1/1pp4p/8/3P4/5P1P/PPP1P1P1/NRKQNBBR w HB -
+perft1 22
+perft2 546
+perft3 13615
+perft4 352855
+perft5 9587439
+
+name 255
+position fen nrkq1rbb/pp1ppp1p/2pn4/8/PP3Pp1/7P/2PPP1P1/NRKQNRBB w FBfb -
+perft1 26
+perft2 839
+perft3 22075
+perft4 723845
+perft5 19867117
+
+name 256
+position fen b2rknqr/pp1ppppp/8/2P5/n7/P7/1PPNPPPb/BBNRK1QR w HDhd -
+perft1 24
+perft2 699
+perft3 19523
+perft4 575172
+perft5 17734818
+
+name 257
+position fen bnrbknqr/pp2p2p/2p3p1/3p1p2/8/3P4/PPPNPPPP/B1RBKNQR w HChc -
+perft1 23
+perft2 580
+perft3 14320
+perft4 385917
+perft5 10133092
+
+name 258
+position fen bnrknb1r/pppp2pp/8/4pp2/6P1/3P3P/qPP1PPQ1/BNRKNB1R w HChc -
+perft1 28
+perft2 1100
+perft3 31813
+perft4 1217514
+perft5 36142423
+
+name 259
+position fen b1rknqrb/ppp1p1p1/2np1p1p/8/4N3/6PQ/PPPPPP1P/B1RKN1RB w GCgc -
+perft1 36
+perft2 629
+perft3 23082
+perft4 453064
+perft5 16897544
+
+name 260
+position fen nb1rknqr/pbppp2p/6p1/1p3p2/5P2/3KP3/PPPP2PP/NBBR1NQR w hd -
+perft1 18
+perft2 557
+perft3 9779
+perft4 300744
+perft5 5822387
+
+name 261
+position fen nr1bknqr/1ppb1ppp/p7/3pp3/B7/2P3NP/PP1PPPP1/NRB1K1QR w HBhb -
+perft1 28
+perft2 688
+perft3 19541
+perft4 519785
+perft5 15153092
+
+name 262
+position fen nrbkn2r/pppp1pqp/4p1p1/8/3P2P1/P3B3/P1P1PP1P/NR1KNBQR w HBhb -
+perft1 32
+perft2 808
+perft3 25578
+perft4 676525
+perft5 22094260
+
+name 263
+position fen nrbknqrb/2p1ppp1/1p6/p2p2Bp/1P6/3P1P2/P1P1P1PP/NR1KNQRB w GBgb -
+perft1 30
+perft2 625
+perft3 18288
+perft4 418895
+perft5 12225742
+
+name 264
+position fen nbr1knqr/1pp1p1pp/3p1pb1/8/7P/5P2/PPPPPQP1/NBRKBN1R w HC -
+perft1 29
+perft2 863
+perft3 25767
+perft4 800239
+perft5 24965592
+
+name 265
+position fen n1kbbnqr/prp2ppp/1p1p4/4p3/1P2P3/3P1B2/P1P2PPP/NRK1BNQR w HBh -
+perft1 26
+perft2 653
+perft3 17020
+perft4 449719
+perft5 12187583
+
+name 266
+position fen nrknbbqr/pp3p1p/B3p1p1/2pp4/4P3/2N3P1/PPPP1P1P/NRK1B1QR w HBhb -
+perft1 29
+perft2 683
+perft3 19755
+perft4 501807
+perft5 14684565
+
+name 267
+position fen n1knbqrb/pr1p1ppp/Qp6/2p1p3/4P3/6P1/PPPP1P1P/NRKNB1RB w GBg -
+perft1 31
+perft2 552
+perft3 17197
+perft4 371343
+perft5 11663330
+
+name 268
+position fen nbrknqbr/p3p1pp/1p1p1p2/2p5/2Q1PP2/8/PPPP2PP/NBRKN1BR w HChc -
+perft1 37
+perft2 913
+perft3 32470
+perft4 825748
+perft5 28899548
+
+name 269
+position fen nrkb1qbr/pp1pppp1/5n2/7p/2p5/1N1NPP2/PPPP2PP/1RKB1QBR w HBhb -
+perft1 25
+perft2 712
+perft3 18813
+perft4 543870
+perft5 15045589
+
+name 270
+position fen nrk2bbr/pppqpppp/3p4/8/1P3nP1/3P4/P1P1PP1P/NRKNQBBR w HBhb -
+perft1 24
+perft2 814
+perft3 19954
+perft4 670162
+perft5 17603960
+
+name 271
+position fen nrknqrbb/1p2ppp1/2pp4/Q6p/P2P3P/8/1PP1PPP1/NRKN1RBB w FBfb -
+perft1 34
+perft2 513
+perft3 16111
+perft4 303908
+perft5 9569590
+
+name 272
+position fen bbnrk1rq/pp2p1pp/2ppn3/5p2/8/3NNP1P/PPPPP1P1/BB1RK1RQ w GDgd -
+perft1 28
+perft2 697
+perft3 20141
+perft4 517917
+perft5 15301879
+
+name 273
+position fen bnrbknrq/ppppp2p/6p1/5p2/4QPP1/8/PPPPP2P/BNRBKNR1 w GCgc -
+perft1 37
+perft2 901
+perft3 32612
+perft4 877372
+perft5 31385912
+
+name 274
+position fen bnkrnbrq/ppppp1p1/B6p/5p2/8/4P3/PPPP1PPP/BNKRN1RQ w - -
+perft1 26
+perft2 417
+perft3 11124
+perft4 217095
+perft5 5980981
+
+name 275
+position fen bnrk1rqb/2pppp1p/3n4/pp4p1/3Q1P2/2N3P1/PPPPP2P/B1RKNR1B w FCfc -
+perft1 49
+perft2 1655
+perft3 74590
+perft4 2512003
+perft5 107234294
+
+name 276
+position fen nbbrk1rq/pp2pppp/2pp4/8/2P2n2/6N1/PP1PP1PP/NBBRKR1Q w Dgd -
+perft1 28
+perft2 960
+perft3 26841
+perft4 884237
+perft5 26083252
+
+name 277
+position fen nrbb2rq/pppk1ppp/4p1n1/3p4/6P1/1BP5/PP1PPPQP/NRB1KNR1 w GB -
+perft1 28
+perft2 735
+perft3 22048
+perft4 593839
+perft5 18588316
+
+name 278
+position fen nrbk1brq/p1ppppp1/7p/1p6/4P1nP/P7/1PPP1PP1/NRBKNBRQ w GBgb -
+perft1 22
+perft2 572
+perft3 12739
+perft4 351494
+perft5 8525056
+
+name 279
+position fen nrbk1rqb/1pp2ppp/5n2/p2pp3/5B2/1N1P2P1/PPP1PP1P/1R1KNRQB w FBfb -
+perft1 35
+perft2 927
+perft3 31559
+perft4 849932
+perft5 28465693
+
+name 280
+position fen nbrkb1rq/p1pp1ppp/4n3/4p3/Pp6/6N1/1PPPPPPP/NBRKBRQ1 w Cgc -
+perft1 20
+perft2 456
+perft3 10271
+perft4 247733
+perft5 6124625
+
+name 281
+position fen nrkb1nrq/p2pp1pp/1pp2p2/7b/6PP/5P2/PPPPP2N/NRKBB1RQ w GBgb -
+perft1 21
+perft2 479
+perft3 11152
+perft4 264493
+perft5 6696458
+
+name 282
+position fen nr1nbbr1/pppkpp1p/6p1/3p4/P6P/1P6/1RPPPPP1/N1KNBBRQ w G -
+perft1 20
+perft2 498
+perft3 11304
+perft4 288813
+perft5 7197322
+
+name 283
+position fen nrknbrqb/3p1ppp/ppN1p3/8/6P1/8/PPPPPP1P/1RKNBRQB w FBfb -
+perft1 32
+perft2 526
+perft3 17267
+perft4 319836
+perft5 10755190
+
+name 284
+position fen nbrkn1bq/p1pppr1p/1p6/5pp1/8/1N2PP2/PPPP2PP/1BKRNRBQ w c -
+perft1 19
+perft2 491
+perft3 10090
+perft4 277313
+perft5 6230616
+
+name 285
+position fen nrkbnrbq/ppppppp1/8/8/7p/PP3P2/2PPPRPP/NRKBN1BQ w Bfb -
+perft1 16
+perft2 353
+perft3 6189
+perft4 156002
+perft5 3008668
+
+name 286
+position fen nrknrbbq/p4ppp/2p1p3/1p1p4/1P2P3/2P5/P1NP1PPP/1RKNRBBQ w EBeb -
+perft1 29
+perft2 728
+perft3 21915
+perft4 587668
+perft5 18231199
+
+name 287
+position fen nrknr1bb/pppp1p2/7p/2qPp1p1/8/1P5P/P1P1PPP1/NRKNRQBB w EBeb -
+perft1 20
+perft2 714
+perft3 14336
+perft4 500458
+perft5 11132758
+
+name 288
+position fen bbqnrrkn/ppp2p1p/3pp1p1/8/1PP5/2Q5/P1BPPPPP/B2NRKRN w GE -
+perft1 39
+perft2 593
+perft3 23446
+perft4 424799
+perft5 16764576
+
+name 289
+position fen bqn1rkrn/p1p2ppp/1p1p4/4p3/3PP2b/8/PPP2PPP/BQNBRKRN w GEge -
+perft1 25
+perft2 773
+perft3 20042
+perft4 616817
+perft5 16632403
+
+name 290
+position fen bqnrkb1n/p1p1pprp/3p4/1p2P1p1/2PP4/8/PP3PPP/BQNRKBRN w GDd -
+perft1 31
+perft2 860
+perft3 28102
+perft4 810379
+perft5 27233018
+
+name 291
+position fen bqr1krnb/ppppppp1/7p/3n4/1P4P1/P4N2/2PPPP1P/BQNRKR1B w FDf -
+perft1 31
+perft2 709
+perft3 22936
+perft4 559830
+perft5 18608857
+
+name 292
+position fen qbbn1krn/pp3ppp/4r3/2ppp3/P1P4P/8/1P1PPPP1/QBBNRKRN w GEg -
+perft1 26
+perft2 775
+perft3 21100
+perft4 649673
+perft5 18476807
+
+name 293
+position fen qnbbrkrn/1p1pp2p/p7/2p2pp1/8/4P2P/PPPP1PPK/QNBBRR1N w ge -
+perft1 25
+perft2 599
+perft3 15139
+perft4 389104
+perft5 10260500
+
+name 294
+position fen qnbrkbrn/1ppp2p1/p3p2p/5p2/P4P2/1P6/2PPP1PP/QNBRKBRN w GDgd -
+perft1 27
+perft2 588
+perft3 16735
+perft4 394829
+perft5 11640416
+
+name 295
+position fen 1nbrkrnb/p1pppp1p/1pq3p1/8/4P3/P1P4N/1P1P1PPP/QNBRKR1B w FDfd -
+perft1 18
+perft2 609
+perft3 11789
+perft4 406831
+perft5 8604788
+
+name 296
+position fen qb1r1krn/pppp2pp/1n2ppb1/4P3/7P/8/PPPP1PP1/QBNRBKRN w GDgd -
+perft1 20
+perft2 578
+perft3 12205
+perft4 349453
+perft5 7939483
+
+name 297
+position fen qnr1bkrn/p3pppp/1bpp4/1p6/2P2PP1/8/PP1PPN1P/QNRBBKR1 w GCgc -
+perft1 30
+perft2 865
+perft3 26617
+perft4 771705
+perft5 24475596
+
+name 298
+position fen 1nkrbbrn/qppppppp/8/8/p2P4/1P5P/P1P1PPP1/QNKRBBRN w - -
+perft1 27
+perft2 672
+perft3 18371
+perft4 505278
+perft5 14065717
+
+name 299
+position fen 1qrkbrnb/ppp1p1pp/n2p4/5p2/4N3/8/PPPPPPPP/Q1RKBRNB w Ffc -
+perft1 25
+perft2 718
+perft3 18573
+perft4 536771
+perft5 14404324
+
+name 300
+position fen q1nrkrbn/pp1pppp1/2p4p/8/P7/5Pb1/BPPPPNPP/Q1NRKRB1 w FDfd -
+perft1 22
+perft2 558
+perft3 12911
+perft4 336042
+perft5 8516966
+
+name 301
+position fen qnrbkrbn/1p1p1pp1/p1p5/4p2p/8/3P1P2/PPP1P1PP/QNRBKRBN w FCfc -
+perft1 28
+perft2 669
+perft3 17713
+perft4 440930
+perft5 12055174
+
+name 302
+position fen qnrkr1bn/p1pp1ppp/8/1p2p3/3P1P2/bP4P1/P1P1P2P/QNRKRBBN w ECec -
+perft1 23
+perft2 845
+perft3 20973
+perft4 759778
+perft5 19939053
+
+name 303
+position fen q1krrnbb/p1p1pppp/2np4/1pB5/5P2/8/PPPPP1PP/QNRKRN1B w EC -
+perft1 29
+perft2 776
+perft3 21966
+perft4 631941
+perft5 18110831
+
+name 304
+position fen bbn1rkrn/pp1p1ppp/8/2p1p1q1/6P1/P7/BPPPPP1P/B1NQRKRN w GEge -
+perft1 26
+perft2 936
+perft3 25177
+perft4 906801
+perft5 24984621
+
+name 305
+position fen bn1brkrn/pp1qpp1p/2p3p1/3p4/1PPP4/P7/4PPPP/BNQBRKRN w GEge -
+perft1 29
+perft2 755
+perft3 22858
+perft4 645963
+perft5 20128587
+
+name 306
+position fen b2rkbrn/p1pppppp/qp6/8/1n6/2B2P2/P1PPP1PP/1NQRKBRN w GDgd -
+perft1 24
+perft2 878
+perft3 21440
+perft4 791007
+perft5 20840078
+
+name 307
+position fen b2rkrnb/pqp1pppp/n7/1p1p4/P7/N1P2N2/1P1PPPPP/B1QRKR1B w FDfd -
+perft1 26
+perft2 724
+perft3 19558
+perft4 571891
+perft5 16109522
+
+name 308
+position fen 1bbqrkrn/ppppp1p1/8/5p1p/P1n3P1/3P4/1PP1PP1P/NBBQRRKN w ge -
+perft1 25
+perft2 678
+perft3 17351
+perft4 461211
+perft5 12173245
+
+name 309
+position fen nqb1rrkn/ppp1bppp/3pp3/8/3P4/1P6/PQP1PPPP/N1BBRRKN w - -
+perft1 23
+perft2 503
+perft3 12465
+perft4 290341
+perft5 7626054
+
+name 310
+position fen nqbrkbr1/p1pppppp/1p6/2N2n2/2P5/5P2/PP1PP1PP/1QBRKBRN w GDgd -
+perft1 29
+perft2 688
+perft3 20289
+perft4 506302
+perft5 15167248
+
+name 311
+position fen nqbrkrn1/1ppppp2/6pp/p7/1P6/2Q5/P1PPPPPP/N1BRKRNB w FDfd -
+perft1 36
+perft2 602
+perft3 20985
+perft4 397340
+perft5 13706856
+
+name 312
+position fen nbqrbrkn/pp1p1pp1/2p5/4p2p/2P3P1/1P3P2/P2PP2P/NBQRBKRN w GD -
+perft1 34
+perft2 655
+perft3 22581
+perft4 474396
+perft5 16613630
+
+name 313
+position fen nqrbbrkn/1p1pppp1/8/p1p4p/4P2P/1N4P1/PPPP1P2/1QRBBKRN w GC -
+perft1 23
+perft2 597
+perft3 14468
+perft4 400357
+perft5 10096863
+
+name 314
+position fen nqrkbbrn/2p1p1pp/pp1p1p2/8/P2N4/2P5/1P1PPPPP/1QRKBBRN w GCgc -
+perft1 32
+perft2 744
+perft3 23310
+perft4 550728
+perft5 17597164
+
+name 315
+position fen n1krbrnb/q1pppppp/p7/1p6/3Q4/2P2P2/PP1PP1PP/N1RKBRNB w FC -
+perft1 43
+perft2 1038
+perft3 41327
+perft4 1074450
+perft5 40918952
+
+name 316
+position fen nb1rkrbn/p1pp1p1p/qp6/4p1p1/5PP1/P7/1PPPPB1P/NBQRKR1N w FDfd -
+perft1 26
+perft2 645
+perft3 16463
+perft4 445464
+perft5 11911314
+
+name 317
+position fen nqr1krbn/pppp1ppp/8/8/3pP3/5P2/PPPb1NPP/NQRBKRB1 w FCfc -
+perft1 2
+perft2 51
+perft3 1047
+perft4 27743
+perft5 612305
+
+name 318
+position fen n1rkrbbn/pqppppp1/7p/1p6/8/1NPP4/PP1KPPPP/1QR1RBBN w ec -
+perft1 25
+perft2 674
+perft3 17553
+perft4 505337
+perft5 13421727
+
+name 319
+position fen 1qrkrnbb/1p1p1ppp/pnp1p3/8/3PP3/P6P/1PP2PP1/NQRKRNBB w ECec -
+perft1 24
+perft2 688
+perft3 17342
+perft4 511444
+perft5 13322502
+
+name 320
+position fen 1bnrqkrn/2ppppp1/p7/1p1b3p/3PP1P1/8/PPPQ1P1P/BBNR1KRN w GDgd -
+perft1 35
+perft2 925
+perft3 32238
+perft4 857060
+perft5 30458921
+
+name 321
+position fen bnrbqkr1/ppp2pp1/6n1/3pp2p/1P6/2N3N1/P1PPPPPP/B1RBQRK1 w gc -
+perft1 23
+perft2 704
+perft3 17345
+perft4 539587
+perft5 14154852
+
+name 322
+position fen 1nrqkbrn/p1pppppp/8/1p1b4/P6P/5P2/1PPPP1P1/BNRQKBRN w GCgc -
+perft1 19
+perft2 505
+perft3 10619
+perft4 281422
+perft5 6450025
+
+name 323
+position fen b1rqkrnb/ppppppp1/8/6p1/3n4/NP6/P1PPPP1P/B1RQKRNB w FCfc -
+perft1 25
+perft2 614
+perft3 15578
+perft4 377660
+perft5 10391021
+
+name 324
+position fen nbbrqkrn/ppp3p1/3pp3/5p1p/1P2P3/P7/2PPQPPP/NBBR1KRN w GDgd -
+perft1 30
+perft2 833
+perft3 25719
+perft4 717713
+perft5 22873901
+
+name 325
+position fen nr1bqrk1/ppp1pppp/6n1/3pP3/8/5PQb/PPPP2PP/NRBB1KRN w GB -
+perft1 26
+perft2 734
+perft3 20161
+perft4 582591
+perft5 17199594
+
+name 326
+position fen 1rbqkbr1/ppppp1pp/1n6/4np2/3P1P2/6P1/PPPQP2P/NRB1KBRN w GBgb -
+perft1 27
+perft2 662
+perft3 17897
+perft4 447464
+perft5 13038519
+
+name 327
+position fen nr1qkr1b/ppp1pp1p/4bn2/3p2p1/4P3/1Q6/PPPP1PPP/NRB1KRNB w FBfb -
+perft1 33
+perft2 939
+perft3 30923
+perft4 942138
+perft5 30995969
+
+name 328
+position fen nb1qbkrn/pprp1pp1/7p/2p1pB2/Q1PP4/8/PP2PPPP/N1R1BKRN w GCg -
+perft1 47
+perft2 1128
+perft3 50723
+perft4 1306753
+perft5 56747878
+
+name 329
+position fen nrqb1rkn/pp2pppp/2bp4/2p5/6P1/2P3N1/PP1PPP1P/NRQBBRK1 w - -
+perft1 24
+perft2 828
+perft3 21148
+perft4 723705
+perft5 19506135
+
+name 330
+position fen nrq1bbrn/ppkpp2p/2p3p1/P4p2/8/4P1N1/1PPP1PPP/NRQKBBR1 w GB -
+perft1 25
+perft2 525
+perft3 13533
+perft4 309994
+perft5 8250997
+
+name 331
+position fen Br1kbrn1/pqpppp2/8/6pp/3b2P1/1N6/PPPPPP1P/1RQKBRN1 w FBfb -
+perft1 20
+perft2 790
+perft3 18175
+perft4 695905
+perft5 17735648
+
+name 332
+position fen nbrqkrbn/2p1p1pp/p7/1p1p1p2/4P1P1/5P2/PPPP3P/NBRQKRBN w FCfc -
+perft1 29
+perft2 771
+perft3 22489
+perft4 647106
+perft5 19192982
+
+name 333
+position fen 1rqbkrbn/1ppppp1p/1n6/p1N3p1/8/2P4P/PP1PPPP1/1RQBKRBN w FBfb -
+perft1 29
+perft2 502
+perft3 14569
+perft4 287739
+perft5 8652810
+
+name 334
+position fen 1rqkrbbn/ppnpp1pp/8/2p5/6p1/3P4/PPP1PPPP/NRK1RBBN w eb -
+perft1 19
+perft2 531
+perft3 10812
+perft4 300384
+perft5 6506674
+
+name 335
+position fen nrqkrnbb/p1pp2pp/5p2/4P3/2p5/4N3/PP1PP1PP/NRQKR1BB w EBeb -
+perft1 26
+perft2 800
+perft3 23256
+perft4 756695
+perft5 23952941
+
+name 336
+position fen bbnrkqrn/pp3pp1/4p2p/2pp4/4P1P1/1PB5/P1PP1P1P/1BNRKQRN w GDgd -
+perft1 33
+perft2 915
+perft3 30536
+perft4 878648
+perft5 29602610
+
+name 337
+position fen bnrbkqr1/1p2pppp/6n1/p1pp4/7P/P3P3/1PPPKPP1/BNRB1QRN w gc -
+perft1 19
+perft2 457
+perft3 9332
+perft4 238944
+perft5 5356253
+
+name 338
+position fen b1rkqbrn/pp1p2pp/2n1p3/2p2p2/3P2PP/8/PPP1PP2/BNKRQBRN w gc -
+perft1 30
+perft2 985
+perft3 30831
+perft4 1011700
+perft5 32684185
+
+name 339
+position fen b1rkqrnb/2ppppp1/np6/p6p/1P6/P2P3P/2P1PPP1/BNRKQRNB w FCfc -
+perft1 26
+perft2 692
+perft3 18732
+perft4 517703
+perft5 14561181
+
+name 340
+position fen nbbrkqrn/1ppp1p2/p6p/4p1p1/5P2/1P5P/P1PPPNP1/NBBRKQR1 w GDgd -
+perft1 22
+perft2 561
+perft3 13222
+perft4 367487
+perft5 9307003
+
+name 341
+position fen nrbbkqrn/p1pppppp/8/1p6/4P3/7Q/PPPP1PPP/NRBBK1RN w GBgb -
+perft1 38
+perft2 769
+perft3 28418
+perft4 632310
+perft5 23091070
+
+name 342
+position fen nrbkqbrn/1pppp2p/8/p4pp1/P4PQ1/8/1PPPP1PP/NRBK1BRN w GBgb -
+perft1 23
+perft2 507
+perft3 13067
+perft4 321423
+perft5 8887567
+
+name 343
+position fen nr1kqr1b/pp2pppp/5n2/2pp4/P5b1/5P2/1PPPPRPP/NRBK1QNB w Bfb -
+perft1 18
+perft2 626
+perft3 12386
+perft4 434138
+perft5 9465555
+
+name 344
+position fen nbkrbqrn/1pppppp1/8/4P2p/pP6/P7/2PP1PPP/NBRKBQRN w GC -
+perft1 22
+perft2 329
+perft3 8475
+perft4 148351
+perft5 4160034
+
+name 345
+position fen nrkb1qrn/pp1pp1pp/8/5p1b/P1p4P/6N1/1PPPPPP1/NRKBBQR1 w GBgb -
+perft1 16
+perft2 479
+perft3 9037
+perft4 275354
+perft5 5862341
+
+name 346
+position fen 1rkq1brn/ppppp1pp/1n6/3b1p2/3N3P/5P2/PPPPP1P1/1RKQBBRN w GBgb -
+perft1 23
+perft2 614
+perft3 15324
+perft4 418395
+perft5 11090645
+
+name 347
+position fen nrk1brnb/pp1ppppp/2p5/3q4/5P2/PP6/1KPPP1PP/NR1QBRNB w fb -
+perft1 25
+perft2 942
+perft3 21765
+perft4 792179
+perft5 19318837
+
+name 348
+position fen nbrkqr1n/1pppp2p/p4pp1/2Bb4/5P2/6P1/PPPPP2P/NBRKQ1RN w Cfc -
+perft1 30
+perft2 841
+perft3 24775
+perft4 677876
+perft5 20145765
+
+name 349
+position fen n1kbqrbn/2p1pppp/1r6/pp1p4/P7/3P4/1PP1PPPP/NRKBQRBN w FBf -
+perft1 21
+perft2 591
+perft3 14101
+perft4 394289
+perft5 10295086
+
+name 350
+position fen nrkqrbb1/ppp1pppp/3p4/8/4P3/2Pn1P2/PP4PP/NRKQRBBN w EBeb -
+perft1 4
+perft2 88
+perft3 3090
+perft4 73414
+perft5 2640555
+
+name 351
+position fen nrkqrnbb/ppppp1p1/7p/1P3p2/3P4/2P5/P3PPPP/NRKQRNBB w EBeb -
+perft1 29
+perft2 689
+perft3 21091
+perft4 508789
+perft5 16226660
+
+name 352
+position fen bbnr1rqn/pp2pkpp/2pp1p2/8/4P1P1/8/PPPP1P1P/BBNRKRQN w FD -
+perft1 21
+perft2 463
+perft3 11135
+perft4 256244
+perft5 6826249
+
+name 353
+position fen bnrbk1qn/1pppprpp/8/p4p1P/6P1/3P4/PPP1PP2/BNRBKRQN w FCc -
+perft1 22
+perft2 459
+perft3 11447
+perft4 268157
+perft5 7371098
+
+name 354
+position fen 1nrkrbqn/p1pp1ppp/4p3/1p6/1PP5/6PB/P2PPPbP/BNRKR1QN w ECec -
+perft1 30
+perft2 931
+perft3 29012
+perft4 887414
+perft5 28412902
+
+name 355
+position fen b1rkr1nb/pppppqp1/n4B2/7p/8/1P4P1/P1PPPP1P/1NKRRQNB w ec -
+perft1 36
+perft2 934
+perft3 31790
+perft4 930926
+perft5 30392925
+
+name 356
+position fen nbbrkrqn/p1ppp1p1/8/1p3p1p/2P3PP/8/PP1PPPQ1/NBBRKR1N w FDfd -
+perft1 34
+perft2 938
+perft3 31848
+perft4 921716
+perft5 31185844
+
+name 357
+position fen 1rbbkrqn/ppp1pp2/1n1p2p1/7p/P3P1P1/3P4/1PP2P1P/NRBBKRQN w FBfb -
+perft1 26
+perft2 646
+perft3 18083
+perft4 472744
+perft5 14006203
+
+name 358
+position fen nrbkrbq1/Qpppp1pp/2n5/5p2/P4P2/6N1/1PPPP1PP/NRBKRB2 w EBeb -
+perft1 27
+perft2 619
+perft3 16713
+perft4 421845
+perft5 11718463
+
+name 359
+position fen 1rbkr1nb/pppp1qpp/1n6/4pp2/1PP1P3/8/PB1P1PPP/NR1KRQNB w EBeb -
+perft1 32
+perft2 1029
+perft3 32970
+perft4 1080977
+perft5 35483796
+
+name 360
+position fen nbrk1rqn/p1ppp2p/1p6/5ppb/8/1N2P2P/PPPP1PP1/1BKRBRQN w fc -
+perft1 18
+perft2 594
+perft3 12350
+perft4 408544
+perft5 9329122
+
+name 361
+position fen nrkbbrqn/3pppp1/7p/ppp5/P7/1N5P/1PPPPPP1/1RKBBRQN w FBfb -
+perft1 19
+perft2 417
+perft3 9026
+perft4 218513
+perft5 5236331
+
+name 362
+position fen nrkr1bqn/ppp1pppp/3p4/1b6/7P/P7/1PPPPPP1/NRKRBBQN w DBdb -
+perft1 17
+perft2 457
+perft3 9083
+perft4 243872
+perft5 5503579
+
+name 363
+position fen nrkrbqnb/p4ppp/1p2p3/2pp4/6P1/2P2N2/PPNPPP1P/1RKRBQ1B w DBdb -
+perft1 27
+perft2 755
+perft3 21012
+perft4 620093
+perft5 17883987
+
+name 364
+position fen nbkrr1bn/ppB2ppp/4p3/2qp4/4P3/5P2/PPPP2PP/NBRKRQ1N w EC -
+perft1 37
+perft2 1473
+perft3 51939
+perft4 1956521
+perft5 68070015
+
+name 365
+position fen n1kbrqbn/p1pp1pp1/4p2p/2B5/1r3P2/8/PPPPP1PP/NRKBRQ1N w EBe -
+perft1 30
+perft2 1029
+perft3 30874
+perft4 1053163
+perft5 32318550
+
+name 366
+position fen nrkrqbbn/2pppp1p/8/pp6/1P1P2p1/P5P1/2P1PP1P/NRKRQBBN w DBdb -
+perft1 22
+perft2 421
+perft3 10034
+perft4 221927
+perft5 5754555
+
+name 367
+position fen nrkr1nbb/1ppp2pp/p3q3/4pp2/2P5/P3P3/1PKP1PPP/NR1RQNBB w db -
+perft1 22
+perft2 619
+perft3 13953
+perft4 411392
+perft5 9905109
+
+name 368
+position fen bbnrkrnq/1pp1p2p/6p1/p2p1p2/8/1P2P3/P1PP1PPP/BBNRKRNQ w FDfd -
+perft1 27
+perft2 805
+perft3 21915
+perft4 688224
+perft5 19133881
+
+name 369
+position fen bnrbkrn1/pp1ppp2/2p3pp/8/2Pq4/P4PP1/1P1PP2P/BNRBKRNQ w FCfc -
+perft1 20
+perft2 770
+perft3 16593
+perft4 577980
+perft5 13581691
+
+name 370
+position fen b1rkrbnq/1pp1pppp/2np4/p5N1/8/1P2P3/P1PP1PPP/BNRKRB1Q w ECec -
+perft1 37
+perft2 740
+perft3 27073
+perft4 581744
+perft5 21156664
+
+name 371
+position fen b1krrnqb/pp1ppp1p/n1p3p1/2N5/6P1/8/PPPPPP1P/B1RKRNQB w EC -
+perft1 34
+perft2 850
+perft3 28494
+perft4 752350
+perft5 25360295
+
+name 372
+position fen 1bbr1rnq/ppppkppp/8/3np3/4P3/3P4/PPP1KPPP/NBBRR1NQ w - -
+perft1 27
+perft2 704
+perft3 18290
+perft4 480474
+perft5 12817011
+
+name 373
+position fen nrbbk1nq/p1p1prpp/1p6/N2p1p2/P7/8/1PPPPPPP/R1BBKRNQ w Fb -
+perft1 23
+perft2 552
+perft3 13710
+perft4 348593
+perft5 9236564
+
+name 374
+position fen 1rbkrb1q/1pppp1pp/1n5n/p4p2/P3P3/1P6/2PPNPPP/NRBKRB1Q w EBeb -
+perft1 22
+perft2 415
+perft3 10198
+perft4 217224
+perft5 5735644
+
+name 375
+position fen nrbkr1qb/1pp1pppp/6n1/p2p4/2P1P3/1N4N1/PP1P1PPP/1RBKR1QB w EBeb -
+perft1 27
+perft2 709
+perft3 19126
+perft4 506214
+perft5 14192779
+
+name 376
+position fen nbrkbrnq/p3p1pp/1pp2p2/3p4/1PP5/4P3/P1KP1PPP/NBR1BRNQ w fc -
+perft1 24
+perft2 715
+perft3 18009
+perft4 535054
+perft5 14322279
+
+name 377
+position fen nrk1brnq/pp1p1pp1/7p/b1p1p3/1P6/6P1/P1PPPPQP/NRKBBRN1 w FBfb -
+perft1 29
+perft2 675
+perft3 20352
+perft4 492124
+perft5 15316285
+
+name 378
+position fen nrkr1bnq/1p2pppp/p2p4/1bp5/PP6/1R5N/2PPPPPP/N1KRBB1Q w Ddb -
+perft1 27
+perft2 744
+perft3 20494
+perft4 571209
+perft5 16188945
+
+name 379
+position fen nrk1b1qb/pppn1ppp/3rp3/3p4/2P3P1/3P4/PPN1PP1P/1RKRBNQB w DBb -
+perft1 35
+perft2 941
+perft3 33203
+perft4 935791
+perft5 33150360
+
+name 380
+position fen nb1rrnbq/ppkp1ppp/8/2p1p3/P7/1N2P3/1PPP1PPP/1BKRRNBQ w - -
+perft1 19
+perft2 451
+perft3 9655
+perft4 235472
+perft5 5506897
+
+name 381
+position fen nrkbrnbq/4pppp/1ppp4/p7/2P1P3/3P2N1/PP3PPP/NRKBR1BQ w EBeb -
+perft1 29
+perft2 591
+perft3 17132
+perft4 384358
+perft5 11245508
+
+name 382
+position fen nrkrnbbq/3p1ppp/1p6/p1p1p3/3P2P1/P4Q2/1PP1PP1P/NRKRNBB1 w DBdb -
+perft1 38
+perft2 792
+perft3 28597
+perft4 640961
+perft5 22654797
+
+name 383
+position fen nr1rnqbb/ppp1pp1p/3k2p1/3p4/1P5P/3P1N2/P1P1PPP1/NRKR1QBB w DB -
+perft1 25
+perft2 758
+perft3 18547
+perft4 543643
+perft5 13890077
+
+name 384
+position fen bbqrnnkr/1ppp1p1p/5p2/p5p1/P7/1P4P1/2PPPP1P/1BQRNNKR w HDhd -
+perft1 20
+perft2 322
+perft3 7224
+perft4 145818
+perft5 3588435
+
+name 385
+position fen bqrb2k1/pppppppr/5nnp/8/3P1P2/4P1N1/PPP3PP/BQRBN1KR w HCc -
+perft1 25
+perft2 597
+perft3 15872
+perft4 397970
+perft5 11162476
+
+name 386
+position fen bqrnn1kr/1pppbppp/8/4p3/1p6/2P1N2P/P2PPPP1/BQR1NBKR w HChc -
+perft1 34
+perft2 921
+perft3 31695
+perft4 864023
+perft5 30126510
+
+name 387
+position fen bqr1nkr1/pppppp2/2n3p1/7p/1P1b1P2/8/PQP1P1PP/B1RNNKRB w GCgc -
+perft1 23
+perft2 788
+perft3 21539
+perft4 686795
+perft5 20849374
+
+name 388
+position fen qbbrnn1r/1pppp1pk/p7/5p1p/P2P3P/3N4/1PP1PPP1/QBBR1NKR w HD -
+perft1 34
+perft2 713
+perft3 24475
+perft4 562189
+perft5 19494094
+
+name 389
+position fen qrbb2kr/p1pppppp/1p1n4/8/1P3n2/P7/Q1PPP1PP/1RBBNNKR w HBhb -
+perft1 28
+perft2 977
+perft3 26955
+perft4 949925
+perft5 27802999
+
+name 390
+position fen qrb2bkr/1pp1pppp/2np1n2/pN6/3P4/4B3/PPP1PPPP/QR2NBKR w HBhb -
+perft1 27
+perft2 730
+perft3 20534
+perft4 585091
+perft5 17005916
+
+name 391
+position fen qrbnnkrb/pp2pp1p/8/2pp2p1/7P/P1P5/QP1PPPP1/1RBNNKRB w GBgb -
+perft1 24
+perft2 813
+perft3 21142
+perft4 707925
+perft5 19615756
+
+name 392
+position fen 1brnb1kr/p1pppppp/1p6/8/4q2n/1P2P1P1/PNPP1P1P/QBR1BNKR w HChc -
+perft1 17
+perft2 734
+perft3 13462
+perft4 530809
+perft5 11032633
+
+name 393
+position fen 1rnbbnkr/1pp1pppp/1q1p4/p7/4P3/5PN1/PPPP1BPP/QRNB2KR w HBhb -
+perft1 26
+perft2 809
+perft3 21764
+perft4 706677
+perft5 20292750
+
+name 394
+position fen qrnnbb1Q/ppp1pk1p/3p2p1/5p2/PP6/5P2/2PPP1PP/1RNNBBKR w HB -
+perft1 37
+perft2 751
+perft3 27902
+perft4 603931
+perft5 22443036
+
+name 395
+position fen qrnnbkrb/p3p1pp/3p1p2/1pp5/PP2P3/8/2PP1PPP/QRNNBRKB w gb -
+perft1 30
+perft2 906
+perft3 27955
+perft4 872526
+perft5 27658191
+
+name 396
+position fen qbrnnkbr/1p2pp1p/p1p3p1/3p4/6P1/P1N4P/1PPPPP2/QBR1NKBR w HChc -
+perft1 26
+perft2 701
+perft3 18930
+perft4 521377
+perft5 14733245
+
+name 397
+position fen qr1b1kbr/1p1ppppp/1n1n4/p1p5/4P3/5NPP/PPPP1P2/QRNB1KBR w HBhb -
+perft1 26
+perft2 649
+perft3 17235
+perft4 451997
+perft5 12367604
+
+name 398
+position fen qrnnkb1r/1pppppp1/7p/p4b2/4P3/5P1P/PPPP2PR/QRNNKBB1 w Bhb -
+perft1 34
+perft2 941
+perft3 31720
+perft4 901240
+perft5 30307554
+
+name 399
+position fen qr1nkrbb/p2ppppp/1pp5/8/3Pn3/1NP3P1/PP2PP1P/QR1NKRBB w FBfb -
+perft1 19
+perft2 505
+perft3 11107
+perft4 294251
+perft5 7046501
+
+name 400
+position fen bbrqn1kr/1pppp1pp/4n3/5p2/p5P1/3P4/PPP1PPKP/BBRQNN1R w hc -
+perft1 24
+perft2 573
+perft3 12963
+perft4 335845
+perft5 8191054
+
+name 401
+position fen brqb1nkr/pppppp1p/8/4N1pn/5P2/6P1/PPPPP2P/BRQB1NKR w HBhb -
+perft1 26
+perft2 550
+perft3 14338
+perft4 331666
+perft5 8903754
+
+name 402
+position fen brqnn1kr/pp3ppp/2pbp3/3p4/8/2NPP3/PPP1BPPP/BRQ1N1KR w HBhb -
+perft1 27
+perft2 780
+perft3 20760
+perft4 589328
+perft5 16243731
+
+name 403
+position fen brq1nkrb/ppp2ppp/8/n2pp2P/P7/4P3/1PPP1PP1/BRQNNKRB w GBgb -
+perft1 17
+perft2 426
+perft3 8295
+perft4 235162
+perft5 5048497
+
+name 404
+position fen rbbqn1kr/pp2p1pp/6n1/2pp1p2/2P4P/P7/BP1PPPP1/R1BQNNKR w HAha -
+perft1 27
+perft2 916
+perft3 25798
+perft4 890435
+perft5 26302461
+
+name 405
+position fen 1qbbn1kr/1ppppppp/r3n3/8/p1P5/P7/1P1PPPPP/RQBBNNKR w HAh -
+perft1 29
+perft2 817
+perft3 24530
+perft4 720277
+perft5 22147642
+
+name 406
+position fen rqbnnbkr/ppp1ppp1/7p/3p4/PP6/7P/1NPPPPP1/RQB1NBKR w HAa -
+perft1 23
+perft2 572
+perft3 14509
+perft4 381474
+perft5 10416981
+
+name 407
+position fen r1bnnkrb/q1ppp1pp/p7/1p3pB1/2P1P3/3P4/PP3PPP/RQ1NNKRB w GAga -
+perft1 31
+perft2 925
+perft3 27776
+perft4 860969
+perft5 26316355
+
+name 408
+position fen rbqnb1kr/ppppp1pp/5p2/5N2/7P/1n3P2/PPPPP1P1/RBQNB1KR w HAha -
+perft1 32
+perft2 864
+perft3 27633
+perft4 766551
+perft5 24738875
+
+name 409
+position fen rqnbbn1r/ppppppp1/6k1/8/6Pp/2PN4/PP1PPPKP/RQ1BBN1R w - -
+perft1 27
+perft2 566
+perft3 15367
+perft4 347059
+perft5 9714509
+
+name 410
+position fen rqnnbbkr/p1p2pp1/1p1p3p/4p3/4NP2/6P1/PPPPP2P/RQN1BBKR w HAha -
+perft1 27
+perft2 631
+perft3 17923
+perft4 452734
+perft5 13307890
+
+name 411
+position fen 1qnnbrkb/rppp1ppp/p3p3/8/4P3/2PP1P2/PP4PP/RQNNBKRB w GA -
+perft1 24
+perft2 479
+perft3 12135
+perft4 271469
+perft5 7204345
+
+name 412
+position fen rbqnn1br/p1pppk1p/1p4p1/5p2/8/P1P2P2/1PBPP1PP/R1QNNKBR w HA -
+perft1 31
+perft2 756
+perft3 23877
+perft4 625194
+perft5 20036784
+
+name 413
+position fen rqnbnkbr/1ppppp2/p5p1/8/1P4p1/4PP2/P1PP3P/RQNBNKBR w HAha -
+perft1 24
+perft2 715
+perft3 18536
+perft4 575589
+perft5 16013189
+
+name 414
+position fen rq1nkbbr/1p2pppp/p2n4/2pp4/1P4P1/P2N4/2PPPP1P/RQ1NKBBR w HAha -
+perft1 27
+perft2 694
+perft3 19840
+perft4 552904
+perft5 16685687
+
+name 415
+position fen r1nnkrbb/pp1pppp1/2p3q1/7p/8/1PPP3P/P3PPP1/RQNNKRBB w FAfa -
+perft1 18
+perft2 520
+perft3 10808
+perft4 329085
+perft5 7508201
+
+name 416
+position fen bbrnqk1r/pppp3p/6p1/4pp2/3P2P1/8/PPP1PP1P/BBRN1NKR w HC -
+perft1 22
+perft2 566
+perft3 12965
+perft4 362624
+perft5 8721079
+
+name 417
+position fen brnb1nkr/pppqpp2/3p2pp/8/3PP3/1P6/PBP2PPP/1RNBQNKR w HBhb -
+perft1 32
+perft2 859
+perft3 28517
+perft4 817464
+perft5 27734108
+
+name 418
+position fen brnq1b1r/ppp1ppkp/3p1np1/8/8/5P1P/PPPPPKPR/BRNQNB2 w - -
+perft1 21
+perft2 511
+perft3 10951
+perft4 273756
+perft5 6372681
+
+name 419
+position fen brnq1rkb/1pppppp1/3n3p/p7/8/P4NP1/1PPPPPRP/BRNQ1K1B w B -
+perft1 25
+perft2 548
+perft3 14049
+perft4 341208
+perft5 9015901
+
+name 420
+position fen rbb1qnkr/p1ppp1pp/1p3p2/6n1/8/1PN1P2P/P1PP1PP1/RBB1QNKR w HAha -
+perft1 25
+perft2 673
+perft3 16412
+perft4 467660
+perft5 12099119
+
+name 421
+position fen rnbb1nkr/1ppp1ppp/4p3/p5q1/6P1/1PP5/PB1PPP1P/RN1BQNKR w HAha -
+perft1 19
+perft2 663
+perft3 14149
+perft4 489653
+perft5 11491355
+
+name 422
+position fen rnbqnbkr/1pp1p2p/3p1p2/p5p1/5PP1/2P5/PPNPP2P/RNBQ1BKR w HAha -
+perft1 24
+perft2 647
+perft3 16679
+perft4 461931
+perft5 12649636
+
+name 423
+position fen rnb2krb/pppqppnp/8/3p2p1/1P4P1/7P/P1PPPPB1/RNBQNKR1 w GAga -
+perft1 24
+perft2 722
+perft3 18749
+perft4 605229
+perft5 16609220
+
+name 424
+position fen rbnqb1kr/pppn1pp1/3p3p/4p3/1P6/P7/R1PPPPPP/1BNQBNKR w Hha -
+perft1 20
+perft2 538
+perft3 12277
+perft4 345704
+perft5 8687621
+
+name 425
+position fen rnqb1nkr/p1pbp1pp/8/1pPp1p2/P2P4/8/1P2PPPP/RNQBBNKR w HAha -
+perft1 35
+perft2 764
+perft3 26952
+perft4 632796
+perft5 22592380
+
+name 426
+position fen rnq1bbkr/1p1ppp1p/4n3/p1p3p1/P1PP4/8/RP2PPPP/1NQNBBKR w Hha -
+perft1 29
+perft2 709
+perft3 21296
+perft4 570580
+perft5 17597398
+
+name 427
+position fen 1nqnbkrb/1pppp2p/r7/p4pp1/3P4/8/PPPBPPPP/RNQNK1RB w g -
+perft1 27
+perft2 1028
+perft3 28534
+perft4 1050834
+perft5 30251988
+
+name 428
+position fen rbnqnkbr/p1pp1p1p/8/1p2p3/3P2pP/2P5/PP2PPP1/RBNQNKBR w HAha -
+perft1 32
+perft2 832
+perft3 27120
+perft4 750336
+perft5 24945574
+
+name 429
+position fen rnq1nkbr/1p1p1ppp/2p1pb2/p7/7P/2P5/PPNPPPPB/RNQB1K1R w HAha -
+perft1 31
+perft2 779
+perft3 24010
+perft4 638640
+perft5 19919434
+
+name 430
+position fen rnqnk1br/p1ppp1bp/1p3p2/6p1/4N3/P5P1/1PPPPP1P/R1QNKBBR w HAha -
+perft1 25
+perft2 717
+perft3 19396
+perft4 576577
+perft5 16525239
+
+name 431
+position fen rnq1krbb/p1p1pppp/8/1p1p4/1n5B/2N2P2/PPPPP1PP/RNQ1KR1B w FAfa -
+perft1 28
+perft2 867
+perft3 24029
+perft4 735686
+perft5 21112751
+
+name 432
+position fen bbrnnqkr/1pp1pppp/3p4/p7/P3P3/7P/1PPP1PP1/BBRNNQKR w HChc -
+perft1 24
+perft2 405
+perft3 11025
+perft4 210557
+perft5 6196438
+
+name 433
+position fen brnbnqkr/p1ppp3/1p5p/5Pp1/5P2/3N4/PPPPP2P/BRNB1QKR w HBhb g6
+perft1 25
+perft2 785
+perft3 21402
+perft4 698331
+perft5 20687969
+
+name 434
+position fen br1nqbkr/1ppppp2/pn6/6pp/2PP4/1N4P1/PP2PP1P/BR1NQBKR w HBhb -
+perft1 25
+perft2 596
+perft3 16220
+perft4 421882
+perft5 12185361
+
+name 435
+position fen 1rnnqkrb/p2ppp1p/1pp5/2N3p1/8/1P6/P1PPPPKP/BR1NQ1RB w gb -
+perft1 38
+perft2 960
+perft3 34831
+perft4 913665
+perft5 32490040
+
+name 436
+position fen rbbnnqkr/pp3pp1/2p1p3/3p3p/3P3P/1PP5/P3PPP1/RBBNNQKR w HAha -
+perft1 30
+perft2 785
+perft3 23079
+perft4 656618
+perft5 19885037
+
+name 437
+position fen rn1bnqkr/p1ppppp1/8/1p5p/P4P1P/3N4/1PPPP1b1/RNBB1QKR w HAha -
+perft1 27
+perft2 752
+perft3 21735
+perft4 613194
+perft5 18862234
+
+name 438
+position fen 1nbnqbkr/1p1p1ppp/r3p3/p1p5/P3P3/3Q4/1PPP1PPP/RNBN1BKR w HAh -
+perft1 33
+perft2 721
+perft3 24278
+perft4 572535
+perft5 19648535
+
+name 439
+position fen rnbnqkrb/2pppppp/1p6/p7/1PP5/4N2P/P2PPPP1/RNB1QKRB w GAg -
+perft1 23
+perft2 570
+perft3 14225
+perft4 374196
+perft5 10022614
+
+name 440
+position fen rbnnbq1r/ppppppkp/6p1/N7/4P3/P7/1PPP1PPP/RB1NBQKR w HA -
+perft1 27
+perft2 620
+perft3 18371
+perft4 440594
+perft5 13909432
+
+name 441
+position fen r1nbbqkr/pppppp1p/8/8/1n3Pp1/3N1QP1/PPPPP2P/RN1BB1KR w HAha -
+perft1 31
+perft2 791
+perft3 25431
+perft4 682579
+perft5 22408813
+
+name 442
+position fen rnq1bbkr/pp1p1ppp/2pnp3/8/7P/1QP5/PP1PPPPR/RNN1BBK1 w Aha -
+perft1 28
+perft2 559
+perft3 16838
+perft4 390887
+perft5 12242780
+
+name 443
+position fen rnnqbrkb/2ppppp1/1p1N4/p6p/4P3/8/PPPP1PPP/R1NQBKRB w GA -
+perft1 32
+perft2 638
+perft3 20591
+perft4 438792
+perft5 14395828
+
+name 444
+position fen rbnnq1br/pppp1kp1/4pp2/7p/PP6/2PP4/4PPPP/RBNNQKBR w HA -
+perft1 21
+perft2 521
+perft3 12201
+perft4 320429
+perft5 8239159
+
+name 445
+position fen rnnbqkbr/p2ppp2/7p/1pp3p1/2P2N2/8/PP1PPPPP/RN1BQKBR w HAha -
+perft1 25
+perft2 528
+perft3 13896
+perft4 326094
+perft5 9079829
+
+name 446
+position fen rnn1kbbr/ppppqp2/6p1/2N1p2p/P7/2P5/1P1PPPPP/RN1QKBBR w HAha -
+perft1 27
+perft2 801
+perft3 22088
+perft4 707078
+perft5 20334071
+
+name 447
+position fen rnnqkrbb/p1p1p1pp/1p3p2/8/3p2Q1/P1P1P3/1P1P1PPP/RNN1KRBB w FAfa -
+perft1 37
+perft2 1014
+perft3 34735
+perft4 998999
+perft5 32921537
+
+name 448
+position fen bbrnk1qr/1pppppp1/p4n1p/8/P2P2N1/8/1PP1PPPP/BBR1NKQR w HC -
+perft1 21
+perft2 481
+perft3 11213
+perft4 279993
+perft5 7015419
+
+name 449
+position fen brnbnkqr/1pp1p1p1/p2p1p2/7p/1P4PP/8/PBPPPP2/1RNBNKQR w HBhb -
+perft1 31
+perft2 743
+perft3 24260
+perft4 660177
+perft5 22391185
+
+name 450
+position fen br2kbqr/ppppp1pp/3n1p2/3P4/3n3P/3N4/PPP1PPP1/BR1NKBQR w HBhb -
+perft1 25
+perft2 872
+perft3 22039
+perft4 748726
+perft5 20281962
+
+name 451
+position fen br1nkqrb/ppppppp1/8/7p/4P3/n1P2PP1/PP1P3P/BRNNKQRB w GBgb -
+perft1 28
+perft2 607
+perft3 16934
+perft4 396483
+perft5 11607818
+
+name 452
+position fen rbbn1kqr/pp1pp1p1/2pn3p/5p2/5P2/1P1N4/PNPPP1PP/RBB2KQR w HAha -
+perft1 27
+perft2 725
+perft3 21543
+perft4 616082
+perft5 19239812
+
+name 453
+position fen rnbbnk1r/pp1ppp1p/6q1/2p5/PP4p1/4P3/2PP1PPP/RNBBNKQR w HAha -
+perft1 25
+perft2 1072
+perft3 26898
+perft4 1088978
+perft5 28469879
+
+name 454
+position fen rnbnkbqr/1pp3pp/3p4/p3pp2/3P2P1/2N1N3/PPP1PP1P/R1B1KBQR w HAha -
+perft1 31
+perft2 1028
+perft3 32907
+perft4 1095472
+perft5 36025223
+
+name 455
+position fen r1bnkqrb/1ppppppp/p3n3/8/6P1/4N3/PPPPPPRP/RNB1KQ1B w Aga -
+perft1 23
+perft2 457
+perft3 11416
+perft4 250551
+perft5 6666787
+
+name 456
+position fen rbn1bkqr/p1pp1pp1/1pn5/4p2p/7P/1PBP4/P1P1PPP1/RBNN1KQR w HAha -
+perft1 23
+perft2 470
+perft3 11649
+perft4 264274
+perft5 6963287
+
+name 457
+position fen rnnbbkqr/3ppppp/p7/1pp5/P6P/6P1/1PPPPP2/RNNBBKQR w HAha -
+perft1 26
+perft2 569
+perft3 15733
+perft4 375556
+perft5 11008114
+
+name 458
+position fen r1nk1bqr/1pppp1pp/2n5/p4p1b/5P2/1N4B1/PPPPP1PP/RN1K1BQR w HAha -
+perft1 25
+perft2 824
+perft3 21983
+perft4 738366
+perft5 20904119
+
+name 459
+position fen r1nkbqrb/p2pppp1/npp4p/8/4PP2/2N4P/PPPP2P1/R1NKBQRB w GAga -
+perft1 31
+perft2 548
+perft3 17480
+perft4 349633
+perft5 11469548
+
+name 460
+position fen rbnnkqbr/ppppp2p/5p2/6p1/2P1B3/P6P/1P1PPPP1/R1NNKQBR w HAha -
+perft1 31
+perft2 809
+perft3 24956
+perft4 680747
+perft5 21247414
+
+name 461
+position fen 1r1bkqbr/pppp1ppp/2nnp3/8/2P5/N4P2/PP1PP1PP/1RNBKQBR w Hh -
+perft1 28
+perft2 810
+perft3 22844
+perft4 694599
+perft5 20188622
+
+name 462
+position fen rn1kqbbr/p1pppp1p/1p4p1/1n6/1P2P3/4Q2P/P1PP1PP1/RNNK1BBR w HAha -
+perft1 39
+perft2 848
+perft3 30100
+perft4 724426
+perft5 25594662
+
+name 463
+position fen rn1kqrbb/pppppppp/8/8/2nP2P1/1P2P3/P1P2P1P/RNNKQRBB w FAfa -
+perft1 29
+perft2 766
+perft3 21701
+perft4 567971
+perft5 16944425
+
+name 464
+position fen b1rnnkrq/bpppppp1/7p/8/1p6/2B5/PNPPPPPP/1BR1NKRQ w GCgc -
+perft1 25
+perft2 667
+perft3 17253
+perft4 472678
+perft5 12865247
+
+name 465
+position fen brnb1krq/pppppppp/8/5P2/2P1n2P/8/PP1PP1P1/BRNBNKRQ w GBgb -
+perft1 23
+perft2 620
+perft3 14882
+perft4 402561
+perft5 10776855
+
+name 466
+position fen b1nnkbrq/pr1pppp1/1p5p/2p5/P2N1P2/8/1PPPP1PP/BR1NKBRQ w GBg -
+perft1 24
+perft2 472
+perft3 12181
+perft4 267398
+perft5 7370758
+
+name 467
+position fen br1nkrqb/p1p1p1pp/3n4/1p1p1p2/5N1P/4P3/PPPP1PP1/BR1NKRQB w FBfb -
+perft1 24
+perft2 775
+perft3 19398
+perft4 624309
+perft5 16429837
+
+name 468
+position fen rbbnnkrq/p2pp1pp/2p5/5p2/1pPP1B2/P7/1P2PPPP/RB1NNKRQ w GAga -
+perft1 34
+perft2 921
+perft3 30474
+perft4 849933
+perft5 28095833
+
+name 469
+position fen rnbbnkr1/1p1ppp1p/2p3p1/p7/2Pq4/1P1P4/P2BPPPP/RN1BNKRQ w GAga -
+perft1 26
+perft2 1139
+perft3 29847
+perft4 1204863
+perft5 32825932
+
+name 470
+position fen 1rbnkbrq/pppppp2/n5pp/2P5/P7/4N3/1P1PPPPP/RNB1KBRQ w GAg -
+perft1 23
+perft2 574
+perft3 14146
+perft4 391413
+perft5 10203438
+
+name 471
+position fen 1nbnkr1b/rppppppq/p7/7p/1P5P/3P2P1/P1P1PP2/RNBNKRQB w FAf -
+perft1 33
+perft2 823
+perft3 26696
+perft4 724828
+perft5 23266182
+
+name 472
+position fen rbn1bkrq/ppppp3/4n2p/5pp1/1PN5/2P5/P2PPPPP/RBN1BKRQ w GAga -
+perft1 27
+perft2 859
+perft3 24090
+perft4 796482
+perft5 23075785
+
+name 473
+position fen r1nbbkrq/1ppp2pp/2n2p2/p3p3/5P2/1N4BP/PPPPP1P1/RN1B1KRQ w GAga -
+perft1 25
+perft2 774
+perft3 20141
+perft4 618805
+perft5 16718577
+
+name 474
+position fen rnnkbbrq/1pppp1p1/5p2/7p/p6P/3N1P2/PPPPP1PQ/RN1KBBR1 w GAga -
+perft1 29
+perft2 673
+perft3 20098
+perft4 504715
+perft5 15545590
+
+name 475
+position fen r1nkbrqb/pppp1p2/n3p1p1/7p/2P2P2/1P6/P2PPQPP/RNNKBR1B w FAfa -
+perft1 27
+perft2 722
+perft3 21397
+perft4 593762
+perft5 18742426
+
+name 476
+position fen rbnnkr1q/1ppp2pp/p4p2/P2bp3/4P2P/8/1PPP1PP1/RBNNKRBQ w FAfa -
+perft1 26
+perft2 848
+perft3 23387
+perft4 741674
+perft5 21591790
+
+name 477
+position fen rn1bkrb1/1ppppp1p/pn4p1/8/P2q3P/3P4/NPP1PPP1/RN1BKRBQ w FAfa -
+perft1 22
+perft2 803
+perft3 18322
+perft4 632920
+perft5 15847763
+
+name 478
+position fen rn1krbbq/pppp1npp/4pp2/8/4P2P/3P2P1/PPP2P2/RNNKRBBQ w EAea -
+perft1 29
+perft2 810
+perft3 23968
+perft4 670500
+perft5 20361517
+
+name 479
+position fen rnn1rqbb/ppkp1pp1/2p1p2p/2P5/8/3P1P2/PP2P1PP/RNNKRQBB w EA -
+perft1 22
+perft2 506
+perft3 11973
+perft4 292344
+perft5 7287368
+
+name 480
+position fen bbqr1knr/pppppp1p/8/4n1p1/2P1P3/6P1/PPQP1P1P/BB1RNKNR w HDhd -
+perft1 26
+perft2 650
+perft3 18253
+perft4 481200
+perft5 14301029
+
+name 481
+position fen bq1bnknr/pprppp1p/8/2p3p1/4PPP1/8/PPPP3P/BQRBNKNR w HCh -
+perft1 24
+perft2 548
+perft3 14021
+perft4 347611
+perft5 9374021
+
+name 482
+position fen bqrnkb1r/1p2pppp/p1pp3n/5Q2/2P4P/5N2/PP1PPPP1/B1RNKB1R w HChc -
+perft1 46
+perft2 823
+perft3 33347
+perft4 673905
+perft5 26130444
+
+name 483
+position fen bq1rknrb/pppppp1p/4n3/6p1/4P1P1/3P1P2/PPP4P/BQRNKNRB w GCg -
+perft1 23
+perft2 618
+perft3 14815
+perft4 419474
+perft5 10606831
+
+name 484
+position fen q1brnknr/pp1pp1p1/8/2p2p1p/5b2/P4N2/1PPPP1PP/QBBRK1NR w hd -
+perft1 22
+perft2 675
+perft3 15778
+perft4 473994
+perft5 12077228
+
+name 485
+position fen qrbbnknr/1p1ppp1p/p1p5/8/1P2P1p1/3P1B2/P1P2PPP/QRB1NKNR w HBhb -
+perft1 32
+perft2 722
+perft3 24049
+perft4 569905
+perft5 19584539
+
+name 486
+position fen qrb1kbnr/p3pppp/2n5/1ppp4/7P/3P1P2/PPP1P1PR/QRBNKBN1 w Bhb -
+perft1 26
+perft2 831
+perft3 22606
+perft4 724505
+perft5 20500804
+
+name 487
+position fen qrbnknrb/ppp1pp2/6p1/7p/PPNp4/8/2PPPPPP/QRB1KNRB w GBgb -
+perft1 31
+perft2 840
+perft3 26762
+perft4 742772
+perft5 24422614
+
+name 488
+position fen qbrnbknr/pp1pp1pp/8/2p2p2/3Q4/PP6/2PPPPPP/1BRNBKNR w HChc -
+perft1 38
+perft2 1121
+perft3 39472
+perft4 1198438
+perft5 41108769
+
+name 489
+position fen qr1bbk1r/pppppp1p/1n6/5np1/4B3/1PP5/P2PPPPP/QRN1BKNR w HBhb -
+perft1 25
+perft2 694
+perft3 16938
+perft4 472950
+perft5 12164609
+
+name 490
+position fen qrnkbbnr/1p1pp2p/p7/2p1Npp1/6P1/7P/PPPPPP2/QR1KBBNR w HBhb -
+perft1 27
+perft2 586
+perft3 16348
+perft4 393391
+perft5 11409633
+
+name 491
+position fen qrnkbnrb/pp1p1p2/2p1p1pp/4N3/P4P2/8/1PPPP1PP/QR1KBNRB w GBgb -
+perft1 32
+perft2 645
+perft3 20737
+perft4 460319
+perft5 15037464
+
+name 492
+position fen qbrnknbr/1pppppp1/p6p/8/1P6/3PP3/PQP2PPP/1BRNKNBR w HChc -
+perft1 26
+perft2 595
+perft3 16755
+perft4 415022
+perft5 12214768
+
+name 493
+position fen qrnbk1br/1ppppp1p/p5p1/8/4Pn2/4K1P1/PPPP1P1P/QRNB1NBR w hb -
+perft1 24
+perft2 609
+perft3 13776
+perft4 359415
+perft5 8538539
+
+name 494
+position fen qrnk1bbr/1pnp1ppp/p1p1p3/8/3Q4/1P1N3P/P1PPPPP1/1RNK1BBR w HBhb -
+perft1 43
+perft2 1106
+perft3 42898
+perft4 1123080
+perft5 41695761
+
+name 495
+position fen qrnknrb1/pppppp2/8/6pp/4P2P/3P1P2/PbP3P1/QRNKNRBB w FBfb -
+perft1 24
+perft2 658
+perft3 17965
+perft4 488373
+perft5 14457245
+
+name 496
+position fen bbrqnrk1/ppp2ppp/7n/3pp3/8/P4N1N/1PPPPPPP/BBRQ1RK1 w - -
+perft1 22
+perft2 503
+perft3 12078
+perft4 310760
+perft5 8080951
+
+name 497
+position fen brqbnk1r/1ppp1ppp/8/p3pn2/8/2PP1P2/PP2PKPP/BRQBN1NR w hb -
+perft1 25
+perft2 745
+perft3 19387
+perft4 570459
+perft5 15520298
+
+name 498
+position fen brqnkbnr/pp2pp1p/3p4/2p5/5p2/3P3P/PPP1PPP1/B1RNKBNR w Hhb -
+perft1 19
+perft2 516
+perft3 10755
+perft4 312996
+perft5 6995034
+
+name 499
+position fen brq1kn1b/1ppppprp/2n3p1/p7/P1N5/6P1/1PPPPP1P/BRQNK1RB w GBb -
+perft1 29
+perft2 557
+perft3 16739
+perft4 352277
+perft5 10840256
+
+name 500
+position fen rbbq1k1r/ppp1pppp/7n/1n1p4/5P2/P2P4/1PPBP1PP/RB1QNKNR w HAha -
+perft1 25
+perft2 769
+perft3 20110
+perft4 638340
+perft5 17438715
+
+name 501
+position fen r1bbnk1r/qpp1pppp/p6n/3p4/1P6/5N1P/P1PPPPP1/RQBBK1NR w ha -
+perft1 23
+perft2 728
+perft3 18209
+perft4 587364
+perft5 16053564
+
+name 502
+position fen rqbnkbnr/1pp2p1p/3p4/p3p1p1/8/2P2P2/PP1PPNPP/RQBNKB1R w HAha -
+perft1 26
+perft2 772
+perft3 21903
+perft4 653704
+perft5 19571559
+
+name 503
+position fen r1bnknrb/pqppp1p1/1p5p/5p2/7P/3P2N1/PPP1PPP1/RQBNK1RB w GAga -
+perft1 27
+perft2 748
+perft3 20291
+perft4 597105
+perft5 16324542
+
+name 504
+position fen rbqnbknr/pp1pppp1/8/2p5/3P3p/5N1P/PPP1PPPR/RBQNBK2 w Aha -
+perft1 30
+perft2 859
+perft3 26785
+perft4 819631
+perft5 26363334
+
+name 505
+position fen rqnbbrk1/ppppppp1/8/5n1p/3P3P/2B3P1/PPP1PP2/RQNB1KNR w HA -
+perft1 22
+perft2 505
+perft3 11452
+perft4 283464
+perft5 7055215
+
+name 506
+position fen rqnkbbnr/pp2p1p1/8/2pp1p1p/3PPP2/8/PPP1N1PP/RQNKBB1R w HAha -
+perft1 28
+perft2 832
+perft3 23142
+perft4 722857
+perft5 20429246
+
+name 507
+position fen rqnkbnr1/pppp2bp/6p1/4pp2/1P2P3/3NN3/P1PP1PPP/RQ1KB1RB w GAga -
+perft1 28
+perft2 641
+perft3 18835
+perft4 459993
+perft5 14038570
+
+name 508
+position fen rbq2kbr/pppppppp/2n5/P7/3P1n2/2P5/1P2PPPP/RBQNKNBR w HA -
+perft1 31
+perft2 889
+perft3 27028
+perft4 766181
+perft5 24299415
+
+name 509
+position fen rq1bkn1r/ppppp2p/3n4/5pp1/2b3P1/1N1P1P2/PPP1P2P/RQ1BKNBR w HAha -
+perft1 28
+perft2 810
+perft3 22667
+perft4 657520
+perft5 18719949
+
+name 510
+position fen r1nknbbr/p2ppp1p/1pp3p1/8/1P6/4P3/P1PPNPPq/R1QKNBBR w HAha -
+perft1 24
+perft2 797
+perft3 22144
+perft4 719069
+perft5 21862776
+
+name 511
+position fen rqnknrbb/ppp1p3/5ppp/2Np4/2P5/4P3/PP1P1PPP/RQNK1RBB w FAfa -
+perft1 34
+perft2 686
+perft3 23277
+perft4 515541
+perft5 17664543
+
+name 512
+position fen 1brnqknr/2p1pppp/p2p4/1P6/6P1/4Nb2/PP1PPP1P/BBR1QKNR w HChc -
+perft1 34
+perft2 1019
+perft3 32982
+perft4 1003103
+perft5 33322477
+
+name 513
+position fen brn1qknr/1p1pppp1/pb5p/Q1p5/3P3P/8/PPP1PPPR/BRNB1KN1 w Bhb -
+perft1 32
+perft2 642
+perft3 20952
+perft4 464895
+perft5 15454749
+
+name 514
+position fen brnqkbnr/pppppp2/8/6pp/6P1/P2P1P2/1PP1P2P/BRNQKBNR w HBhb -
+perft1 20
+perft2 441
+perft3 9782
+perft4 240220
+perft5 5770284
+
+name 515
+position fen 2nqknrb/1rpppppp/5B2/pp6/1PP1b3/3P4/P3PPPP/1RNQKNRB w GBg -
+perft1 35
+perft2 1042
+perft3 36238
+perft4 1101159
+perft5 38505058
+
+name 516
+position fen rb1nqknr/1pp1pppp/8/3p4/p2P4/6PN/PPPQPP1P/RBBN1K1R w HAha -
+perft1 29
+perft2 692
+perft3 21237
+perft4 555018
+perft5 17820605
+
+name 517
+position fen rnbbqknr/pppp4/5p2/4p1pp/P7/2N2PP1/1PPPP2P/R1BBQKNR w HAha -
+perft1 23
+perft2 595
+perft3 14651
+perft4 415772
+perft5 10881112
+
+name 518
+position fen rn1qkbnr/p1p1pp1p/bp4p1/3p4/1P6/4P3/P1PP1PPP/RNBQKBNR w HAha -
+perft1 30
+perft2 794
+perft3 24319
+perft4 690811
+perft5 21657601
+
+name 519
+position fen r1bqk1rb/pppnpppp/5n2/3p4/2P3PP/2N5/PP1PPP2/R1BQKNRB w GAga -
+perft1 32
+perft2 821
+perft3 27121
+perft4 733155
+perft5 24923473
+
+name 520
+position fen rbnqbknr/1p1ppp1p/6p1/p1p5/7P/3P4/PPP1PPP1/RBNQBKNR w HAha -
+perft1 24
+perft2 720
+perft3 18842
+perft4 575027
+perft5 15992882
+
+name 521
+position fen r1qbbk1r/pp1ppppp/n1p5/5n2/B1P3P1/8/PP1PPP1P/RNQ1BKNR w HAha -
+perft1 27
+perft2 831
+perft3 22293
+perft4 698986
+perft5 19948650
+
+name 522
+position fen rnqkbb1r/p1pppppp/8/8/1p4n1/PP4PP/2PPPP2/RNQKBBNR w HAha -
+perft1 18
+perft2 463
+perft3 9519
+perft4 256152
+perft5 6065231
+
+name 523
+position fen rnqk1nrb/pppbpp2/7p/3p2p1/4B3/2N1N1P1/PPPPPP1P/R1QKB1R1 w GAga -
+perft1 34
+perft2 1171
+perft3 38128
+perft4 1318217
+perft5 42109356
+
+name 524
+position fen rbnqknbr/1pp1ppp1/3p4/7p/p2P2PP/2P5/PP2PP2/RBNQKNBR w HAha -
+perft1 32
+perft2 867
+perft3 28342
+perft4 798722
+perft5 26632459
+
+name 525
+position fen rn1bknbr/pq2pppp/1p6/2pp4/P7/1P1P4/2PNPPPP/RNQBK1BR w HAha -
+perft1 24
+perft2 627
+perft3 16652
+perft4 462942
+perft5 13200921
+
+name 526
+position fen r1qk1bbr/ppp1pp1p/2np1n2/6p1/2PP4/3BP3/PP3PPP/RNQKN1BR w HAha -
+perft1 31
+perft2 992
+perft3 30213
+perft4 986631
+perft5 30397368
+
+name 527
+position fen r1qknrbb/pppp1p2/2n3p1/4p2p/8/QPP5/P1NPPPPP/RN1K1RBB w FAfa -
+perft1 30
+perft2 702
+perft3 21563
+perft4 532939
+perft5 16813114
+
+name 528
+position fen bbkr1qnr/2pppppp/2n5/pp6/8/PPN5/1BPPPPPP/1BR1KQNR w HC -
+perft1 25
+perft2 573
+perft3 15183
+perft4 380910
+perft5 10554668
+
+name 529
+position fen 1rnbkqnr/1bpppppp/1p6/7P/p2P4/5P2/PPP1P1P1/BRNBKQNR w HBhb -
+perft1 21
+perft2 503
+perft3 11790
+perft4 301084
+perft5 7679979
+
+name 530
+position fen brnkqbnr/2p1pppp/1p6/3p4/1pP5/P6P/3PPPP1/BRNKQBNR w HBhb -
+perft1 28
+perft2 743
+perft3 21054
+perft4 587192
+perft5 17354516
+
+name 531
+position fen br1kqnrb/npp1pppp/8/3p4/p4N2/PP6/2PPPPPP/BR1KQNRB w GBgb -
+perft1 31
+perft2 808
+perft3 25585
+perft4 698475
+perft5 22376575
+
+name 532
+position fen rbbnkq1r/pppppp1p/7n/6p1/P5P1/2P2N2/1P1PPP1P/RBBNKQ1R w HAha -
+perft1 29
+perft2 580
+perft3 17585
+perft4 404831
+perft5 12730970
+
+name 533
+position fen rnbbk1nr/pp2qppp/2ppp3/8/3P4/P1N4N/1PP1PPPP/R1BBKQ1R w HAha -
+perft1 29
+perft2 838
+perft3 24197
+perft4 721884
+perft5 21100580
+
+name 534
+position fen rnbk1b1r/ppppn1pp/4pp2/7q/7P/P5PB/1PPPPP2/RNBKQ1NR w HAha -
+perft1 20
+perft2 729
+perft3 16633
+perft4 576199
+perft5 14507076
+
+name 535
+position fen r2kqnrb/pbppppp1/np5p/8/4Q1P1/3P4/PPP1PP1P/RNBK1NRB w GAga -
+perft1 47
+perft2 1219
+perft3 55009
+perft4 1486353
+perft5 65239153
+
+name 536
+position fen rbnkbq1r/p1p2ppp/1p2pn2/3p4/P3P3/3P4/1PP1KPPP/RBN1BQNR w ha -
+perft1 29
+perft2 923
+perft3 27179
+perft4 883866
+perft5 26202752
+
+name 537
+position fen rk1bb1nr/ppppqppp/n7/1N2p3/6P1/7N/PPPPPP1P/R1KBBQ1R w HA -
+perft1 27
+perft2 703
+perft3 19478
+perft4 559525
+perft5 16049807
+
+name 538
+position fen rnkqbbnr/p1ppp2p/1p4p1/8/1B3p1P/2NP4/PPP1PPP1/R1KQ1BNR w HAha -
+perft1 29
+perft2 610
+perft3 18855
+perft4 438277
+perft5 14020041
+
+name 539
+position fen rnkqb1rb/pp1p1ppp/4p3/2P3n1/8/1PP5/P3PPPP/RNKQBNRB w GAga -
+perft1 29
+perft2 675
+perft3 20699
+perft4 535821
+perft5 17000613
+
+name 540
+position fen rb1kqnbr/pp1pp1p1/1np2p2/7p/P1P3PP/8/1P1PPP2/RBNKQNBR w HAha -
+perft1 31
+perft2 1077
+perft3 33661
+perft4 1183381
+perft5 37415304
+
+name 541
+position fen rnkbq1br/ppp2ppp/3p4/Q3p1n1/5P2/3P2P1/PPP1P2P/RNKB1NBR w HAha -
+perft1 41
+perft2 1201
+perft3 46472
+perft4 1420367
+perft5 52991625
+
+name 542
+position fen rn1qnbbr/pp2pppp/2ppk3/8/2PP4/3Q1N2/PP2PPPP/RNK2BBR w HA -
+perft1 34
+perft2 666
+perft3 22474
+perft4 472299
+perft5 15860369
+
+name 543
+position fen rnkqnr1b/ppppp1pp/5p2/8/Q1P2P2/8/PP1P2PP/RbK1NRBB w FAfa -
+perft1 36
+perft2 876
+perft3 31987
+perft4 788580
+perft5 29022529
+
+name 544
+position fen bbrn1nqr/ppp1k1pp/5p2/3pp3/7P/3PN3/PPP1PPP1/BBRK1NQR w - -
+perft1 24
+perft2 583
+perft3 15063
+perft4 383532
+perft5 10522064
+
+name 545
+position fen brnbkn1r/1pppp1p1/4q3/p4p1p/7P/1N3P2/PPPPP1PQ/BR1BKN1R w HBhb -
+perft1 27
+perft2 935
+perft3 26120
+perft4 885699
+perft5 26000648
+
+name 546
+position fen br1knbqr/pp2p1pp/1n6/2pp1p2/6P1/2P4B/PP1PPPQP/BRNKN2R w HBhb -
+perft1 27
+perft2 681
+perft3 19202
+perft4 510687
+perft5 14954779
+
+name 547
+position fen brnk1qrb/p1ppppp1/1p5p/8/P3n3/1N4P1/1PPPPPRP/BR1KNQ1B w Bgb -
+perft1 22
+perft2 638
+perft3 13991
+perft4 412346
+perft5 9760752
+
+name 548
+position fen rbbnknqr/pppp3p/5pp1/8/1P1pP3/7P/P1P2PP1/RBBNKNQR w HAha -
+perft1 29
+perft2 756
+perft3 21616
+perft4 614074
+perft5 17602252
+
+name 549
+position fen 1nbbknqr/rpp1ppp1/1Q1p3p/p7/2P2PP1/8/PP1PP2P/RNBBKN1R w HAh -
+perft1 37
+perft2 977
+perft3 34977
+perft4 944867
+perft5 33695089
+
+name 550
+position fen rnb2bqr/ppkpppp1/3n3p/2p5/6PP/2N2P2/PPPPP3/R1BKNBQR w HA -
+perft1 30
+perft2 647
+perft3 20365
+perft4 467780
+perft5 15115531
+
+name 551
+position fen rn1k1qrb/p1pppppp/bp6/8/4n3/P4BPP/1PPPPP2/RNBKNQR1 w GAga -
+perft1 22
+perft2 670
+perft3 14998
+perft4 451517
+perft5 11199653
+
+name 552
+position fen rb2bnqr/nppkpppp/3p4/p7/1P6/P2N2P1/2PPPP1P/RB1KBNQR w HA -
+perft1 22
+perft2 479
+perft3 11475
+perft4 264739
+perft5 6831555
+
+name 553
+position fen r1kbb1qr/2pppppp/np2n3/p7/2P3P1/8/PP1PPPQP/RNKBBN1R w HAha -
+perft1 32
+perft2 723
+perft3 23953
+perft4 581832
+perft5 19472074
+
+name 554
+position fen rnknbb1r/p1ppp1pp/8/1p1P1p1q/8/P1P5/1P2PPPP/RNKNBBQR w HAha -
+perft1 19
+perft2 607
+perft3 12733
+perft4 417451
+perft5 9753617
+
+name 555
+position fen rnkn1qrb/pp1bp1pp/2p5/1N1p1p2/8/2P5/PPKPPPPP/R2NBQRB w ga -
+perft1 27
+perft2 533
+perft3 14549
+perft4 330747
+perft5 9206957
+
+name 556
+position fen r1nknqbr/pp2p1pp/2p2p2/3p4/6P1/PP1P4/2P1PP1b/RBNKNQBR w HAha -
+perft1 20
+perft2 582
+perft3 13777
+perft4 409166
+perft5 10708639
+
+name 557
+position fen rnkb1qbr/p1pp1p1p/1p2pn2/1Q4p1/4P3/N4P2/PPPP2PP/R1KBN1BR w HAha -
+perft1 40
+perft2 1038
+perft3 39356
+perft4 1051441
+perft5 39145902
+
+name 558
+position fen rn2qbbr/1pkppp1p/p3n1p1/8/8/2P2P2/PP1PP1PP/RNKN1BBR w HA -
+perft1 24
+perft2 605
+perft3 14888
+perft4 385964
+perft5 9687507
+
+name 559
+position fen rn1nqrbb/p1kppp1p/8/1pp3p1/1P6/2N1P3/P1PP1PPP/RK1NQRBB w - -
+perft1 21
+perft2 540
+perft3 12489
+perft4 337997
+perft5 8436136
+
+name 560
+position fen bbrnknrq/1pp3pp/p2p1p2/4p3/P7/1P2N3/2PPPPPP/BBRN1RKQ w gc -
+perft1 24
+perft2 527
+perft3 13900
+perft4 326175
+perft5 9139962
+
+name 561
+position fen brnb1nrq/pppp1kpp/4p3/8/5p1P/P1P3P1/1P1PPP2/BRNBKNRQ w GB -
+perft1 29
+perft2 773
+perft3 23904
+perft4 638768
+perft5 20503775
+
+name 562
+position fen br1k1brq/ppppp2p/1n1n1pp1/8/P1P5/3P2P1/1P2PP1P/BRNKNBRQ w GBgb -
+perft1 28
+perft2 811
+perft3 23550
+perft4 664880
+perft5 19913758
+
+name 563
+position fen 1r1knrqb/n1pppppp/p1b5/1p6/8/3N1P2/PPPPP1PP/BRNK1RQB w fb -
+perft1 29
+perft2 753
+perft3 23210
+perft4 620019
+perft5 20044474
+
+name 564
+position fen rbbnk1rq/pppppppp/8/3Pn3/8/4P1P1/PPP2P1P/RBBNKNRQ w GAga -
+perft1 22
+perft2 551
+perft3 12619
+perft4 324608
+perft5 8204171
+
+name 565
+position fen rnbbk1rq/2pppp1p/p3n1p1/1p6/P3N3/8/1PPPPPPP/RNBB1KRQ w ga -
+perft1 26
+perft2 742
+perft3 20061
+perft4 599527
+perft5 16787080
+
+name 566
+position fen rnbkn1rq/ppppppb1/6p1/7p/2B2P2/1P2P3/P1PP2PP/RNBKN1RQ w GAga -
+perft1 28
+perft2 799
+perft3 23210
+perft4 689436
+perft5 20755098
+
+name 567
+position fen rn1knrqb/p2pppp1/b1p5/1p5p/2P2P2/1P6/P2PP1PP/RNBKNRQB w FAfa -
+perft1 30
+perft2 579
+perft3 18481
+perft4 397545
+perft5 13257198
+
+name 568
+position fen rbnkbnrq/pp2p1Np/2p2p2/8/3p4/8/PPPPPPPP/RBNKBR1Q w Aga -
+perft1 23
+perft2 670
+perft3 16435
+perft4 501883
+perft5 13012378
+
+name 569
+position fen rk1bbnrq/ppp1pppp/n7/3p4/5P2/3P2NP/PPP1P1P1/RNKBB1RQ w GA -
+perft1 26
+perft2 597
+perft3 16238
+perft4 402506
+perft5 11269462
+
+name 570
+position fen r1knbbrq/pppp2p1/2n1p2p/5p2/4P3/P1PP4/1P3PPP/RNKNBBRQ w GAga -
+perft1 20
+perft2 596
+perft3 13091
+perft4 399069
+perft5 9416862
+
+name 571
+position fen rnknbrqb/p1p1pp1p/3p4/1p1N2p1/8/N7/PPPPPPPP/1RK1BRQB w Ffa -
+perft1 26
+perft2 724
+perft3 18942
+perft4 552040
+perft5 15257204
+
+name 572
+position fen rbnknrb1/1p1ppp1p/p1p3p1/8/1P3P2/1R6/PqPPP1PP/RBNKN1BQ w Afa -
+perft1 31
+perft2 1183
+perft3 34723
+perft4 1289502
+perft5 38722152
+
+name 573
+position fen rnkbnrbq/2p1ppp1/p7/1p1p3p/3P4/1P4P1/P1P1PP1P/RNKBNRBQ w FAfa -
+perft1 24
+perft2 506
+perft3 12748
+perft4 301464
+perft5 8086100
+
+name 574
+position fen r1knrbbq/pp1ppppp/2p1n3/8/2P3P1/P7/1PKPPP1P/RN1NRBBQ w ea -
+perft1 28
+perft2 570
+perft3 16037
+perft4 352471
+perft5 10278695
+
+name 575
+position fen rnknrq1b/ppp1p1p1/4b3/3p1p1p/6P1/P4P2/1PPPPQ1P/RNKNR1BB w EAea -
+perft1 30
+perft2 739
+perft3 23124
+perft4 594962
+perft5 19252739
+
+name 576
+position fen bbqr1krn/pppp1p1p/5n2/4p1p1/3P4/P3QP2/1PP1P1PP/BB1RNKRN w GDgd -
+perft1 31
+perft2 799
+perft3 25627
+perft4 674913
+perft5 22172123
+
+name 577
+position fen bq1b1krn/pp1ppppp/3n4/2r5/3p3N/6N1/PPP1PPPP/BQRB1KR1 w GCg -
+perft1 21
+perft2 798
+perft3 18571
+perft4 688429
+perft5 17546069
+
+name 578
+position fen bqrnkbrn/2pp1pp1/p7/1p2p2p/1P6/4N3/P1PPPPPP/BQR1KBRN w GCgc -
+perft1 27
+perft2 783
+perft3 22327
+perft4 670798
+perft5 20059741
+
+name 579
+position fen bqr1krnb/1np1pppp/8/pp1p4/8/2P2N2/PP1PPPPP/BQRNKR1B w FCfc -
+perft1 28
+perft2 636
+perft3 18874
+perft4 461104
+perft5 14237097
+
+name 580
+position fen qbb1rkrn/1ppppppp/p7/7n/8/P2P4/1PP1PPPP/QBBRNKRN w Gg -
+perft1 25
+perft2 547
+perft3 13837
+perft4 332918
+perft5 8849383
+
+name 581
+position fen 1rbbnkrn/p1p1pp1p/2q5/1p1p2p1/8/2P3P1/PP1PPP1P/QRBBNKRN w GBgb -
+perft1 24
+perft2 1010
+perft3 24370
+perft4 983770
+perft5 24328258
+
+name 582
+position fen qrb1kbrn/ppp1p2p/4npp1/3p4/8/1PP4P/PR1PPPP1/Q1BNKBRN w Ggb -
+perft1 18
+perft2 451
+perft3 9291
+perft4 247310
+perft5 5568106
+
+name 583
+position fen qr2krnb/p1p1pppp/b1np4/1p6/3NP3/7P/PPPP1PP1/QRBNKR1B w FBfb -
+perft1 25
+perft2 667
+perft3 17081
+perft4 476030
+perft5 12458875
+
+name 584
+position fen qbrnbkrn/ppp3pp/3p4/5p2/2P1pP2/6PP/PP1PP3/QBRNBKRN w GCgc -
+perft1 24
+perft2 650
+perft3 16835
+perft4 445263
+perft5 12187382
+
+name 585
+position fen qrnb1krn/ppp1p1pp/5p2/2Np4/b2P4/2P5/PP2PPPP/QR1BBKRN w GBgb -
+perft1 27
+perft2 641
+perft3 17490
+perft4 432041
+perft5 12103076
+
+name 586
+position fen qrnkbbrn/pp2pp2/8/2pp2pp/6PP/3P4/PPPKPP2/QRN1BBRN w gb -
+perft1 22
+perft2 554
+perft3 13116
+perft4 357404
+perft5 9014737
+
+name 587
+position fen qrnkbrnb/p1p1ppp1/1p6/3p4/3P3p/5N1P/PPP1PPP1/QRNKBR1B w FBfb -
+perft1 24
+perft2 529
+perft3 13205
+perft4 318722
+perft5 8295874
+
+name 588
+position fen qbr1krbn/1pppp1pp/p7/5pn1/2PP4/8/PPB1PPPP/Q1RNKRBN w FCfc -
+perft1 26
+perft2 831
+perft3 21651
+perft4 696830
+perft5 18961456
+
+name 589
+position fen 1rnbkrbn/1qp1pppp/3p4/pp6/4P3/1NP4P/PP1P1PP1/QR1BKRBN w FBfb -
+perft1 24
+perft2 597
+perft3 15089
+perft4 404761
+perft5 10832084
+
+name 590
+position fen q1rkrbbn/ppp1pppp/8/3p4/1PnP4/P7/1RP1PPPP/Q1NKRBBN w Ee -
+perft1 20
+perft2 520
+perft3 10769
+perft4 278067
+perft5 6452205
+
+name 591
+position fen qrnkrn1b/ppppp1pp/4b3/7P/6p1/P7/1PPPPP2/QRNKRNBB w EBeb -
+perft1 26
+perft2 566
+perft3 15623
+perft4 381312
+perft5 10940750
+
+name 592
+position fen bbr1nkrn/ppp1pppp/3q4/3p4/8/P7/1PPPPPPP/BBRQNRKN w gc -
+perft1 19
+perft2 661
+perft3 13895
+perft4 460396
+perft5 10870247
+
+name 593
+position fen brqbnkrn/pp1pp2p/5pp1/2p5/4P3/P2P1N2/1PP2PPP/BRQB1KRN w GBgb -
+perft1 27
+perft2 679
+perft3 19916
+perft4 527306
+perft5 16391730
+
+name 594
+position fen 2qnkbrn/p1pppppp/8/1r6/1p2bP2/7N/PPPPP1PP/BR1QKBRN w GBg -
+perft1 18
+perft2 774
+perft3 15713
+perft4 635461
+perft5 14371755
+
+name 595
+position fen r1qnkr1b/p1pppppp/7n/1p6/8/1P3b1N/PRPPPPPP/B1QNK1RB w f -
+perft1 21
+perft2 677
+perft3 15437
+perft4 501520
+perft5 12463801
+
+name 596
+position fen rbbqn1rn/pppp1pp1/3k4/4p2Q/2PPP3/8/PP3PPP/RBB1NKRN w GA -
+perft1 40
+perft2 742
+perft3 28757
+perft4 579833
+perft5 21852196
+
+name 597
+position fen rqbbnkrn/3pppp1/p1p4p/1p6/5P2/P2N4/1PPPP1PP/RQBBK1RN w ga -
+perft1 23
+perft2 665
+perft3 16400
+perft4 492544
+perft5 12794736
+
+name 598
+position fen r2nkbrn/pp2pppp/8/2ppqb2/2P3P1/5P2/PP1PPN1P/RQB1KBRN w GAga -
+perft1 28
+perft2 1108
+perft3 31164
+perft4 1194581
+perft5 34780853
+
+name 599
+position fen rqbnk1nb/p1pppr1p/5p2/1p4p1/1PP1P3/8/P2P1PPP/RQBNKRNB w FAa -
+perft1 26
+perft2 650
+perft3 18208
+perft4 491403
+perft5 14565370
+
+name 600
+position fen rbqnb1rn/p1pp1kpp/1p2pp2/8/4P2P/P5P1/1PPP1P2/RBQNBKRN w GA -
+perft1 20
+perft2 437
+perft3 9423
+perft4 222154
+perft5 5282124
+
+name 601
+position fen rqnbbkrn/p1p1pppp/3p4/1p5B/8/1P1NP3/P1PP1PPP/RQ2BKRN w GAga -
+perft1 30
+perft2 606
+perft3 18382
+perft4 422491
+perft5 12989786
+
+name 602
+position fen rqnkbbr1/ppppp1pp/5p2/7n/8/2PNP2P/PP1P1PP1/RQ1KBBRN w GAga -
+perft1 23
+perft2 482
+perft3 12506
+perft4 297869
+perft5 8430874
+
+name 603
+position fen r1nkbrnb/2ppppp1/1q6/pp5p/1P6/P3P3/2PPKPPP/RQN1BRNB w fa -
+perft1 25
+perft2 827
+perft3 21518
+perft4 701071
+perft5 19290675
+
+name 604
+position fen rbqnkrbn/p1ppppp1/7p/1p6/7P/2N1P3/PPPP1PPB/RBQ1KR1N w FAfa -
+perft1 30
+perft2 627
+perft3 18566
+perft4 440217
+perft5 12976682
+
+name 605
+position fen r1nbkrbn/p1qp1ppp/8/1pp1p3/2P1P3/6P1/PP1PBP1P/RQN1KRBN w FAfa -
+perft1 22
+perft2 616
+perft3 14503
+perft4 431199
+perft5 10850952
+
+name 606
+position fen rqnkr1bn/ppp1ppb1/3p2pp/8/P7/2P2P2/1PKPP1PP/RQN1RBBN w ea -
+perft1 31
+perft2 679
+perft3 21365
+perft4 493500
+perft5 15661072
+
+name 607
+position fen r2krnbb/qppp1ppp/1n6/p3p3/PP6/4N3/N1PPPPPP/RQ1KR1BB w EAea -
+perft1 24
+perft2 645
+perft3 17054
+perft4 487028
+perft5 13837270
+
+name 608
+position fen bbr1qk1n/1ppppp1p/2n5/p7/P7/1P2P3/2PP1PrP/1BRNQKRN w GCc -
+perft1 18
+perft2 520
+perft3 10680
+perft4 304462
+perft5 7215306
+
+name 609
+position fen brnbq1rn/2ppppkp/p5p1/1p6/8/1BP3P1/PP1PPP1P/BRN1QRKN w - -
+perft1 21
+perft2 625
+perft3 13989
+perft4 419667
+perft5 9929336
+
+name 610
+position fen brn1kbrn/pp2p1pp/3p4/q1p2p2/2P4P/6P1/PP1PPP2/BRNQKBRN w GBgb -
+perft1 18
+perft2 477
+perft3 10205
+perft4 273925
+perft5 6720181
+
+name 611
+position fen brn1krnb/p3pppp/1qpp4/1p6/2P3P1/1P6/P2PPP1P/BRNQKRNB w FBfb -
+perft1 30
+perft2 835
+perft3 24761
+perft4 716151
+perft5 21806428
+
+name 612
+position fen r1b1qkrn/1p1ppppp/p1p1n3/8/4P3/1PN5/P1PPQPPb/RBB2KRN w GAga -
+perft1 28
+perft2 825
+perft3 24536
+perft4 716585
+perft5 22079005
+
+name 613
+position fen r1bbqk1n/p1pppprp/n7/1p4p1/5P2/2N3N1/PPPPP1PP/1RBBQKR1 w Ga -
+perft1 25
+perft2 545
+perft3 14657
+perft4 358854
+perft5 10271111
+
+name 614
+position fen rnbqkbrn/p1pp1pp1/4p3/7p/2p4P/2P5/PP1PPPP1/R1BQKBRN w GAga -
+perft1 17
+perft2 445
+perft3 9076
+perft4 255098
+perft5 5918310
+
+name 615
+position fen rnbqkrnb/1p1pp1p1/2p4p/p4p2/3P2P1/7N/PPPBPP1P/RN1QKR1B w FAfa -
+perft1 34
+perft2 746
+perft3 25319
+perft4 623133
+perft5 21285553
+
+name 616
+position fen rbnqbkr1/1ppppp2/p5n1/6pp/4P3/1N6/PPPP1PPP/RBQ1BRKN w ga -
+perft1 18
+perft2 466
+perft3 9683
+perft4 260864
+perft5 6051500
+
+name 617
+position fen rnqb1krn/ppppp1p1/7p/7b/P1P2pPP/8/1P1PPP2/RNQBBKRN w GAga -
+perft1 24
+perft2 575
+perft3 15400
+perft4 385825
+perft5 11039042
+
+name 618
+position fen rnqkbbr1/p1pp1ppp/4p3/1p6/P3P2n/5P2/1PPP1NPP/RNQKBBR1 w GAga -
+perft1 27
+perft2 803
+perft3 22883
+perft4 694449
+perft5 20666099
+
+name 619
+position fen rn1kbrnb/1qppp1pp/1p6/p4p2/1B1P4/1P5N/P1P1PPPP/RNQK1R1B w FAfa -
+perft1 37
+perft2 1209
+perft3 43015
+perft4 1425600
+perft5 49748034
+
+name 620
+position fen rbnqkrbn/Bppp1p2/p5pp/4p3/5P2/6PP/PPPPP3/RBNQKR1N w FAfa -
+perft1 29
+perft2 720
+perft3 20434
+perft4 534148
+perft5 15384362
+
+name 621
+position fen rnqbkr1n/1p1ppbpp/3p1p2/p7/8/1P6/P1PPPPPP/R1QBKRBN w FAfa -
+perft1 20
+perft2 657
+perft3 14424
+perft4 492678
+perft5 11843134
+
+name 622
+position fen rnqkrb1n/ppppp3/6p1/5p1p/2b2P2/P1N5/1PPPP1PP/RQ1KRBBN w EAea -
+perft1 28
+perft2 749
+perft3 20684
+perft4 543151
+perft5 15379233
+
+name 623
+position fen rnqk1nbb/1pp2ppp/3pr3/p3p3/3P1P2/2N3N1/PPP1P1PP/R1QKR1BB w EAa -
+perft1 29
+perft2 883
+perft3 26412
+perft4 815098
+perft5 25144295
+
+name 624
+position fen bbr1kqrn/p1p1ppp1/1p2n2p/3p4/1P1P4/2N5/P1P1PPPP/BBR1KQRN w GCgc -
+perft1 22
+perft2 485
+perft3 11475
+perft4 271271
+perft5 6825123
+
+name 625
+position fen brnbkq1n/ppp1ppr1/7p/3p2p1/2P3PP/8/PPBPPP2/BRN1KQRN w GBb -
+perft1 30
+perft2 634
+perft3 19017
+perft4 442537
+perft5 13674310
+
+name 626
+position fen brnkqbr1/1pppp1pp/5p2/p7/P1P1P2n/8/1P1P1PP1/BRNKQBRN w GBgb -
+perft1 21
+perft2 504
+perft3 11672
+perft4 305184
+perft5 7778289
+
+name 627
+position fen b1rkqrnb/p1ppp1pp/1p1n4/5p2/5P2/PN5P/1PPPP1P1/BR1KQRNB w FBf -
+perft1 23
+perft2 688
+perft3 17259
+perft4 531592
+perft5 14228372
+
+name 628
+position fen 1bbnkqrn/rppppp2/p5p1/7p/7P/P1P1P3/1P1P1PP1/RBBNKQRN w GAg -
+perft1 25
+perft2 450
+perft3 12391
+perft4 263946
+perft5 7752404
+
+name 629
+position fen rnbbkqr1/1pppppp1/7p/p3n3/PP5P/8/1BPPPPP1/RN1BKQRN w GAga -
+perft1 23
+perft2 543
+perft3 12224
+perft4 305812
+perft5 7549008
+
+name 630
+position fen r1bkqbrn/ppppp1pp/8/5p2/3nPP2/1P4N1/P1PP2PP/RNBKQBR1 w GAga -
+perft1 27
+perft2 751
+perft3 21158
+perft4 600417
+perft5 17989920
+
+name 631
+position fen rnbkqr1b/1p1pp1pp/p4p1n/2p5/1P5P/N4P2/P1PPP1P1/R1BKQRNB w FAfa -
+perft1 21
+perft2 498
+perft3 11738
+perft4 302278
+perft5 7808375
+
+name 632
+position fen rbnkbqrn/p1p3pp/1p1p4/B3pp2/3P2P1/6N1/PPP1PP1P/RBNK1QR1 w GAga -
+perft1 34
+perft2 977
+perft3 33464
+perft4 961128
+perft5 33318567
+
+name 633
+position fen r1kbbqrn/ppp3pp/2np1p2/1P2p3/3P1P2/8/P1P1P1PP/RNKBBQRN w GAga -
+perft1 32
+perft2 920
+perft3 28916
+perft4 844881
+perft5 26763259
+
+name 634
+position fen rk1qbbrn/p2npppp/1p6/2p4Q/8/4P3/PPPP1PPP/RNK1B1RN w GA -
+perft1 35
+perft2 657
+perft3 22359
+perft4 495406
+perft5 16662477
+
+name 635
+position fen rnk1brnb/pp1p1pp1/8/q1p1p2p/5P2/NP6/P1PPP1PP/R1KQBRNB w FAfa -
+perft1 26
+perft2 774
+perft3 20215
+perft4 610661
+perft5 16987110
+
+name 636
+position fen rb1kqrbn/npp1ppp1/p7/3P3p/2PP4/8/PP3PPP/RBNKQRBN w FAfa -
+perft1 35
+perft2 775
+perft3 27395
+perft4 661118
+perft5 23983464
+
+name 637
+position fen rnkb1rbn/pp1p2pp/8/2p1pp1q/P6P/1PN5/2PPPPP1/R1KBQRBN w FAfa -
+perft1 22
+perft2 899
+perft3 21188
+perft4 850597
+perft5 21518343
+
+name 638
+position fen rnkqrbbn/1pppp1p1/8/p2N1p1p/2P4P/8/PP1PPPP1/R1KQRBBN w EAea -
+perft1 29
+perft2 585
+perft3 17571
+perft4 393221
+perft5 12238776
+
+name 639
+position fen rnk1r1bb/pp1ppppp/1q4n1/2p5/5P1P/3PP3/PPP3P1/RNKQRNBB w EAea -
+perft1 27
+perft2 884
+perft3 24613
+perft4 811915
+perft5 23698701
+
+name 640
+position fen bbrnkrqn/1ppp1p2/6pp/p3p3/5PP1/2PB4/PP1PP2P/B1RNKRQN w FCfc -
+perft1 37
+perft2 693
+perft3 25425
+perft4 550527
+perft5 20138432
+
+name 641
+position fen b1rbkrqn/ppp2ppp/1n2p3/3p4/6P1/2PP4/PP2PP1P/BRNBKRQN w FBf -
+perft1 21
+perft2 463
+perft3 10610
+perft4 253204
+perft5 6307276
+
+name 642
+position fen brnkrb1n/1pp1p1pp/3p4/p1Nq1p2/2P5/8/PP1PPPPP/BRK1RBQN w eb -
+perft1 27
+perft2 725
+perft3 17842
+perft4 496072
+perft5 12604078
+
+name 643
+position fen brn1r1nb/ppppkppp/4p3/8/2PP1P2/8/PP1KP1PP/BRN1RQNB w - -
+perft1 25
+perft2 623
+perft3 16874
+perft4 426659
+perft5 12290985
+
+name 644
+position fen rbb1krqn/1pp1pp1p/p3n1p1/3pP3/8/1PN5/P1PP1PPP/RBB1KRQN w FAfa d6
+perft1 23
+perft2 529
+perft3 12641
+perft4 310277
+perft5 7861413
+
+name 645
+position fen r1bbkrqn/p1pppppp/8/4n3/1p5P/P2P2P1/1PP1PP2/RNBBKRQN w FAfa -
+perft1 23
+perft2 571
+perft3 13133
+perft4 346793
+perft5 8699448
+
+name 646
+position fen rnbkrbqn/p1pp1ppp/4p3/1p6/8/BPN3P1/P1PPPP1P/R2KRBQN w EAea -
+perft1 29
+perft2 692
+perft3 20014
+perft4 500375
+perft5 14904192
+
+name 647
+position fen rnbkrqn1/pppppp2/8/1Q2b1pp/P3P3/5P2/1PPP2PP/RNBKR1NB w EAea -
+perft1 37
+perft2 1001
+perft3 36440
+perft4 987842
+perft5 35626426
+
+name 648
+position fen rbnkbrqn/p1pppp2/7p/1p4pP/3P1P2/8/PPP1P1P1/RBNKBRQN w FAfa -
+perft1 30
+perft2 564
+perft3 17143
+perft4 381364
+perft5 11859538
+
+name 649
+position fen 1nkbbrqn/3ppppp/r1p5/pp6/8/4PP2/PPPPN1PP/RNKBBRQ1 w FAf -
+perft1 26
+perft2 546
+perft3 14641
+perft4 344592
+perft5 9556962
+
+name 650
+position fen rnkrbbq1/pppppnp1/7p/8/1B1Q1p2/3P1P2/PPP1P1PP/RNKR1B1N w DAda -
+perft1 43
+perft2 887
+perft3 36240
+perft4 846858
+perft5 33185346
+
+name 651
+position fen 1rkrbqnb/pppppp2/2n3p1/7p/3P3P/P4N2/1PP1PPP1/RNKRBQ1B w DAd -
+perft1 26
+perft2 622
+perft3 16049
+perft4 403921
+perft5 10786140
+
+name 652
+position fen rbnkr1bn/pp1pqp1p/2p1p3/6p1/3P4/7P/PPP1PPP1/RBNKRQBN w EAea -
+perft1 19
+perft2 566
+perft3 12257
+perft4 381197
+perft5 9107175
+
+name 653
+position fen r1kbrqb1/pppp2pp/2n1p1n1/5p1B/4PP2/P7/1PPP2PP/RNK1RQBN w EAea -
+perft1 39
+perft2 1359
+perft3 53626
+perft4 1876028
+perft5 73871486
+
+name 654
+position fen rnkrqbbn/p1p3pp/1p1ppp2/8/1P6/3P2P1/PKP1PP1P/RN1RQBBN w da -
+perft1 26
+perft2 776
+perft3 20735
+perft4 611907
+perft5 16884013
+
+name 655
+position fen rnkrqnbb/ppp2p1p/3p4/4p1p1/3P3P/N1Q5/PPP1PPP1/R1KR1NBB w DAda -
+perft1 40
+perft2 1175
+perft3 45637
+perft4 1375884
+perft5 52620163
+
+name 656
+position fen bbrnkrn1/p1pppp2/1p6/6pp/3q4/1P3QP1/P1PPPP1P/BBRNKRN1 w FCfc -
+perft1 34
+perft2 1398
+perft3 45749
+perft4 1712950
+perft5 57268492
+
+name 657
+position fen br1bkrnq/1p2pppp/pnp5/3p4/P1P5/5P2/1P1PPKPP/BRNB1RNQ w fb -
+perft1 24
+perft2 501
+perft3 12237
+perft4 284936
+perft5 7049659
+
+name 658
+position fen brnkrbn1/pppppp1q/B6p/6p1/8/1P2PP2/P1PP2PP/BRNKR1NQ w EBeb -
+perft1 34
+perft2 815
+perft3 25868
+perft4 700970
+perft5 22006883
+
+name 659
+position fen br1krnqb/pppppp1p/1n4p1/8/8/P2NN3/2PPPPPP/BR1K1RQB w Beb -
+perft1 37
+perft2 1029
+perft3 36748
+perft4 1025712
+perft5 36214583
+
+name 660
+position fen rbbnkr1q/p1p2ppp/1p1ppn2/8/1PP4P/8/P2PPPP1/RBBNKRNQ w FAfa -
+perft1 28
+perft2 755
+perft3 22623
+perft4 605106
+perft5 18972778
+
+name 661
+position fen r1b1krnq/pp2pppp/1bn5/2pp4/4N3/5P2/PPPPPRPP/R1BBK1NQ w Afa -
+perft1 24
+perft2 705
+perft3 17427
+perft4 532521
+perft5 13532966
+
+name 662
+position fen 1nbkrbn1/rpppppqp/p7/6p1/4P3/3P2P1/PPP1KP1P/RNB1RBNQ w e -
+perft1 31
+perft2 800
+perft3 24748
+perft4 693366
+perft5 21193292
+
+name 663
+position fen r1bkrnqb/pp3ppp/n1ppp3/8/1P5P/P7/R1PPPPP1/1NBKRNQB w Eea -
+perft1 21
+perft2 482
+perft3 11417
+perft4 275339
+perft5 7112890
+
+name 664
+position fen rbnkbrnq/ppp1p2p/5p2/3p2p1/1B1P4/1N4P1/PPP1PP1P/RB1K1RNQ w FAfa -
+perft1 33
+perft2 780
+perft3 25532
+perft4 628945
+perft5 20756770
+
+name 665
+position fen rnk1brnq/pp1ppppp/2p5/b7/8/1P2P2P/P1PP1PPQ/RNKBBRN1 w FAfa -
+perft1 29
+perft2 648
+perft3 19043
+perft4 449637
+perft5 13722785
+
+name 666
+position fen rnkrbbnq/p1p3pp/5p2/1p1pp3/P7/1PN2P2/2PPP1PP/R1KRBBNQ w DAda -
+perft1 26
+perft2 827
+perft3 21865
+perft4 683167
+perft5 18916370
+
+name 667
+position fen r1krbnqb/p1pp1ppp/2n1p3/8/1p4P1/PPP5/3PPP1P/RNKRBNQB w DAda -
+perft1 25
+perft2 540
+perft3 14709
+perft4 331332
+perft5 9491817
+
+name 668
+position fen rbnkrnbq/ppp1pp2/3p2p1/2N5/P6p/2P5/1P1PPPPP/RB1KRNBQ w EAea -
+perft1 32
+perft2 790
+perft3 25107
+perft4 661207
+perft5 20906017
+
+name 669
+position fen rnkbrn1q/1ppppppb/8/p4N1p/8/P1N5/1PPPPPPP/R1KBR1BQ w EAea -
+perft1 31
+perft2 691
+perft3 20813
+perft4 510665
+perft5 15308408
+
+name 670
+position fen rnkrnbbq/p1p2ppp/3pp3/1p6/6P1/4PQ1B/PPPP1P1P/RNKRN1B1 w DAda -
+perft1 29
+perft2 558
+perft3 16800
+perft4 352887
+perft5 10825379
+
+name 671
+position fen rnkrnqbb/pp2p1p1/3p3p/2p2p2/5P2/1P1N4/P1PPPQPP/RNKR2BB w DAda -
+perft1 29
+perft2 762
+perft3 23210
+perft4 644936
+perft5 20522675
+
+name 672
+position fen bb1rknnr/ppqppppp/8/2p5/3P1N2/1P6/P1P1PPPP/BBQRKN1R w HDhd -
+perft1 33
+perft2 963
+perft3 32279
+perft4 1000890
+perft5 34552118
+
+name 673
+position fen bqrbknnr/ppp1p2p/8/3p1p2/5p2/P3N2P/1PPPP1P1/BQRBK1NR w HChc -
+perft1 20
+perft2 398
+perft3 9009
+perft4 194859
+perft5 4834319
+
+name 674
+position fen b1rk1bnr/qpp1pppp/p4n2/3p4/3PPP2/7N/PPP3PP/BQRKNB1R w HChc -
+perft1 25
+perft2 648
+perft3 16587
+perft4 455720
+perft5 12200870
+
+name 675
+position fen bqkrnnrb/pppp2p1/4pp2/4P2p/6P1/7P/PPPP1P2/BQRKNNRB w GC -
+perft1 30
+perft2 493
+perft3 15118
+perft4 280726
+perft5 8786998
+
+name 676
+position fen q1brknnr/1p1ppppp/p7/2p5/8/1PPP4/P2RPPPP/QBB1KNNR w Hhd -
+perft1 25
+perft2 501
+perft3 13206
+perft4 290463
+perft5 7982978
+
+name 677
+position fen qrb1k1nr/ppppb1pp/6n1/4ppN1/3P4/4N3/PPP1PPPP/QRBBK2R w HBhb -
+perft1 31
+perft2 872
+perft3 26191
+perft4 739276
+perft5 22493014
+
+name 678
+position fen 1rbknbnr/1ppp1pp1/q6p/p3p3/5P2/2PPB3/PP2P1PP/QR1KNBNR w HBhb -
+perft1 28
+perft2 1020
+perft3 28147
+perft4 984000
+perft5 27484692
+
+name 679
+position fen qrbk2rb/1ppp1ppp/5nn1/p3p3/1N6/P7/1PPPPPPP/QRB1KNRB w gb -
+perft1 23
+perft2 592
+perft3 14398
+perft4 395716
+perft5 10098215
+
+name 680
+position fen qbrk1nnr/1pp1pppp/2b5/p2p4/P2P2P1/8/1PP1PP1P/QBKRBNNR w hc -
+perft1 26
+perft2 654
+perft3 18103
+perft4 471653
+perft5 13740891
+
+name 681
+position fen qrkbbnnr/ppp2p1p/4p3/3p2p1/P7/2PP4/1P2PPPP/QRKBBNNR w HBhb -
+perft1 25
+perft2 626
+perft3 16616
+perft4 431634
+perft5 12079406
+
+name 682
+position fen qr1kbbnr/ppp1pp1p/4n1p1/2Pp4/6P1/4N3/PP1PPP1P/QRK1BBNR w HB d6
+perft1 26
+perft2 699
+perft3 18068
+perft4 497152
+perft5 13353359
+
+name 683
+position fen qrk1b1rb/p1pppppp/3nnQ2/1p6/1P3P2/3P4/P1P1P1PP/1RKNBNRB w GBgb -
+perft1 43
+perft2 1369
+perft3 55463
+perft4 1831200
+perft5 71514365
+
+name 684
+position fen qbrk1nbr/pppp3p/5n2/4ppp1/3P1P2/4N3/PPP1P1PP/QBKRN1BR w hc -
+perft1 25
+perft2 752
+perft3 20165
+perft4 615263
+perft5 17493373
+
+name 685
+position fen qrkb1nbr/1pppppQp/3n4/p7/5p2/1P1N4/P1PPP1PP/1RKB1NBR w HBhb -
+perft1 45
+perft2 946
+perft3 40100
+perft4 966903
+perft5 39736157
+
+name 686
+position fen qrk1nbbr/ppp1p1p1/4n2p/3p1p2/1P5P/3P2P1/P1P1PP2/QRKNNBBR w HBhb -
+perft1 32
+perft2 770
+perft3 25367
+perft4 646977
+perft5 21717615
+
+name 687
+position fen qrkn1rbb/pp2pppp/2p5/3p4/P2Qn1P1/1P6/2PPPP1P/1RKNNRBB w FBfb -
+perft1 38
+perft2 943
+perft3 35335
+perft4 868165
+perft5 31909835
+
+name 688
+position fen bbrqknnr/ppp4p/3pp3/5pp1/4PP2/5Q2/PPPP2PP/BBR1KNNR w HChc -
+perft1 36
+perft2 843
+perft3 29974
+perft4 758528
+perft5 26828059
+
+name 689
+position fen 1rqbkn1r/p1p1pppp/1p5n/P2p4/3Pb1P1/8/1PP1PP1P/BRQBKNNR w HBhb -
+perft1 23
+perft2 778
+perft3 19482
+perft4 649789
+perft5 17337683
+
+name 690
+position fen br1knbnr/1qp1pppp/pp1p4/8/8/PP6/2PPPPPP/BRQKNBNR w HBhb -
+perft1 26
+perft2 697
+perft3 18835
+perft4 546622
+perft5 15280079
+
+name 691
+position fen brqk2rb/ppppp1pp/4np2/8/2n5/3P1Q2/PP2PPPP/BR1KNNRB w GBgb -
+perft1 32
+perft2 948
+perft3 30434
+perft4 885713
+perft5 29821322
+
+name 692
+position fen r1bqknnr/pp1pp1p1/5p1p/2p1b2N/2P5/8/PPQPPPPP/RBB1K1NR w HAha -
+perft1 31
+perft2 785
+perft3 25549
+perft4 659952
+perft5 22244193
+
+name 693
+position fen rqbbknnr/ppppp2p/5pp1/8/8/1P3PP1/PQPPP2P/R1BBKNNR w HAha -
+perft1 23
+perft2 391
+perft3 10163
+perft4 198450
+perft5 5576671
+
+name 694
+position fen rqbknbnr/1pp1p2p/p7/3p1pp1/7N/1PP5/P2PPPPP/RQBK1BNR w HAha -
+perft1 27
+perft2 676
+perft3 19606
+perft4 522428
+perft5 15955388
+
+name 695
+position fen rqb1nnrb/2ppkppp/1p2p3/p7/2PPP3/1P6/P4PPP/RQBKNNRB w GA -
+perft1 31
+perft2 727
+perft3 22895
+perft4 570647
+perft5 18361051
+
+name 696
+position fen rb1kbn1r/p1ppppp1/qp5n/7p/P7/RPP5/3PPPPP/1BQKBNNR w Hha -
+perft1 29
+perft2 837
+perft3 23815
+perft4 730083
+perft5 21279560
+
+name 697
+position fen rqkbb1nr/p1p2ppp/1p1p2n1/3Np3/4P3/5N2/PPPP1PPP/RQKBB2R w HAha -
+perft1 28
+perft2 717
+perft3 20663
+perft4 550987
+perft5 16347343
+
+name 698
+position fen rqknbbr1/p1pppp1p/1p3np1/8/4P3/2P2P1P/PP1P2P1/RQKNBBNR w HAa -
+perft1 27
+perft2 650
+perft3 18231
+perft4 475303
+perft5 13847463
+
+name 699
+position fen r1k1bnrb/1qpppppp/1p2n3/p7/1P5P/6P1/P1PPPP2/RQKNBNR1 w GAga -
+perft1 24
+perft2 806
+perft3 20693
+perft4 713220
+perft5 19382263
+
+name 700
+position fen rb1knnbr/1pp1ppp1/p2p3p/5q2/3B2P1/3P1P2/PPP1P2P/RBQKNN1R w HAha -
+perft1 34
+perft2 1360
+perft3 44096
+perft4 1605706
+perft5 51973672
+
+name 701
+position fen rqkb1nbr/p1p1ppp1/1p3n1p/2Qp4/8/2P5/PP1PPPPP/R1KBNNBR w HAha -
+perft1 39
+perft2 983
+perft3 38218
+perft4 940989
+perft5 36347815
+
+name 702
+position fen rqknnbbr/2pppp2/pp5p/6p1/1P1P4/4PP2/P1P3PP/RQKNNBBR w HAha -
+perft1 26
+perft2 628
+perft3 17638
+perft4 464924
+perft5 13787303
+
+name 703
+position fen rqkn1rbb/1pp1pppp/p7/3p4/3Pn3/2P1PP2/PP4PP/RQKNNRBB w FAfa -
+perft1 20
+perft2 527
+perft3 12216
+perft4 321533
+perft5 8082183
+
+name 704
+position fen bbrkqn1r/1pppppp1/5n2/p7/1PP2P1p/7N/P2PP1PP/BBRKQN1R w HChc -
+perft1 36
+perft2 963
+perft3 35291
+perft4 973839
+perft5 35907489
+
+name 705
+position fen brkbqn1r/p2ppppp/7n/1p6/P1p3PP/8/1PPPPP1N/BRKBQ1NR w HBhb -
+perft1 18
+perft2 583
+perft3 11790
+perft4 394603
+perft5 8858385
+
+name 706
+position fen brkq1bnr/pp1ppp1p/8/2p2np1/P7/8/1PPPPPPP/BRKQNBNR w HBhb -
+perft1 19
+perft2 552
+perft3 11811
+perft4 354260
+perft5 8432183
+
+name 707
+position fen brkqnnrb/1ppppppp/8/8/p3P3/5N2/PPPP1PPP/BRKQ1NRB w GBgb -
+perft1 21
+perft2 397
+perft3 9653
+perft4 204350
+perft5 5489836
+
+name 708
+position fen rbbkq1nr/1p2pppp/p1p3nB/3p4/1Q1P4/6N1/PPP1PPPP/RB1K2NR w HAha -
+perft1 40
+perft2 1132
+perft3 43404
+perft4 1260470
+perft5 47425783
+
+name 709
+position fen rkbbq1nr/1pppp1p1/4np2/p6p/8/PP3P2/1KPPP1PP/R1BBQNNR w ha -
+perft1 24
+perft2 596
+perft3 15220
+perft4 402121
+perft5 10822049
+
+name 710
+position fen r1bqn1nr/pkpppp1p/1p4pb/8/PN6/R7/1PPPPPPP/1KBQ1BNR w H -
+perft1 33
+perft2 794
+perft3 25450
+perft4 649150
+perft5 20919309
+
+name 711
+position fen rkb1nnrb/1pppq1pp/p4p2/4p3/5P2/1P1PB3/P1P1P1PP/RK1QNNRB w GAga -
+perft1 26
+perft2 625
+perft3 17050
+perft4 442036
+perft5 12515042
+
+name 712
+position fen rbkqbn1r/pppp1p1p/2n1p1p1/8/8/1P1PP1N1/P1P2PPP/RBKQB1NR w HAha -
+perft1 30
+perft2 660
+perft3 20308
+perft4 492714
+perft5 15348335
+
+name 713
+position fen rkqbb1n1/pppppppr/8/6np/5P2/8/PPPPP1PP/RKQBBNNR w HAa -
+perft1 23
+perft2 500
+perft3 12154
+perft4 292936
+perft5 7519117
+
+name 714
+position fen rkqnbbnr/ppppppp1/8/7p/3N4/6PP/PPPPPP2/RKQNBB1R w HAa -
+perft1 24
+perft2 484
+perft3 12495
+perft4 284570
+perft5 7775173
+
+name 715
+position fen rkqnb1rb/p1p1pppp/1p1p4/2n5/3P4/2P1N1N1/PP2PPPP/RKQ1B1RB w GAga -
+perft1 28
+perft2 1020
+perft3 29124
+perft4 1027904
+perft5 30515456
+
+name 716
+position fen rbk1nnbr/1ppq1ppp/p2p4/4p3/P3B2P/2P5/1P1PPPP1/R1KQNNBR w HAha -
+perft1 38
+perft2 998
+perft3 37265
+perft4 1047592
+perft5 38552638
+
+name 717
+position fen r1qbn1br/k1pppppp/6n1/pp6/5P1P/P7/1PPPP1PB/RKQBNN1R w HA -
+perft1 22
+perft2 549
+perft3 12867
+perft4 348574
+perft5 8725809
+
+name 718
+position fen rkqnn1br/pppp3p/4p1pb/5p2/P2P4/7P/1PP1PPPB/RKQNNB1R w HAha -
+perft1 32
+perft2 659
+perft3 21249
+perft4 469701
+perft5 15434721
+
+name 719
+position fen rk1nnrbb/p1p1pppp/1p6/3p1q2/P3P3/2NN4/1PPP1PPP/RKQ2RBB w FAfa -
+perft1 29
+perft2 989
+perft3 29087
+perft4 980477
+perft5 29643404
+
+name 720
+position fen bbrk1q1r/ppppppp1/3n4/7p/3Pn3/6PN/PPP1PPNP/BBRK1Q1R w HChc -
+perft1 23
+perft2 712
+perft3 16551
+perft4 516177
+perft5 12995202
+
+name 721
+position fen brkbnq1r/p1ppp2p/5ppn/1p6/5P2/1P1P2P1/P1P1P2P/BRKBNQNR w HBhb -
+perft1 28
+perft2 856
+perft3 24984
+perft4 780503
+perft5 23529352
+
+name 722
+position fen br1k1bnr/ppppp1pp/4np2/1B2P2q/3P4/8/PPP2PPP/BRKNQ1NR w HB -
+perft1 36
+perft2 1214
+perft3 40615
+perft4 1328331
+perft5 45096834
+
+name 723
+position fen brk1qnrb/pnppp1p1/1p6/5p1p/8/5PPP/PPPPP1R1/BRKNQN1B w Bgb -
+perft1 22
+perft2 551
+perft3 13111
+perft4 353317
+perft5 9040545
+
+name 724
+position fen rbbkn1nr/1ppp2pp/p3p3/2q2p2/3P4/6P1/PPPBPP1P/RB1KNQNR w HAha -
+perft1 31
+perft2 1060
+perft3 31332
+perft4 1015099
+perft5 30314172
+
+name 725
+position fen rkbbn1nr/ppppp1pp/8/6N1/5p2/1q6/P1PPPPPP/RKBBN1QR w HAha -
+perft1 3
+perft2 72
+perft3 1919
+perft4 50827
+perft5 1400832
+
+name 726
+position fen rkb2bnr/pp2pppp/2p1n3/3p4/q2P4/5NP1/PPP1PP1P/RKBNQBR1 w Aha -
+perft1 29
+perft2 861
+perft3 24504
+perft4 763454
+perft5 22763215
+
+name 727
+position fen rkbq1nrb/ppppppp1/7p/8/1P1n4/P4P1P/2PPP1P1/RKBNQNRB w GAga -
+perft1 25
+perft2 672
+perft3 17631
+perft4 473864
+perft5 12954224
+
+name 728
+position fen rbknb1nr/ppp1qp1p/6p1/3pp3/3P3P/2B1P3/PPP2PP1/RBKN1QNR w HAha -
+perft1 27
+perft2 857
+perft3 24688
+perft4 792538
+perft5 23790033
+
+name 729
+position fen rknbbq1r/p1pppppp/1p2N3/8/3n4/2P5/PP1PPPPP/RK1BBQNR w HAha -
+perft1 29
+perft2 763
+perft3 22138
+perft4 574054
+perft5 16926075
+
+name 730
+position fen r1nqbbnr/1pppp1pp/1k6/p4p2/8/4P3/PPPP1PPP/RKN1BBNR w HA -
+perft1 26
+perft2 658
+perft3 17302
+perft4 464039
+perft5 12380488
+
+name 731
+position fen rkn2qrb/ppp1pppp/6n1/1b1p4/1P6/4PPB1/P1PP2PP/RKNQ1NRB w GAga -
+perft1 23
+perft2 574
+perft3 14070
+perft4 370324
+perft5 9501401
+
+name 732
+position fen rbkn2br/ppppp1p1/4np1p/1P5q/8/2P1N3/P2PPPPP/RBK1QNBR w HAha -
+perft1 29
+perft2 992
+perft3 29506
+perft4 999564
+perft5 30148787
+
+name 733
+position fen 1knbqnbr/1ppppp1p/r5p1/p7/7P/2PN2P1/PP1PPP2/RK1BQNBR w HAh -
+perft1 26
+perft2 698
+perft3 19395
+perft4 512023
+perft5 14848229
+
+name 734
+position fen rk1qnbbr/pnpppp1p/6p1/1p6/3P4/1P6/P1P1PPPP/RKNQNBBR w HAha -
+perft1 20
+perft2 480
+perft3 11159
+perft4 287539
+perft5 7425917
+
+name 735
+position fen rknqnrbb/pp1p2p1/5p1p/2p1p3/2P1P3/P2P4/1P3PPP/RKNQNRBB w FAfa -
+perft1 26
+perft2 679
+perft3 18116
+perft4 494953
+perft5 13790137
+
+name 736
+position fen bbrk2qr/pp1p1ppp/3n2n1/2p1p3/3P1P2/6N1/PPP1P1PP/BBRKN1QR w HChc -
+perft1 26
+perft2 790
+perft3 21521
+perft4 673269
+perft5 19259490
+
+name 737
+position fen b1krnnqr/1p1ppppp/p1p5/b6B/P7/4P1N1/1PPP1PPP/BRK1N1QR w HB -
+perft1 26
+perft2 625
+perft3 16451
+perft4 415452
+perft5 11490615
+
+name 738
+position fen 1rknnbqr/3ppppp/p7/1pp5/4b2P/P4P2/1PPPP1PR/BRKNNBQ1 w Bhb -
+perft1 24
+perft2 757
+perft3 19746
+perft4 618777
+perft5 17275100
+
+name 739
+position fen br1nn1rb/pppkpqpp/3p1p2/8/PP6/4N3/1KPPPPPP/BR2NQRB w - -
+perft1 24
+perft2 682
+perft3 17129
+perft4 482711
+perft5 13057308
+
+name 740
+position fen rbbkn1qr/pppp2p1/6np/4pp2/7N/7P/PPPPPPPR/RBBK1NQ1 w Aha -
+perft1 22
+perft2 586
+perft3 14158
+perft4 409891
+perft5 10607781
+
+name 741
+position fen rk1bn1qr/pppbpppp/4n3/4p3/4P3/5P2/PPPP2PP/RKBB1NQR w HAha -
+perft1 22
+perft2 530
+perft3 13440
+perft4 348004
+perft5 9514787
+
+name 742
+position fen rkbnnbqr/1ppp1ppp/p7/4p3/8/QP3P2/P1PPP1PP/RKBNNB1R w HAha -
+perft1 29
+perft2 705
+perft3 21511
+perft4 551042
+perft5 17524731
+
+name 743
+position fen 1kbnnqrb/1pp1p1pp/r4p2/p2p4/N4P2/3P4/PPP1P1PP/RKB1NQRB w GAg -
+perft1 21
+perft2 623
+perft3 14979
+perft4 437554
+perft5 11601134
+
+name 744
+position fen rbknbn1r/pppp1p1p/4p1q1/8/P1P3Pp/8/1P1PPP2/RBKNBNQR w HAha -
+perft1 30
+perft2 813
+perft3 24959
+perft4 708454
+perft5 23379040
+
+name 745
+position fen rk1bb1qr/2pppppp/p2nn3/1p4P1/6QP/8/PPPPPP2/RKNBBN1R w HAha -
+perft1 36
+perft2 857
+perft3 30124
+perft4 757524
+perft5 26485812
+
+name 746
+position fen rkn1bbqr/p2ppppp/2p1n3/1p6/4PP2/6PP/PPPP4/RKNNBBQR w HAha -
+perft1 33
+perft2 687
+perft3 22744
+perft4 511018
+perft5 17101732
+
+name 747
+position fen rkn1bqrb/pnp1pppp/3p4/8/Pp6/1N2NP2/1PPPP1PP/RK2BQRB w GAga -
+perft1 28
+perft2 591
+perft3 17174
+perft4 406025
+perft5 12182448
+
+name 748
+position fen rbk1n1br/ppp1ppqp/2n5/2Np2p1/8/2P5/PPBPPPPP/R1KN1QBR w HAha -
+perft1 35
+perft2 930
+perft3 30663
+perft4 844433
+perft5 27160490
+
+name 749
+position fen rknbn1br/1ppp1ppp/p3p3/8/1q6/2P2N1P/P2PPPP1/RKNB1QBR w HAha -
+perft1 4
+perft2 157
+perft3 3697
+perft4 138102
+perft5 3454704
+
+name 750
+position fen rkn1qbbr/pp3ppp/4n3/2ppp3/4P1P1/P2P4/1PP2P1P/RKNNQBBR w HAha -
+perft1 28
+perft2 840
+perft3 24437
+perft4 771328
+perft5 23200961
+
+name 751
+position fen rkn1qrbb/pp1ppp2/2p1n1p1/7p/2P2P1P/6P1/PP1PP3/RKNNQRBB w FAfa -
+perft1 32
+perft2 867
+perft3 27595
+perft4 757836
+perft5 24485663
+
+name 752
+position fen b1rknnrq/bpppp1p1/p6p/5p1P/6P1/4N3/PPPPPP2/BBRKN1RQ w GCgc -
+perft1 33
+perft2 851
+perft3 28888
+perft4 763967
+perft5 26686205
+
+name 753
+position fen brkb1nr1/pppppp2/3n2pp/3B4/1P6/4P3/PqPP1PPP/BRK1NNRQ w GBgb -
+perft1 4
+perft2 98
+perft3 2965
+perft4 76143
+perft5 2352530
+
+name 754
+position fen brk1nbrq/1ppppn1p/6p1/p4p2/P5P1/5R2/1PPPPP1P/BRKNNB1Q w Bgb -
+perft1 29
+perft2 922
+perft3 27709
+perft4 879527
+perft5 27463717
+
+name 755
+position fen brkn1rqb/1p1ppppp/3n4/p1p5/1P3P2/8/PNPPP1PP/BR1KNRQB w fb -
+perft1 29
+perft2 633
+perft3 19399
+perft4 469818
+perft5 15076198
+
+name 756
+position fen rb1k1nrq/pbp1pppp/1p1p1n2/8/5P2/4NN1P/PPPPP1P1/RBBK2RQ w GAga -
+perft1 28
+perft2 841
+perft3 24056
+perft4 710751
+perft5 20772996
+
+name 757
+position fen rkbbnnrq/p1pp3p/4p1p1/1p3p2/P6P/1P6/1BPPPPP1/RK1BNNRQ w GAga -
+perft1 33
+perft2 957
+perft3 30668
+perft4 907217
+perft5 29735654
+
+name 758
+position fen rk2nbrq/p1ppppp1/bpn5/7p/6P1/2N2P2/PPPPP1QP/RKB1NBR1 w GAga -
+perft1 24
+perft2 687
+perft3 18206
+perft4 544627
+perft5 15518417
+
+name 759
+position fen rkbn1r1b/pp1pppnp/6q1/2p3p1/5P1P/4N3/PPPPP1P1/RKB1NRQB w FAfa -
+perft1 23
+perft2 831
+perft3 21254
+perft4 754622
+perft5 21126103
+
+name 760
+position fen rbknb1rq/ppp1p1p1/3pnp1p/8/6PP/2PP4/PP2PP2/RBKNBNRQ w GAga -
+perft1 31
+perft2 838
+perft3 26800
+perft4 736910
+perft5 24008129
+
+name 761
+position fen rknbb1rq/p1pn1ppp/4p3/1p1p4/2P5/1P2N1P1/P2PPP1P/RKNBB1RQ w GAga -
+perft1 29
+perft2 830
+perft3 24798
+perft4 721630
+perft5 22243832
+
+name 762
+position fen rk1nbbrq/pp1p1ppp/3n4/P3p3/2p4P/8/1PPPPPP1/RKNNBBRQ w GAga -
+perft1 24
+perft2 484
+perft3 12776
+perft4 297419
+perft5 8379748
+
+name 763
+position fen rknnbr1b/ppp2pqp/3p4/4p1p1/7P/3P1P2/PPP1P1P1/RKNNBRQB w FAfa -
+perft1 32
+perft2 838
+perft3 26408
+perft4 740701
+perft5 23472124
+
+name 764
+position fen rb1k1rbq/ppppN1pp/2nn4/5p2/7P/8/PPPPPPP1/RBK1NRBQ w FA -
+perft1 27
+perft2 800
+perft3 22785
+perft4 701742
+perft5 20804424
+
+name 765
+position fen r1nbnrbq/kppppp1p/6p1/8/p1PP1P2/4P3/PP4PP/RKNBNRBQ w FA -
+perft1 28
+perft2 757
+perft3 21198
+perft4 602699
+perft5 17180857
+
+name 766
+position fen rkn1rbbq/p1pppppp/2n5/1pP5/8/1N2P3/PP1P1PPP/RK1NRBBQ w EAea -
+perft1 22
+perft2 483
+perft3 11890
+perft4 283679
+perft5 7497674
+
+name 767
+position fen rknnrqbb/2pppppp/8/p7/Np3P2/3P4/PPP1P1PP/RKN1RQBB w EAea -
+perft1 25
+perft2 536
+perft3 14456
+perft4 339180
+perft5 9694947
+
+name 768
+position fen bb1rknrn/1qppppp1/1p4B1/p6N/8/2P5/PP1PPPPP/B1QRK1RN w GDgd -
+perft1 32
+perft2 715
+perft3 22421
+perft4 575008
+perft5 17860156
+
+name 769
+position fen b1rbknrn/qpp1ppp1/p6p/3p4/2P5/1P1P1P2/P3P1PP/BQRBKNRN w GCgc -
+perft1 30
+perft2 818
+perft3 24421
+perft4 688711
+perft5 20981488
+
+name 770
+position fen bqkrnbrn/1pp1pp1p/p7/1B1p2p1/4P3/7P/PPPP1PP1/BQKRN1RN w - -
+perft1 28
+perft2 676
+perft3 18366
+perft4 478054
+perft5 13126287
+
+name 771
+position fen bqrknrnb/1p2ppp1/p1pp3p/8/3P1P2/1PP5/P3P1PP/BQRKNRNB w FCfc -
+perft1 31
+perft2 646
+perft3 20686
+perft4 455607
+perft5 14984618
+
+name 772
+position fen qbbrkn1r/pppppp1p/8/6p1/2P1Pn1P/6N1/PP1P1PP1/QBBRKNR1 w GDd -
+perft1 20
+perft2 532
+perft3 11581
+perft4 303586
+perft5 7512432
+
+name 773
+position fen 1rbbknr1/p1ppp1pp/1pq2pn1/8/3P4/P3P3/QPP2PPP/1RBBKNRN w GBgb -
+perft1 31
+perft2 1002
+perft3 30581
+perft4 999607
+perft5 30642468
+
+name 774
+position fen qrbkn1rn/pppp1ppp/8/6b1/P1P1Pp2/8/1P1P2PP/QRBKNBRN w GBgb -
+perft1 22
+perft2 505
+perft3 12447
+perft4 304863
+perft5 8192621
+
+name 775
+position fen qrbk1rnb/p2ppp1p/5n2/1pp3p1/8/7P/PPPPPPPN/QRBKR1NB w Bfb -
+perft1 20
+perft2 619
+perft3 13448
+perft4 449630
+perft5 10571176
+
+name 776
+position fen qbrkb1r1/ppp2ppp/3pn1n1/P3p3/4P3/3P4/1PP2PPP/QBRKBNRN w GCgc -
+perft1 26
+perft2 755
+perft3 20596
+perft4 604483
+perft5 17164382
+
+name 777
+position fen qrkbb1r1/ppp1pnpp/3p2n1/5p2/1P3P2/2Q3N1/P1PPP1PP/1RKBB1RN w GBgb -
+perft1 35
+perft2 918
+perft3 32244
+perft4 870888
+perft5 30933394
+
+name 778
+position fen qrknbbrn/ppp1ppp1/8/7p/2Bp4/4PPP1/PPPP3P/QRKNB1RN w GBgb -
+perft1 27
+perft2 593
+perft3 16168
+perft4 376808
+perft5 10422676
+
+name 779
+position fen qrk1brnb/ppppp3/4n2p/5pp1/2PP4/2N4P/PP2PPP1/QRK1BRNB w FBfb -
+perft1 24
+perft2 672
+perft3 17447
+perft4 506189
+perft5 13765777
+
+name 780
+position fen qbrknrb1/p2ppppp/2p3n1/8/p4P2/6PP/1PPPP3/QBRKNRBN w FCfc -
+perft1 29
+perft2 759
+perft3 23235
+perft4 634493
+perft5 20416668
+
+name 781
+position fen 1rkb1rbn/p1pp1ppp/3np3/1p6/4qP2/3NB3/PPPPPRPP/QRKB3N w Bfb -
+perft1 22
+perft2 923
+perft3 22585
+perft4 914106
+perft5 24049880
+
+name 782
+position fen 1rknrbbn/p1pp1p1p/8/1p2p1p1/4qPP1/2P5/PP1PP1BP/QRKNR1BN w EBeb -
+perft1 28
+perft2 1309
+perft3 36355
+perft4 1568968
+perft5 44576409
+
+name 783
+position fen qrk1rn1b/ppppp2p/4n3/3b1pp1/4P2P/5BP1/PPPP1P2/QRKNRNB1 w EBeb -
+perft1 26
+perft2 839
+perft3 22189
+perft4 726354
+perft5 19978260
+
+name 784
+position fen bbrqk1rn/pp1ppppp/8/2p5/2P1P3/5n1P/PPBP1PP1/B1RQKNRN w GCgc -
+perft1 3
+perft2 95
+perft3 2690
+perft4 85038
+perft5 2518864
+
+name 785
+position fen brqbk2n/pppppprp/8/6p1/1P3n2/5P2/P1PPP1PP/R1QBKNRN w Gb -
+perft1 22
+perft2 593
+perft3 13255
+perft4 362760
+perft5 8922397
+
+name 786
+position fen brqknbr1/pp3ppp/3p2n1/2p1p3/2P5/5P2/PPKPP1PP/BRQ1NBRN w gb -
+perft1 21
+perft2 590
+perft3 13190
+perft4 397355
+perft5 9581695
+
+name 787
+position fen 1rqknrnb/2pp1ppp/p3p3/1p6/P2P4/5bP1/1PP1PP1P/BRQKNRNB w FBfb -
+perft1 24
+perft2 737
+perft3 20052
+perft4 598439
+perft5 17948681
+
+name 788
+position fen rbb1k1rn/p1pqpppp/6n1/1p1p4/5P2/3PP3/PPP1K1PP/RBBQ1NRN w ga -
+perft1 24
+perft2 694
+perft3 16773
+perft4 513782
+perft5 13094823
+
+name 789
+position fen rqbbknr1/1ppp2pp/p5n1/4pp2/P7/1PP5/1Q1PPPPP/R1BBKNRN w GAga -
+perft1 24
+perft2 600
+perft3 15347
+perft4 408207
+perft5 11029596
+
+name 790
+position fen rqbknbrn/2pppppp/6Q1/pp6/8/2P5/PP1PPPPP/R1BKNBRN w GAga -
+perft1 40
+perft2 949
+perft3 34100
+perft4 889887
+perft5 31296485
+
+name 791
+position fen rqbknr1b/pp1ppp2/2p2n1p/6p1/8/3P1PPP/PPP1P3/RQBKNRNB w FAfa -
+perft1 20
+perft2 560
+perft3 12275
+perft4 373921
+perft5 8687544
+
+name 792
+position fen rbqkbnrn/p3pppp/1p6/3p4/P1p3P1/1P6/1QPPPP1P/RB1KBNRN w GAga -
+perft1 30
+perft2 1155
+perft3 35865
+perft4 1351455
+perft5 43092716
+
+name 793
+position fen rqkbb1rn/p1p1pppn/1p1p4/7p/4PP2/7P/PPPPB1P1/RQK1BNRN w GAga -
+perft1 30
+perft2 701
+perft3 20804
+perft4 515942
+perft5 15450970
+
+name 794
+position fen rqknbbrn/1p2pp1p/3p2p1/p1p5/P2P4/1P6/1KP1PPPP/RQ1NBBRN w ga -
+perft1 28
+perft2 756
+perft3 21655
+perft4 610320
+perft5 17989811
+
+name 795
+position fen rqknbrnb/1pp3pp/5p2/p2pp3/P7/3PPN2/1PP2PPP/RQKNBR1B w FAfa -
+perft1 26
+perft2 731
+perft3 19509
+perft4 550395
+perft5 15209404
+
+name 796
+position fen rbqkr1bn/p1pppp1p/1p1n4/6p1/7P/3P1PP1/PPP1P3/RBQKNRBN w FAa -
+perft1 27
+perft2 586
+perft3 16282
+perft4 381604
+perft5 10905865
+
+name 797
+position fen rqk1nrb1/ppbp1ppp/4p1n1/2p5/7P/1PP5/P2PPPP1/RQKBNRBN w FAfa -
+perft1 27
+perft2 749
+perft3 21480
+perft4 602318
+perft5 18084787
+
+name 798
+position fen rqknrbbn/pp1p1ppp/4p3/2p5/3P2P1/7P/PPP1PP2/RQKNRBBN w EAa -
+perft1 20
+perft2 533
+perft3 11829
+perft4 336248
+perft5 8230417
+
+name 799
+position fen rqknrnbb/pp1ppp1p/2p3p1/8/8/1P2P1NP/P1PP1PP1/RQKNR1BB w EAea -
+perft1 22
+perft2 633
+perft3 14480
+perft4 441877
+perft5 10827868
+
+name 800
+position fen 1brkq1rn/2pppppp/1p2n3/p2bN3/8/7P/PPPPPPP1/BBRKQ1RN w GCgc -
+perft1 27
+perft2 748
+perft3 20134
+perft4 580054
+perft5 16010135
+
+name 801
+position fen brkbqnrn/2pp1ppp/8/1p2p3/Pp2N3/8/2PPPPPP/BRKBQNR1 w GBgb -
+perft1 30
+perft2 827
+perft3 25308
+perft4 757837
+perft5 23746165
+
+name 802
+position fen brk1nbrn/pp1ppppp/2p5/7P/5P2/q2P4/PPP1P1P1/BRKQNBRN w GBgb -
+perft1 15
+perft2 471
+perft3 8716
+perft4 276424
+perft5 5960901
+
+name 803
+position fen brkqnrnb/1p1pp1p1/p4p2/2p4p/8/P2PP3/1PP1QPPP/BRK1NRNB w FBfb -
+perft1 24
+perft2 479
+perft3 12584
+perft4 280081
+perft5 7830230
+
+name 804
+position fen rbbkqnrn/2ppp2p/pp3p2/6p1/P6P/8/RPPPPPP1/1BBKQNRN w Gga -
+perft1 21
+perft2 523
+perft3 12125
+perft4 328733
+perft5 8322614
+
+name 805
+position fen rkbbqr1n/1ppppppn/7p/p7/4P3/2P2P2/PP1PB1PP/RKB1QNRN w GAa -
+perft1 27
+perft2 563
+perft3 16026
+perft4 372148
+perft5 11105151
+
+name 806
+position fen rkbqnbrn/ppppp3/8/5ppp/2P3P1/7P/PPQPPP2/RKB1NBRN w GAga -
+perft1 28
+perft2 639
+perft3 19250
+perft4 469250
+perft5 14872172
+
+name 807
+position fen rkb1nrnb/pppp1pp1/5q1p/8/P3p3/4R1P1/1PPPPP1P/1KBQNRNB w Ffa -
+perft1 28
+perft2 873
+perft3 23690
+perft4 720814
+perft5 20209424
+
+name 808
+position fen rbkqb1rn/1p1ppppp/4n3/p1p5/8/3PBP2/PPP1P1PP/RBKQ1NRN w GAga -
+perft1 26
+perft2 798
+perft3 21416
+perft4 667496
+perft5 18475618
+
+name 809
+position fen rk1qbnrn/1p1ppppp/1b6/p1p5/P7/2P3NP/1P1PPPP1/RKQBB1RN w GAga -
+perft1 22
+perft2 506
+perft3 12313
+perft4 301029
+perft5 7891676
+
+name 810
+position fen rk1nbbrn/ppp1ppp1/8/3p3p/1P1P2q1/5PB1/P1P1P1PP/RKQN1BRN w GAga -
+perft1 31
+perft2 956
+perft3 29219
+perft4 903799
+perft5 27827461
+
+name 811
+position fen rkqnbr1b/pp1pppp1/7p/2p2n2/P2P4/7N/RPP1PPPP/1KQNBR1B w Ffa -
+perft1 31
+perft2 750
+perft3 24267
+perft4 646252
+perft5 21639104
+
+name 812
+position fen rbkq1rbn/2p1pppp/pp3n2/3p4/5P2/3N2N1/PPPPP1PP/RBKQR1B1 w Afa -
+perft1 26
+perft2 647
+perft3 18027
+perft4 465119
+perft5 13643783
+
+name 813
+position fen rkqbr1bn/p2ppppp/1pp2n2/8/5P2/3P1N2/PPP1PRPP/RKQB2BN w Aa -
+perft1 24
+perft2 574
+perft3 14593
+perft4 371597
+perft5 10066892
+
+name 814
+position fen rk1qrbbn/p1ppp1pp/1p2n3/5p2/1P6/K3N3/P1PPPPPP/R1Q1RBBN w ea -
+perft1 25
+perft2 548
+perft3 14069
+perft4 340734
+perft5 9043111
+
+name 815
+position fen rkqnrnbb/pp1pp3/2p5/5ppp/8/PP4NP/2PPPPP1/RKQNR1BB w EAea -
+perft1 23
+perft2 727
+perft3 18228
+perft4 566572
+perft5 15078056
+
+name 816
+position fen bbrknq1r/ppppppp1/8/7p/5n2/3P4/PPP1PNPP/BBKRNQR1 w c -
+perft1 21
+perft2 610
+perft3 13300
+perft4 394705
+perft5 9605845
+
+name 817
+position fen brkbnqr1/2pppnpp/pp3p2/8/4PPPP/8/PPPP4/BRKBNQRN w GBgb -
+perft1 30
+perft2 757
+perft3 23908
+perft4 621332
+perft5 20360394
+
+name 818
+position fen brk1qb1n/ppppppr1/2n3pp/8/2P3P1/2N5/PP1PPP1P/BR1KQBRN w b -
+perft1 26
+perft2 570
+perft3 15537
+perft4 352883
+perft5 10081351
+
+name 819
+position fen brknq1nb/pp2prpp/8/2pP1p2/6P1/2N5/PPPP1P1P/BRK1QRNB w FBb -
+perft1 33
+perft2 830
+perft3 27897
+perft4 764915
+perft5 26262884
+
+name 820
+position fen rbbk1qrn/ppp1p1pp/5p2/3p1n2/7N/P7/1PPPPPPP/RBB1KQRN w ga -
+perft1 21
+perft2 562
+perft3 13060
+perft4 378883
+perft5 9520963
+
+name 821
+position fen rk1b1qrn/ppp1pppp/5n2/3pN3/P6P/7b/1PPPPPP1/RKBB1QRN w GAga -
+perft1 28
+perft2 677
+perft3 19235
+perft4 488740
+perft5 14354779
+
+name 822
+position fen rkbnqbrn/pp1ppp1p/2p5/6p1/P7/4P3/KPPPQPPP/R1BN1BRN w - -
+perft1 28
+perft2 585
+perft3 17443
+perft4 401483
+perft5 12574541
+
+name 823
+position fen rk1nqrnb/pbpppp2/1p4p1/7p/P7/5NP1/1PPPPPBP/RKBNQR2 w FAfa -
+perft1 26
+perft2 774
+perft3 21626
+perft4 645200
+perft5 19093408
+
+name 824
+position fen rbknb1rn/p1pp2pp/1p6/4pp2/1q3P1B/2N5/PPPPPNPP/RBK2QR1 w GAga -
+perft1 31
+perft2 1206
+perft3 36940
+perft4 1374158
+perft5 42849564
+
+name 825
+position fen rk1bbqrn/pp1pp1pp/3n4/5p2/3p4/1PP5/PK2PPPP/R1NBBQRN w ga -
+perft1 21
+perft2 629
+perft3 14059
+perft4 429667
+perft5 10587910
+
+name 826
+position fen rknqbbr1/p1pp1pp1/1p4n1/4p2p/4P1P1/6RB/PPPP1P1P/RKNQB2N w Aga -
+perft1 27
+perft2 753
+perft3 20918
+perft4 593155
+perft5 17318772
+
+name 827
+position fen rknqbr1b/pppp1ppp/4p2n/8/1P3P2/4P3/P1PPN1PP/RKNQBR1B w FAfa -
+perft1 26
+perft2 623
+perft3 17177
+perft4 460663
+perft5 13389799
+
+name 828
+position fen r2kqrbn/bppppppp/2n5/p4B2/5P2/2P5/PP1PP1PP/1RKNQRBN w F -
+perft1 39
+perft2 1026
+perft3 37800
+perft4 1011922
+perft5 35946987
+
+name 829
+position fen rk1bqrb1/ppppppp1/1n6/7p/2P2P1n/4P1Q1/PP1P2PP/RKNB1RBN w FAfa -
+perft1 35
+perft2 760
+perft3 25817
+perft4 610557
+perft5 21014787
+
+name 830
+position fen rkq1rb1n/ppppp1pp/1n6/5p2/PPb2P2/8/1KPPP1PP/R1NQRBBN w ea -
+perft1 27
+perft2 754
+perft3 21009
+perft4 568788
+perft5 16461795
+
+name 831
+position fen rknqr2b/pppnp1pp/3p4/3b1p2/8/1N1P2N1/PPP1PPPP/RKQ1R1BB w EAea -
+perft1 27
+perft2 803
+perft3 23708
+perft4 700453
+perft5 21875031
+
+name 832
+position fen bbrknrqn/ppppp1pB/8/2P2p1p/8/5N2/PP1PPPPP/B1RK1RQN w FCfc -
+perft1 30
+perft2 799
+perft3 23923
+perft4 671112
+perft5 20532790
+
+name 833
+position fen brkbnrq1/1pppp1p1/6np/p4p2/4P3/1PP5/P1KP1PPP/BR1BNRQN w fb -
+perft1 27
+perft2 726
+perft3 19329
+perft4 555622
+perft5 15156662
+
+name 834
+position fen brknrbq1/1p1p1ppp/p3p1n1/2p5/8/1P1BPP2/P1PP2PP/BRKNR1QN w EBeb -
+perft1 36
+perft2 786
+perft3 27868
+perft4 655019
+perft5 22852433
+
+name 835
+position fen brknrqnb/p2ppp1p/2p5/1p6/3P2p1/P1P1N3/1P2PPPP/BRK1RQNB w EBeb -
+perft1 23
+perft2 649
+perft3 15169
+perft4 440504
+perft5 10687843
+
+name 836
+position fen rbbk1rqn/1ppppppp/3n4/p7/2P5/3N4/PP1PPPPP/RBB1KRQN w fa -
+perft1 20
+perft2 478
+perft3 11094
+perft4 275250
+perft5 7094988
+
+name 837
+position fen rkbbnrqn/p2p1ppp/1p2p3/8/P1p1P3/1BP5/1P1P1PPP/RKB1NRQN w FAfa -
+perft1 22
+perft2 570
+perft3 13295
+perft4 346811
+perft5 8671852
+
+name 838
+position fen rkb1rb1n/ppppppqp/8/2n3p1/2P1P1P1/8/PP1P1P1P/RKBNRBQN w EAea -
+perft1 23
+perft2 663
+perft3 16212
+perft4 490748
+perft5 12900485
+
+name 839
+position fen rkb1rqnb/pppp3p/2n3p1/4pp2/P2P3P/2P5/1P2PPP1/RKBNRQNB w EAea -
+perft1 25
+perft2 845
+perft3 22188
+perft4 741972
+perft5 20276176
+
+name 840
+position fen rbk1brqn/ppp1pppp/8/3p4/7P/1P4P1/2PPPP2/RBKNBRQN w FAfa -
+perft1 24
+perft2 526
+perft3 13862
+perft4 322175
+perft5 9054028
+
+name 841
+position fen rknbbrqn/pp3pp1/4p3/2pp3p/2P5/8/PPBPPPPP/RKN1BRQN w FAfa -
+perft1 26
+perft2 756
+perft3 19280
+perft4 559186
+perft5 14697705
+
+name 842
+position fen 1knrbbqn/rp1p1ppp/p3p3/2p5/8/5P1P/PPPPP1P1/RKNRBBQN w DAd -
+perft1 26
+perft2 539
+perft3 15194
+perft4 345070
+perft5 10223443
+
+name 843
+position fen rknr1qnb/ppp1p1pp/3p2b1/8/4p3/1P3P1P/P1PP2P1/RKNRBQNB w DAda -
+perft1 25
+perft2 701
+perft3 18969
+perft4 561369
+perft5 16047041
+
+name 844
+position fen rbk1r1bn/ppppp1pp/4n3/5p2/1P3P2/4N2P/PqPPP1P1/RBK1RQBN w EAea -
+perft1 2
+perft2 60
+perft3 1319
+perft4 41765
+perft5 1017864
+
+name 845
+position fen r1nbrqbn/k1ppp1pp/1p6/p4p2/2P5/6PQ/PP1PPP1P/RKNBR1BN w EA -
+perft1 27
+perft2 699
+perft3 20436
+perft4 561765
+perft5 17192121
+
+name 846
+position fen rknrqbbn/1pp1pp2/p5p1/3p3p/6P1/PN5P/1PPPPP2/RK1RQBBN w DAda -
+perft1 23
+perft2 611
+perft3 15515
+perft4 435927
+perft5 11917036
+
+name 847
+position fen rknrqn1b/p1pp1ppb/8/1p2p1Qp/3P4/3N4/PPP1PPPP/RK1R1NBB w DAda -
+perft1 45
+perft2 1170
+perft3 48283
+perft4 1320341
+perft5 52213677
+
+name 848
+position fen bbkrnrnq/p2p1ppp/2p1p3/1p6/1P2Q3/6P1/P1PPPP1P/BBKRNRN1 w - -
+perft1 41
+perft2 1035
+perft3 39895
+perft4 1035610
+perft5 38555608
+
+name 849
+position fen brkbnr2/1ppppp1p/7n/p5N1/P2q4/8/1PPPPPPP/BRKBNRQ1 w FBfb -
+perft1 22
+perft2 869
+perft3 19234
+perft4 679754
+perft5 16453359
+
+name 850
+position fen brknrbnq/p1ppppp1/1p6/7p/2PP4/5P2/PPK1P1PP/BR1NRBNQ w eb -
+perft1 23
+perft2 641
+perft3 14748
+perft4 422240
+perft5 10192718
+
+name 851
+position fen brk1r1qb/pp1ppnpp/2p2pn1/8/6N1/2N3P1/PPPPPP1P/BRK1R1QB w EBeb -
+perft1 32
+perft2 863
+perft3 28379
+perft4 773191
+perft5 25848794
+
+name 852
+position fen rbbk1rnq/pppp1pp1/4p2p/8/3P2n1/4BN1P/PPP1PPP1/RB1K1RNQ w FAfa -
+perft1 26
+perft2 628
+perft3 16151
+perft4 411995
+perft5 11237919
+
+name 853
+position fen rkbbnr1q/p1pppppp/5n2/1p5B/PP6/4P3/2PP1PPP/RKB1NRNQ w FAfa -
+perft1 30
+perft2 692
+perft3 21036
+perft4 519283
+perft5 16025428
+
+name 854
+position fen rkb1rbnq/1pppp1pp/5p2/p7/5n1P/1PN3P1/P1PPPP2/RKB1RBNQ w EAea -
+perft1 32
+perft2 825
+perft3 27130
+perft4 697251
+perft5 23593363
+
+name 855
+position fen rkbnrnqb/1ppp1p1p/p5p1/4p3/4P3/2N2P2/PPPP2PP/RKBR1NQB w Aea -
+perft1 24
+perft2 487
+perft3 13300
+perft4 301989
+perft5 8782713
+
+name 856
+position fen rbknbr1q/pppp2pp/4p3/5p1n/1P2P2N/8/P1PP1PPP/RBKNBR1Q w FAfa -
+perft1 23
+perft2 571
+perft3 13799
+perft4 365272
+perft5 9224232
+
+name 857
+position fen rknbb1nq/pppppr2/5pp1/7p/8/1N4P1/PPPPPP1P/RK1BBRNQ w FAa -
+perft1 26
+perft2 548
+perft3 15618
+perft4 350173
+perft5 10587626
+
+name 858
+position fen rknr1bnq/p2pp1pp/1p3p2/2p4b/6PP/2P2N2/PP1PPP2/RKNRBB1Q w DAda -
+perft1 25
+perft2 502
+perft3 13150
+perft4 279098
+perft5 7824941
+
+name 859
+position fen rknrb1qb/ppp1pppp/3p4/8/4P1nP/2P5/PPKP1PP1/R1NRBNQB w da -
+perft1 23
+perft2 643
+perft3 14849
+perft4 426616
+perft5 10507328
+
+name 860
+position fen rbk1rnbq/pppp1npp/4p3/5p2/4P1P1/7P/PPPP1P1N/RBKNR1BQ w EAea -
+perft1 24
+perft2 591
+perft3 15178
+perft4 376988
+perft5 10251465
+
+name 861
+position fen rknbrnb1/p1pppp1p/1p6/3N2p1/P3q1P1/8/1PPPPP1P/RKNBR1BQ w EAea -
+perft1 28
+perft2 948
+perft3 27343
+perft4 864588
+perft5 26241141
+
+name 862
+position fen rknrn1b1/ppppppqp/8/6p1/2P5/2P1BP2/PP2P1PP/RKNRNB1Q w DAda -
+perft1 31
+perft2 807
+perft3 24360
+perft4 672973
+perft5 20455205
+
+name 863
+position fen 1k1rnqbb/npppppp1/r7/p2B3p/5P2/1N4P1/PPPPP2P/RK1RNQB1 w DAd -
+perft1 40
+perft2 1122
+perft3 44297
+perft4 1249989
+perft5 48711073
+
+name 864
+position fen bbqr1rkn/pp1ppppp/8/2p5/1P2P1n1/7N/P1PP1P1P/BBQRKR1N w FD -
+perft1 26
+perft2 841
+perft3 22986
+perft4 746711
+perft5 21328001
+
+name 865
+position fen bqkr1rnn/1ppp1ppp/p4b2/4p3/P7/3PP2N/1PP2PPP/BQRBKR1N w FC -
+perft1 24
+perft2 500
+perft3 12802
+perft4 293824
+perft5 7928916
+
+name 866
+position fen bqrkrbnn/1pp1ppp1/8/p6p/3p4/P3P2P/QPPP1PP1/B1RKRBNN w ECec -
+perft1 31
+perft2 592
+perft3 18585
+perft4 396423
+perft5 12607528
+
+name 867
+position fen bqkrrnnb/2p1pppp/p7/1P1p4/8/2R3P1/PP1PPP1P/BQ1KRNNB w E -
+perft1 42
+perft2 1124
+perft3 45187
+perft4 1276664
+perft5 50052573
+
+name 868
+position fen qbbrkrn1/p1pppn1p/8/1p3Pp1/2P5/8/PP1PPP1P/QBBRKRNN w FDfd -
+perft1 21
+perft2 577
+perft3 13244
+perft4 392131
+perft5 9683808
+
+name 869
+position fen qrbbkrnn/pp1p2pp/4p3/5p2/2p2P1P/2P5/PP1PP1P1/QRBBKRNN w FBfb -
+perft1 21
+perft2 571
+perft3 12736
+perft4 345681
+perft5 8239872
+
+name 870
+position fen qrbkrbn1/1pp1pppp/p2p4/8/5PPn/2P5/PP1PP3/QRBKRBNN w EBeb -
+perft1 18
+perft2 466
+perft3 9443
+perft4 257776
+perft5 5679073
+
+name 871
+position fen qrb1rnnb/pp1p1ppp/2pk4/4p3/1P2P3/1R6/P1PP1PPP/Q1BKRNNB w E -
+perft1 37
+perft2 760
+perft3 26863
+perft4 562201
+perft5 19486022
+
+name 872
+position fen qbrkbrn1/p1pppp1p/6n1/1p4p1/1P6/5P2/P1PPPBPP/QBRK1RNN w FCfc -
+perft1 33
+perft2 824
+perft3 27385
+perft4 750924
+perft5 25176664
+
+name 873
+position fen qrkbbr2/2pppppp/5nn1/pp1Q4/P7/3P4/1PP1PPPP/1RKBBRNN w FBfb -
+perft1 42
+perft2 1147
+perft3 44012
+perft4 1311247
+perft5 48216013
+
+name 874
+position fen qrkrbbnn/pp2pp2/2pp2pp/1B6/P7/4P3/1PPP1PPP/QRKRB1NN w DBdb -
+perft1 26
+perft2 464
+perft3 12653
+perft4 242892
+perft5 6928220
+
+name 875
+position fen qrkrbnnb/p1pp1pp1/1p5p/4p3/1P6/6PN/PKPPPP1P/QR1RBN1B w db -
+perft1 29
+perft2 705
+perft3 20000
+perft4 529810
+perft5 15055365
+
+name 876
+position fen qbrkr1bn/p1p1pp1p/1p1p2n1/6p1/3P1P2/4P3/PPP3PP/QBKRRNBN w ec -
+perft1 23
+perft2 613
+perft3 14835
+perft4 426484
+perft5 10747407
+
+name 877
+position fen qrk1rnb1/p1pp1ppp/1p2Bbn1/8/4P3/6P1/PPPP1P1P/QRK1RNBN w EBeb -
+perft1 28
+perft2 927
+perft3 24887
+perft4 846839
+perft5 23063284
+
+name 878
+position fen 1qkrnbbn/1rpppppp/pp6/5N2/P4P2/8/1PPPP1PP/QRKRNBB1 w DBd -
+perft1 30
+perft2 542
+perft3 16646
+perft4 345172
+perft5 10976745
+
+name 879
+position fen qrkr2bb/pppppppp/8/1n2n3/1N5P/1P6/P1PPPPP1/QRKR1NBB w DBdb -
+perft1 28
+perft2 719
+perft3 21048
+perft4 562015
+perft5 17351761
+
+name 880
+position fen bbrqkrnn/3ppppp/8/ppp5/6P1/4P2N/PPPPKP1P/BBRQ1R1N w fc -
+perft1 21
+perft2 704
+perft3 16119
+perft4 546215
+perft5 13676371
+
+name 881
+position fen brqbkrnn/1pp2p1p/3pp1p1/p5N1/8/1P6/P1PPPPPP/BRQBK1RN w Bfb -
+perft1 34
+perft2 688
+perft3 22827
+perft4 505618
+perft5 16639723
+
+name 882
+position fen br1krb1n/2qppppp/pp3n2/8/1P4P1/8/P1PPPP1P/1RQKRBNN w EBeb -
+perft1 24
+perft2 945
+perft3 23943
+perft4 926427
+perft5 25019636
+
+name 883
+position fen brqkr1nb/2ppp1pp/1p2np2/p7/2P1PN2/8/PP1P1PPP/BRQKRN1B w EBeb -
+perft1 28
+perft2 675
+perft3 19728
+perft4 504128
+perft5 15516491
+
+name 884
+position fen rbbqkrnn/3pppp1/p7/1pp4p/2P1P2P/8/PP1P1PP1/RBBQKRNN w FAfa -
+perft1 26
+perft2 671
+perft3 18164
+perft4 496806
+perft5 14072641
+
+name 885
+position fen rqbbkr1n/pp1p1p1p/4pn2/2p3p1/4P1P1/3P3P/PPP2P2/RQBBKRNN w FAfa -
+perft1 22
+perft2 633
+perft3 14629
+perft4 441809
+perft5 10776416
+
+name 886
+position fen rqbkrbnn/p1ppp3/1p3pp1/7p/3P4/P1P5/1PQ1PPPP/R1BKRBNN w EAea -
+perft1 32
+perft2 607
+perft3 20339
+perft4 454319
+perft5 15586203
+
+name 887
+position fen rqbkrnn1/pp2ppbp/3p4/2p3p1/2P5/1P3N1P/P2PPPP1/RQBKRN1B w EAea -
+perft1 29
+perft2 943
+perft3 28732
+perft4 908740
+perft5 28761841
+
+name 888
+position fen rbqkb1nn/1ppppr1p/p5p1/5p2/1P6/2P4P/P1KPPPP1/RBQ1BRNN w a -
+perft1 22
+perft2 441
+perft3 10403
+perft4 231273
+perft5 5784206
+
+name 889
+position fen rqkb1rnn/1pp1pp1p/p5p1/1b1p4/3P4/P5P1/RPP1PP1P/1QKBBRNN w Ffa -
+perft1 21
+perft2 505
+perft3 11592
+perft4 290897
+perft5 7147063
+
+name 890
+position fen rq1rbbnn/pkp1ppp1/3p3p/1p2N1P1/8/8/PPPPPP1P/RQKRBB1N w DA -
+perft1 27
+perft2 608
+perft3 16419
+perft4 387751
+perft5 10808908
+
+name 891
+position fen rqkrb2b/p2ppppp/2p3nn/1p6/5P2/PP1P4/2P1P1PP/RQKRBNNB w DAda -
+perft1 30
+perft2 749
+perft3 21563
+perft4 581531
+perft5 16916813
+
+name 892
+position fen rbqkr1bn/pp1ppp2/2p1n2p/6p1/8/4BPNP/PPPPP1P1/RBQKRN2 w EAea -
+perft1 23
+perft2 600
+perft3 15082
+perft4 410057
+perft5 11041820
+
+name 893
+position fen rqkbrnb1/2ppp1pp/pp3pn1/8/5P2/B2P4/PPP1P1PP/RQKBRN1N w EAea -
+perft1 22
+perft2 569
+perft3 13541
+perft4 371471
+perft5 9395816
+
+name 894
+position fen rqkrnbb1/p1p1pppp/1p4n1/3p4/7P/P3P3/1PPPBPP1/RQKRN1BN w DAda -
+perft1 27
+perft2 579
+perft3 15565
+perft4 373079
+perft5 10238486
+
+name 895
+position fen rqkrn1bb/p1ppp1pp/4n3/1p6/6p1/4N3/PPPPPPPP/RQKR2BB w DAda -
+perft1 20
+perft2 462
+perft3 10234
+perft4 274162
+perft5 6563859
+
+name 896
+position fen bbrkqr2/pppp1ppp/6nn/8/2P1p3/3PP2N/PP3PPP/BBRKQR1N w FCfc -
+perft1 28
+perft2 724
+perft3 21688
+perft4 619064
+perft5 19318355
+
+name 897
+position fen brk1qrnn/1pppbppp/4p3/8/1p6/P1P4P/3PPPP1/BRKBQRNN w FBfb -
+perft1 24
+perft2 662
+perft3 16920
+perft4 468215
+perft5 12610387
+
+name 898
+position fen 1r1qrbnn/p1pkpppp/1p1p4/8/3P1PP1/P4b2/1PP1P2P/BRKQRBNN w EB -
+perft1 22
+perft2 696
+perft3 17021
+perft4 510247
+perft5 13697382
+
+name 899
+position fen 1rkqrnnb/p1p1p1pp/1p1p4/3b1p1N/4P3/5N2/PPPP1PPP/BRKQR2B w EBeb -
+perft1 29
+perft2 887
+perft3 27035
+perft4 816176
+perft5 26051242
+
+name 900
+position fen rbbkq1rn/pppppppp/7n/8/P7/3P3P/1PPKPPP1/RBB1QRNN w a -
+perft1 22
+perft2 417
+perft3 9900
+perft4 216855
+perft5 5505063
+
+name 901
+position fen rkbbqr1n/1p1pppp1/2p2n2/p4NBp/8/3P4/PPP1PPPP/RK1BQRN1 w FAfa -
+perft1 37
+perft2 832
+perft3 30533
+perft4 728154
+perft5 26676373
+
+name 902
+position fen rkbqrb1n/3pBppp/ppp2n2/8/8/P2P4/1PP1PPPP/RK1QRBNN w EAea -
+perft1 28
+perft2 685
+perft3 19718
+perft4 543069
+perft5 16033316
+
+name 903
+position fen rkb1rn1b/ppppqppp/4p3/8/1P2n1P1/5Q2/P1PP1P1P/RKB1RNNB w EAea -
+perft1 37
+perft2 1158
+perft3 40114
+perft4 1234768
+perft5 44672979
+
+name 904
+position fen r1kqbrnn/pp1pp1p1/7p/2P2p2/5b2/3P4/P1P1P1PP/RBKQBRNN w FAfa -
+perft1 5
+perft2 161
+perft3 4745
+perft4 154885
+perft5 4734999
+
+name 905
+position fen rkqbbr1n/ppp1ppp1/8/Q2p3p/4n3/3P1P2/PPP1P1PP/RK1BBRNN w FAfa -
+perft1 38
+perft2 1144
+perft3 40433
+perft4 1236877
+perft5 43832975
+
+name 906
+position fen rkqrbbn1/p1ppppp1/Bp5p/8/P6n/2P1P3/1P1P1PPP/RKQRB1NN w DAda -
+perft1 28
+perft2 551
+perft3 15488
+perft4 350861
+perft5 9944107
+
+name 907
+position fen rkqrb1nb/1ppp1ppp/p7/4p3/5n2/3P2N1/PPPQPPPP/RK1RB1NB w DAda -
+perft1 26
+perft2 690
+perft3 19877
+perft4 513628
+perft5 15965907
+
+name 908
+position fen rbkqrnbn/pppp1p2/4p1p1/7p/7P/P2P4/BPP1PPP1/R1KQRNBN w EAea -
+perft1 27
+perft2 515
+perft3 13992
+perft4 309727
+perft5 8792550
+
+name 909
+position fen rkqbrnbn/pp1ppp2/8/2p3p1/P1P4p/5P2/1PKPP1PP/R1QBRNBN w ea -
+perft1 27
+perft2 627
+perft3 16843
+perft4 431101
+perft5 11978698
+
+name 910
+position fen rkqrnbbn/1p2pp1p/3p2p1/p1p5/P5PP/3N4/1PPPPP2/RKQR1BBN w DAda -
+perft1 23
+perft2 624
+perft3 15512
+perft4 451860
+perft5 11960861
+
+name 911
+position fen rk2rnbb/ppqppppp/2pn4/8/1P3P2/6P1/P1PPP1NP/RKQR1NBB w DAa -
+perft1 27
+perft2 727
+perft3 20206
+perft4 581003
+perft5 16633696
+
+name 912
+position fen b1krrqnn/pp1ppp1p/2p3p1/8/P3Pb1P/1P6/2PP1PP1/BBRKRQNN w EC -
+perft1 32
+perft2 943
+perft3 30759
+perft4 865229
+perft5 28672582
+
+name 913
+position fen 1rkbrqnn/p1pp1ppp/1p6/8/P2Pp3/8/1PPKPPQP/BR1BR1NN w eb -
+perft1 28
+perft2 916
+perft3 24892
+perft4 817624
+perft5 22840279
+
+name 914
+position fen brkrqb1n/1pppp1pp/p7/3n1p2/P5P1/3PP3/1PP2P1P/BRKRQBNN w DBdb -
+perft1 27
+perft2 669
+perft3 18682
+perft4 484259
+perft5 13956472
+
+name 915
+position fen brkrqnnb/3pppp1/1p6/p1p4p/2P3P1/6N1/PP1PPP1P/BRKRQ1NB w DBdb -
+perft1 29
+perft2 699
+perft3 20042
+perft4 512639
+perft5 15093909
+
+name 916
+position fen r1bkrq1n/pp2pppp/3b1n2/2pp2B1/6P1/3P1P2/PPP1P2P/RB1KRQNN w EAea -
+perft1 27
+perft2 835
+perft3 22848
+perft4 713550
+perft5 19867800
+
+name 917
+position fen rk1brq1n/p1p1pppp/3p1n2/1p3b2/4P3/2NQ4/PPPP1PPP/RKBBR2N w EAea -
+perft1 36
+perft2 1004
+perft3 35774
+perft4 979608
+perft5 35143142
+
+name 918
+position fen rkbrqbnn/1p2ppp1/B1p5/p2p3p/4P2P/8/PPPP1PP1/RKBRQ1NN w DAda -
+perft1 27
+perft2 748
+perft3 21005
+perft4 597819
+perft5 17597073
+
+name 919
+position fen rkbrqn1b/pp1pp1pp/2p2p2/5n2/8/2P2P2/PP1PP1PP/RKBRQ1NB w DAda -
+perft1 20
+perft2 479
+perft3 10485
+perft4 266446
+perft5 6253775
+
+name 920
+position fen rbkrbnn1/ppppp1pp/5q2/5p2/5P2/P3P2N/1PPP2PP/RBKRBQ1N w DAda -
+perft1 28
+perft2 947
+perft3 26900
+perft4 876068
+perft5 26007841
+
+name 921
+position fen rkr1bqnn/1ppp1p1p/p5p1/4p3/3PP2b/2P2P2/PP4PP/RKRBBQNN w CAca -
+perft1 31
+perft2 1004
+perft3 32006
+perft4 1006830
+perft5 32688124
+
+name 922
+position fen rkrqbbnn/pppp3p/8/4ppp1/1PP4P/8/P2PPPP1/RKRQBBNN w CAca -
+perft1 24
+perft2 717
+perft3 18834
+perft4 564137
+perft5 15844525
+
+name 923
+position fen rkrqbn1b/pppp2pp/8/4pp2/1P1P2n1/5N2/P1P1PP1P/RKRQBN1B w CAca -
+perft1 25
+perft2 718
+perft3 19654
+perft4 587666
+perft5 17257753
+
+name 924
+position fen rbkrqnbn/p1p1ppp1/1p1p4/8/3PP2p/2PB4/PP3PPP/R1KRQNBN w DAda -
+perft1 30
+perft2 754
+perft3 23298
+perft4 611322
+perft5 19338246
+
+name 925
+position fen 1krbqnbn/1p2pppp/r1pp4/p7/8/1P1P2PP/P1P1PP2/RKRBQNBN w CAc -
+perft1 21
+perft2 566
+perft3 13519
+perft4 375128
+perft5 9700847
+
+name 926
+position fen rkrq1b2/pppppppb/3n2np/2N5/4P3/7P/PPPP1PP1/RKRQ1BBN w CAca -
+perft1 33
+perft2 654
+perft3 21708
+perft4 479678
+perft5 15990307
+
+name 927
+position fen rkr1nnbb/ppp2p1p/3p1qp1/4p3/P5P1/3PN3/1PP1PP1P/RKRQN1BB w CAca -
+perft1 28
+perft2 715
+perft3 20361
+perft4 555328
+perft5 16303092
+
+name 928
+position fen bbrkrnqn/1p1ppppp/8/8/p2pP3/PP6/2P2PPP/BBRKRNQN w ECec -
+perft1 24
+perft2 757
+perft3 19067
+perft4 603231
+perft5 15957628
+
+name 929
+position fen brkbrnqn/ppp2p2/4p3/P2p2pp/6P1/5P2/1PPPP2P/BRKBRNQN w EBeb -
+perft1 25
+perft2 548
+perft3 14563
+perft4 348259
+perft5 9688526
+
+name 930
+position fen brkr1bqn/1pppppp1/3n3p/1p6/P7/4P1P1/1PPP1P1P/BRKRN1QN w DBdb -
+perft1 19
+perft2 359
+perft3 7430
+perft4 157099
+perft5 3521652
+
+name 931
+position fen brkr1qnb/pppp2pp/2B1p3/5p2/2n5/6PP/PPPPPPN1/BRKR1QN1 w DBdb -
+perft1 27
+perft2 854
+perft3 23303
+perft4 741626
+perft5 20558538
+
+name 932
+position fen rbbkrnqn/p1p1p1pp/8/1p1p4/1P1Pp3/6N1/P1P2PPP/RBBKRNQ1 w EAea -
+perft1 28
+perft2 723
+perft3 19844
+perft4 514440
+perft5 14621108
+
+name 933
+position fen rkbbrn1n/pppppp2/5q1p/6p1/3P3P/4P3/PPP2PP1/RKBBRNQN w EAea -
+perft1 25
+perft2 741
+perft3 19224
+perft4 585198
+perft5 15605840
+
+name 934
+position fen rkbr1bq1/ppnppppp/6n1/2p5/2P1N2P/8/PP1PPPP1/RKBRNBQ1 w DAda -
+perft1 24
+perft2 547
+perft3 14359
+perft4 339497
+perft5 9410221
+
+name 935
+position fen 1kbrnqnb/r1ppppp1/8/pp5p/8/1P1NP3/P1PP1PPP/RKB1RQNB w Ad -
+perft1 26
+perft2 618
+perft3 17305
+perft4 442643
+perft5 13112297
+
+name 936
+position fen rbkrb1qn/1pp1ppp1/3pn2p/pP6/8/4N1P1/P1PPPP1P/RBKRB1QN w DAda -
+perft1 21
+perft2 544
+perft3 12492
+perft4 338832
+perft5 8381483
+
+name 937
+position fen rkrbbnqn/ppppp3/5p2/6pp/5PBP/4P3/PPPP2P1/RKR1BNQN w CAca -
+perft1 30
+perft2 891
+perft3 25435
+perft4 764356
+perft5 21894752
+
+name 938
+position fen rkr1bb1n/ppppp1pp/5p2/4n3/3QP3/5P2/RPPP2PP/1KRNBB1N w Cca -
+perft1 45
+perft2 1172
+perft3 51766
+perft4 1332060
+perft5 57856784
+
+name 939
+position fen rkr1bqnb/pp1ppppp/8/2pN4/1P6/5N2/P1PPnPPP/RKR1BQ1B w CAca -
+perft1 28
+perft2 730
+perft3 20511
+perft4 559167
+perft5 16323242
+
+name 940
+position fen rbkrnqb1/2ppppp1/p5np/1p6/8/3N4/PPPPPPPP/RBKRQNB1 w DAda -
+perft1 20
+perft2 417
+perft3 9159
+perft4 217390
+perft5 5180716
+
+name 941
+position fen rkrbnqb1/p1pppnpp/5p2/1p6/2P5/1P1P1N2/P3PPPP/RKRB1QBN w CAca -
+perft1 25
+perft2 546
+perft3 14039
+perft4 330316
+perft5 8813781
+
+name 942
+position fen rkr1qbbn/ppppppp1/4n3/7p/8/P7/KPPPPPPP/R1RNQBBN w ca -
+perft1 22
+perft2 484
+perft3 11458
+perft4 267495
+perft5 6633319
+
+name 943
+position fen rkrnqnb1/1ppppp2/p5p1/7p/8/P1bPP3/1PP1QPPP/RKRN1NBB w CAca -
+perft1 22
+perft2 636
+perft3 15526
+perft4 441001
+perft5 11614241
+
+name 944
+position fen b2krn1q/p1rppppp/1Q3n2/2p1b3/1P4P1/8/P1PPPP1P/BBRKRNN1 w ECe -
+perft1 36
+perft2 1192
+perft3 42945
+perft4 1406795
+perft5 50382104
+
+name 945
+position fen brkbrnn1/pp1pppp1/7q/2p5/6Pp/4P1NP/PPPP1P2/BRKBR1NQ w EBeb -
+perft1 30
+perft2 978
+perft3 29593
+perft4 942398
+perft5 29205057
+
+name 946
+position fen brkrnb1q/pp1p1ppp/2p1p3/5n2/1P6/5N1N/P1PPPPPP/BRKR1B1Q w DBdb -
+perft1 31
+perft2 897
+perft3 27830
+perft4 810187
+perft5 25423729
+
+name 947
+position fen brkr1nqb/pp1p1pp1/2pn3p/P3p3/4P3/6P1/1PPP1P1P/BRKRNNQB w DBdb -
+perft1 19
+perft2 382
+perft3 8052
+perft4 182292
+perft5 4232274
+
+name 948
+position fen r1bkrn1q/ppbppppp/5n2/2p5/3P4/P6N/1PP1PPPP/RBBKRNQ1 w EAea -
+perft1 27
+perft2 822
+perft3 22551
+perft4 678880
+perft5 19115128
+
+name 949
+position fen rkbbrnnq/pp2pppp/8/2pp4/P1P5/1P3P2/3PP1PP/RKBBRNNQ w EAea -
+perft1 23
+perft2 643
+perft3 15410
+perft4 442070
+perft5 11170489
+
+name 950
+position fen rkbr1b1q/p1pppppp/1p1n4/7n/5QP1/3N4/PPPPPP1P/RKBR1BN1 w DAda -
+perft1 37
+perft2 943
+perft3 34382
+perft4 880474
+perft5 31568111
+
+name 951
+position fen rkbr1nqb/pppp2np/8/4ppp1/1P6/6N1/P1PPPPPP/RKBRN1QB w DAda -
+perft1 23
+perft2 574
+perft3 13260
+perft4 362306
+perft5 9020291
+
+name 952
+position fen rbkr1nnq/p1p1pp1p/1p4p1/3p4/b3P3/4N3/PPPPNPPP/RBKRB1Q1 w DAda -
+perft1 26
+perft2 900
+perft3 23414
+perft4 805006
+perft5 21653203
+
+name 953
+position fen rkrbb1nq/p2pppp1/1p4n1/2p4p/3N4/4P1P1/PPPP1P1P/RKRBBN1Q w CAca -
+perft1 32
+perft2 697
+perft3 22231
+perft4 531121
+perft5 17150175
+
+name 954
+position fen rkrnbb1q/pp2pp1p/6pn/2pp4/2B1P2P/8/PPPP1PP1/RKRNB1NQ w CAca -
+perft1 28
+perft2 854
+perft3 23853
+perft4 755990
+perft5 21823412
+
+name 955
+position fen rk2bnqb/pprpppp1/4n2p/2p5/P7/3P2NP/1PP1PPP1/RKRNB1QB w CAa -
+perft1 26
+perft2 596
+perft3 16251
+perft4 414862
+perft5 11758184
+
+name 956
+position fen r1krnnbq/pp1ppp1p/6p1/2p5/2P5/P3P3/Rb1P1PPP/1BKRNNBQ w Dda -
+perft1 2
+perft2 61
+perft3 1312
+perft4 40072
+perft5 937188
+
+name 957
+position fen 1krbnnbq/1pp1p1pp/r7/p2p1p2/3PP3/2P3P1/PP3P1P/RKRBNNBQ w CAc -
+perft1 30
+perft2 953
+perft3 28033
+perft4 860530
+perft5 25531358
+
+name 958
+position fen rkr1nbbq/2ppp1pp/1pn5/p4p2/P6P/3P4/1PP1PPPB/RKRNNB1Q w CAca -
+perft1 24
+perft2 645
+perft3 15689
+perft4 446423
+perft5 11484012
+
+name 959
+position fen rkrnnqbb/p1ppp2p/Qp6/4Pp2/5p2/8/PPPP2PP/RKRNN1BB w CAca -
+perft1 35
+perft2 929
+perft3 32020
+perft4 896130
+perft5 31272517
+
+name 960
+position fen bbq1nr1r/pppppk1p/2n2p2/6p1/P4P2/4P1P1/1PPP3P/BBQNNRKR w HF -
+perft1 23
+perft2 589
+perft3 14744
+perft4 387556
+perft5 10316716
+

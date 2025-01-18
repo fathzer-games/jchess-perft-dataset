@@ -4,18 +4,33 @@
 # jchess-perft-dataset
 A chess [Perft](https://www.chessprogramming.org/Perft) DataSet
 
-This artifact only contains the **/Perft.txt** resource file.
+This artifact contains standard chess and [chess960](https://en.wikipedia.org/wiki/Chess960) perft resource file in two formats:
+- [EPD (Extended Position Description) format](https://www.chessprogramming.org/Extended_Position_Description)
+- The format expected by ```com.fathzer.games.perft.PerftParser``` in [com.fathzer:games-core](https://github.com/fathzer-games/games-core).
 
-This file is also available [here](https://fathzer-games.github.io/jchess-perft-dataset/Perft.txt).
+These files are also available [here](https://github.com/fathzer-games/jchess-perft-dataset/tree/main/src/main/resources).
 
-It was compiled by the author of [this video on perft method](https://www.youtube.com/watch?v=HGpH28hCw7E&t=2s).
+The standard chess data set was compiled by the author of [this video on perft method](https://www.youtube.com/watch?v=HGpH28hCw7E&t=2s).
+The chess960 data set is a copy of [this page](https://www.chessprogramming.org/Chess960_Perft_Results).
 
 
-This file can be parsed by a Java program using the PerfTParser of [com.fathzer:games-core library](https://github.com/fathzer-games/games-core).  
+## How to parse EPD files
+
+Here is an example using the EPDParser class included in this library.
+```java
+try (InputStream stream = getClass().getResourceAsStream("/com/fathzer/jchess/perft/Perft.txt")) {
+	List<PerfTTestData> tests = new EPDParser().read(stream, StandardCharsets.UTF_8);
+}
+```
+Please note that the PerfTTestData class is from [com.fathzer:games-core library](https://github.com/fathzer-games/games-core). As the maven dependency to games-core is optional, you have to add the games-core artifact in your pom.xml.
+
+## How to parse [com.fathzer:games-core library](https://github.com/fathzer-games/games-core) files
+
+These files can be parsed by a Java program using the PerfTParser of [com.fathzer:games-core library](https://github.com/fathzer-games/games-core).  
 For instance, the following will return a list of PerfT test with start position in [FEN format](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation).
 ```java
-try (InputStream stream = getClass().getResourceAsStream("/Perft.txt")) {
-	return new PerfTParser().withStartPositionPrefix("position fen").withStartPositionCustomizer(s -> s+" 0 1").read(stream, StandardCharsets.UTF_8);
+try (InputStream stream = getClass().getResourceAsStream("/com/fathzer/jchess/perft/Perft.txt")) {
+	List<PerfTTestData> tests = new PerfTParser().withStartPositionPrefix("position fen").withStartPositionCustomizer(s -> s+" 0 1").read(stream, StandardCharsets.UTF_8);
 }
 ```
 
