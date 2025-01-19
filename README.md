@@ -19,7 +19,7 @@ The chess960 data set is a copy of [this page](https://www.chessprogramming.org/
 
 Here is an example using the EPDParser class included in this library.
 ```java
-try (InputStream stream = getClass().getResourceAsStream("/com/fathzer/jchess/perft/Perft.txt")) {
+try (InputStream stream = getClass().getResourceAsStream("/com/fathzer/jchess/perft/Perft.epd")) {
 	List<PerfTTestData> tests = new EPDParser().read(stream, StandardCharsets.UTF_8);
 }
 ```
