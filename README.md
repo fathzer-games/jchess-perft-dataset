@@ -15,7 +15,7 @@ The standard chess data set was compiled by the author of [this video on perft m
 The chess960 data set is a copy of [this page](https://www.chessprogramming.org/Chess960_Perft_Results).
 
 
-## How to parse EPD files
+## How to parse `.epd` files
 
 Here is an example using the EPDParser class included in this library.
 ```java
@@ -25,7 +25,7 @@ try (InputStream stream = getClass().getResourceAsStream("/com/fathzer/jchess/pe
 ```
 Please note that the PerfTTestData class is from [com.fathzer:games-core library](https://github.com/fathzer-games/games-core). As the maven dependency to this library is optional, you have to add the games-core artifact in your pom.xml in order to run this example.
 
-## How to parse [com.fathzer:games-core library](https://github.com/fathzer-games/games-core) files
+## How to parse `.txt` files
 
 These files can be parsed by a Java program using the PerfTParser of [com.fathzer:games-core library](https://github.com/fathzer-games/games-core).  
 For instance, the following will return a list of PerfT test with start position in [FEN format](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation).
